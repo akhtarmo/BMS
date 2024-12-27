@@ -1,0 +1,166 @@
+
+<Layout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.layout.Layout"
+	RuntimeDocumentID="00155D27-0470-A1EE-80E5-4297D01A18FF">
+	<DocumentID>00155D27-0470-A1EE-80E5-4297D019D8FF</DocumentID>
+	<Name>lytProjectDashboard</Name>
+	<Description>lytProjectDashboard</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-05T11:37:12.208</CreationDate>
+	<Notes/>
+	<Definition>{&quot;layoutType&quot;:&quot;object&quot;,&quot;id&quot;:&quot;00155D27-0470-A1EE-80E5-4297D019D8FF&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;9981d724947a776984d228889ca6d457&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;tabs&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;26ea4cabcb428161ebf92133d12d08ec&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;4a8c8715800d2f59cdc64ac479350911&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;cef704269a83ea263062b967e271ffc8&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;c60388eee77fcd2b3aa7a891e2d03f5a&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;5cd76674abc918549aae4ad1a1e8ad49&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>false</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>true</IsFullLayout>
+	<IsPreviewLayout>true</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>0</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations/>
+	<BuildingBlock>
+		<uri
+			id="00155D27-0422-A1EA-BDC7-97E8BBE3567F"
+		/>
+	</BuildingBlock>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00155D27-0470-A1EE-80E5-4297D01398FF">
+			<DocumentID>00155D27-0470-A1EE-80E5-4297D01358FF</DocumentID>
+			<Name>00155D27-0470-A1EE-80E5-4297D01358FF</Name>
+			<Description>00155D27-0470-A1EE-80E5-4297D01358FF</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-05T11:42:38.133</CreationDate>
+			<Notes/>
+			<DeveloperText>Project Dashboard</DeveloperText>
+			<Identifier>
+				<uri
+					id="00155D27-0470-A1EE-80E5-4297D013D8FF"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations>
+		<LayoutAssociation
+			type="com.cordys.entity.buildingblocks.layout.LayoutAssociation"
+			RuntimeDocumentID="00155D27-0470-A1EE-80E5-4297D01098FF">
+			<DocumentID>00155D27-0470-A1EE-80E5-4297D01058FF</DocumentID>
+			<Name>Layout_SelectedLayout</Name>
+			<Description>lytUpdateProjects</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-05T11:42:38.134</CreationDate>
+			<Notes/>
+			<DisplayName>lytUpdateProjects</DisplayName>
+			<ModelerId>779564b6bc7633ac71e59cb390f73578</ModelerId>
+			<Layout>
+				<uri
+					id="00155D27-0422-A1EA-BF00-576B1627967F"
+				/>
+			</Layout>
+		</LayoutAssociation>
+	</LayoutAssociations>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1EE-80E5-4297D01998FF">
+			<DocumentID>00155D27-0470-A1EE-80E5-4297D01958FF</DocumentID>
+			<Name>WebContent</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-05T11:37:12.208</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;AD4D660886F04AEE96C81E4C693F3C16&quot;,&quot;sourceName&quot;:&quot;WebContent&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;c60388eee77fcd2b3aa7a891e2d03f5a&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;url&quot;,&quot;value&quot;:&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/home/system/com/qfproj/projectdashboard.html&quot;}]}</Definition>
+			<DisplayName>Project Dashboard</DisplayName>
+			<ModelerId>c60388eee77fcd2b3aa7a891e2d03f5a</ModelerId>
+			<SourceId>AD4D660886F04AEE96C81E4C693F3C16</SourceId>
+			<SourceName>WebContent</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1EE-80E5-9C70515198FF">
+					<DocumentID>00155D27-0470-A1EE-80E5-9C70515158FF</DocumentID>
+					<Name>00155D27-0470-A1EE-80E5-9C70515158FF</Name>
+					<Description>00155D27-0470-A1EE-80E5-9C70515158FF</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2023-06-05T11:49:50.977</CreationDate>
+					<Notes/>
+					<DeveloperText>Project Dashboard</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1EE-80E5-4297D013D8FF"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1EE-80E5-4297D01598FF">
+			<DocumentID>00155D27-0470-A1EE-80E5-4297D01558FF</DocumentID>
+			<Name>Layout</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-05T11:42:38.133</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;E2BB53FFB16D4060818D63B07CA0E8E4&quot;,&quot;sourceName&quot;:&quot;Layout&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;4a8c8715800d2f59cdc64ac479350911&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;layoutId&quot;,&quot;value&quot;:&quot;00155D270422A1EABF00576B1627967F&quot;},{&quot;name&quot;:&quot;layoutContainerVersionId&quot;,&quot;value&quot;:null}]}</Definition>
+			<DisplayName>Project Details</DisplayName>
+			<ModelerId>4a8c8715800d2f59cdc64ac479350911</ModelerId>
+			<SourceId>E2BB53FFB16D4060818D63B07CA0E8E4</SourceId>
+			<SourceName>Layout</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation>
+				<uri
+					id="00155D27-0470-A1EE-80E5-4297D01058FF"
+				/>
+			</LayoutAssociation>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1EE-80E5-9C70514E58FF">
+					<DocumentID>00155D27-0470-A1EE-80E5-9C70514E18FF</DocumentID>
+					<Name>00155D27-0470-A1EE-80E5-9C70514E18FF</Name>
+					<Description>00155D27-0470-A1EE-80E5-9C70514E18FF</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2023-06-05T11:52:05.026</CreationDate>
+					<Notes/>
+					<DeveloperText>Project Details</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1ED-BE4E-605614CFD8FF"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<WorklistAssociations/>
+	<XFormAssociations/>
+</Layout>

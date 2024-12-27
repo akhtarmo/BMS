@@ -1,0 +1,100 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="00155D27-0422-A1EA-AA60-6A324610D65A">
+	<DocumentID>00155D27-0422-A1EA-AA60-6A324610965A</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-06-08T12:20:07.613</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="00155D27-0470-A1EE-9F4A-4447ECC6D933">
+			<DocumentID>00155D27-0470-A1EE-9F4A-4447ECC69933</DocumentID>
+			<Name>CreateSupplierDB</Name>
+			<Description>Create SupplierDB</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-11-07T05:56:57.32</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00155D27-0422-A1EA-A385-1668FC679650"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="00155D27-0422-A1EA-A385-1668FC679650"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="00155D27-0422-A1EA-AA60-6A324610165A">
+			<DocumentID>00155D27-0422-A1EA-AA60-6A32460FD65A</DocumentID>
+			<Name>ReadSupplierDB</Name>
+			<Description>Read SupplierDB</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-06-08T12:20:07.613</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00155D27-0422-A1EA-A385-1668FC679650"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="00155D27-0470-A1EE-9F4A-4447ECC65933">
+			<DocumentID>00155D27-0470-A1EE-9F4A-4447ECC61933</DocumentID>
+			<Name>SetCountry</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-11-07T05:56:57.32</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="00155D27-0422-A1EA-A385-1668FC679650"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="00155D27-0470-A1EE-9F2A-71BD6EF3D933"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="00155D27-0470-A1EE-9F4A-4447ECC5D933">
+			<DocumentID>00155D27-0470-A1EE-9F4A-4447ECC59933</DocumentID>
+			<Name>SetLegalEntityType</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-11-07T05:56:57.32</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="00155D27-0422-A1EA-A385-1668FC679650"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="00155D27-0470-A1EE-9E57-8A0F07795933"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

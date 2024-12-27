@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BFFC-F8268D765680">
+	<DocumentID>00155D27-0422-A1EA-BFFC-F8268D761680</DocumentID>
+	<Name>00155D27-0422-A1EA-BFFC-F8268D761680</Name>
+	<Description>AmendBD</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T12:29:27.081</CreationDate>
+	<Notes/>
+	<DefaultText>AmendBD</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BFFC-F8268D769680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805C-A39592335680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8093-EF6535139680"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC72-9C3CE6AFD67E">
+	<DocumentID>00155D27-0422-A1EA-BC72-9C3CE6AF967E</DocumentID>
+	<Name>00155D27-0422-A1EA-BC72-9C3CE6AF967E</Name>
+	<Description>Account Manager</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T11:59:01.91</CreationDate>
+	<Notes/>
+	<Text>Account Manager</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C736967E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BC72-9C3CE6AF167E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

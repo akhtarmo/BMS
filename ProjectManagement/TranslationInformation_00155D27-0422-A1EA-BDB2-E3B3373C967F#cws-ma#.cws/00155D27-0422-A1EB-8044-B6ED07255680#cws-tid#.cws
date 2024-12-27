@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-8044-B6ED07259680">
+	<DocumentID>00155D27-0422-A1EB-8044-B6ED07255680</DocumentID>
+	<Name>00155D27-0422-A1EB-8044-B6ED07255680</Name>
+	<Description>Project Logo</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-27T22:47:02.679</CreationDate>
+	<Notes/>
+	<DefaultText>Project Logo</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-8044-B6ED0725D680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805D-B525CFD99680"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805E-2B363D359680">
+	<DocumentID>00155D27-0422-A1EB-805E-2B363D355680</DocumentID>
+	<Name>00155D27-0422-A1EB-805E-2B363D355680</Name>
+	<Description>إجمالي الرصيد</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T10:59:26.027</CreationDate>
+	<Notes/>
+	<Text>إجمالي الرصيد</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BE11-BEAB905C567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

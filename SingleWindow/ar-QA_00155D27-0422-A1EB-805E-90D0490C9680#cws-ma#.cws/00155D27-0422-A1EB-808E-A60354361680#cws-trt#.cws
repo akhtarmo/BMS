@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-808E-A60354365680">
+	<DocumentID>00155D27-0422-A1EB-808E-A60354361680</DocumentID>
+	<Name>00155D27-0422-A1EB-808E-A60354361680</Name>
+	<Description>واجهة مدير الميزانية التنفيذي</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T11:58:25.725</CreationDate>
+	<Notes/>
+	<Text>واجهة مدير الميزانية التنفيذي </Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805E-90D0490D1680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-802B-4AE59AAF1680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

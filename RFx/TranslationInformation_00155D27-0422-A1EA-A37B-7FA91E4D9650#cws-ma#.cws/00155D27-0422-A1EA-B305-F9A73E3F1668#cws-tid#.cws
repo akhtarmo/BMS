@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-B305-F9A73E3F5668">
+	<DocumentID>00155D27-0422-A1EA-B305-F9A73E3F1668</DocumentID>
+	<Name>00155D27-0422-A1EA-B305-F9A73E3F1668</Name>
+	<Description>Event To Currency</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-07-22T12:40:21.32</CreationDate>
+	<Notes/>
+	<DefaultText>Event To Currency</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-B305-F9A73E3F9668"
+		/>
+	</Translations>
+</TextIdentifier>

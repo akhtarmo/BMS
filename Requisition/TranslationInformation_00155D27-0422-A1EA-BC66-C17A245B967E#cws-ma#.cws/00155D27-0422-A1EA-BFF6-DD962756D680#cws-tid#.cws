@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BFF6-DD9627571680">
+	<DocumentID>00155D27-0422-A1EA-BFF6-DD962756D680</DocumentID>
+	<Name>00155D27-0422-A1EA-BFF6-DD962756D680</Name>
+	<Description>Department Manager Approval</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T10:02:32.382</CreationDate>
+	<Notes/>
+	<DefaultText>Department Manager Approval</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BFF6-DD9627575680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8060-B09762FED680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8060-DD63DF219680"
+		/>
+	</Translations>
+</TextIdentifier>

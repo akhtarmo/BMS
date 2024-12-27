@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BEE2-AECE31E2167F">
+	<DocumentID>00155D27-0422-A1EA-BEE2-AECE31E1D67F</DocumentID>
+	<Name>00155D27-0422-A1EA-BEE2-AECE31E1D67F</Name>
+	<Description>Department Approval</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-20T21:49:08.179</CreationDate>
+	<Notes/>
+	<DefaultText>Department Approval</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BEE2-AECE31E2567F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-80E9-589EADC81680"
+		/>
+	</Translations>
+</TextIdentifier>

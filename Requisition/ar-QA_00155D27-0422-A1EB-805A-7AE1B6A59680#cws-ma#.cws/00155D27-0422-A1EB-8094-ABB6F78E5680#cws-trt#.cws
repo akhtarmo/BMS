@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8094-ABB6F78E9680">
+	<DocumentID>00155D27-0422-A1EB-8094-ABB6F78E5680</DocumentID>
+	<Name>00155D27-0422-A1EB-8094-ABB6F78E5680</Name>
+	<Description>قائمة مهام الطلب</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T12:59:43.112</CreationDate>
+	<Notes/>
+	<Text>قائمة مهام الطلب</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF62-C6E7BD421680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

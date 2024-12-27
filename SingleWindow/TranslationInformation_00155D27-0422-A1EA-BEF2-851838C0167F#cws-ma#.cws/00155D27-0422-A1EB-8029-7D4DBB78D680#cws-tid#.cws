@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-8029-7D4DBB791680">
+	<DocumentID>00155D27-0422-A1EB-8029-7D4DBB78D680</DocumentID>
+	<Name>00155D27-0422-A1EB-8029-7D4DBB78D680</Name>
+	<Description>SJC Home</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-27T09:44:12.213</CreationDate>
+	<Notes/>
+	<DefaultText>SJC Home</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BEF2-851838C0967F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-8029-2F9F42901680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805F-17439272D680"
+		/>
+	</Translations>
+</TextIdentifier>

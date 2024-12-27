@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8150-3FA521245680">
+	<DocumentID>00155D27-0422-A1EB-8150-3FA521241680</DocumentID>
+	<Name>00155D27-0422-A1EB-8150-3FA521241680</Name>
+	<Description>Suspended</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-03T06:25:18.62</CreationDate>
+	<Notes/>
+	<Text>Suspended</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-80C0-3B255FBB5680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8150-3FA521239680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

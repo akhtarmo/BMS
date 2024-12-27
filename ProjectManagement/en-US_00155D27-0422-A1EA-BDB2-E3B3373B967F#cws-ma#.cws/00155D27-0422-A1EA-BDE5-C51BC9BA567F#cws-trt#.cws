@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDE5-C51BC9BA967F">
+	<DocumentID>00155D27-0422-A1EA-BDE5-C51BC9BA567F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDE5-C51BC9BA567F</Name>
+	<Description>Rel03b01projectfinancialbreakdownto03bprojectfinancialperformance</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T21:16:23.575</CreationDate>
+	<Notes/>
+	<Text>Rel03b01projectfinancialbreakdownto03bprojectfinancialperformance</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE5-C51BC9B9D67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

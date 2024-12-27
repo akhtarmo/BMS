@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-8463-EFE7E6E798FF">
+	<DocumentID>00155D27-0470-A1EE-8463-EFE7E6E758FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8463-EFE7E6E758FF</Name>
+	<Description>AGENDA</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-23T06:37:53.262</CreationDate>
+	<Notes/>
+	<Text>AGENDA</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-8461-B9ACB34098FF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-8463-EFE7E6E6D8FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

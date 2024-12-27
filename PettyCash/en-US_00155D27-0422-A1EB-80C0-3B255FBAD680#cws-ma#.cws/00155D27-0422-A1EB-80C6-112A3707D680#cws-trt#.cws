@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80C6-112A37081680">
+	<DocumentID>00155D27-0422-A1EB-80C6-112A3707D680</DocumentID>
+	<Name>00155D27-0422-A1EB-80C6-112A3707D680</Name>
+	<Description>Opening Balance</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T12:36:01.329</CreationDate>
+	<Notes/>
+	<Text>Opening Balance</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-80C0-3B255FBB5680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-80C6-112A37075680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

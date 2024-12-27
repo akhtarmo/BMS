@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-AA71-4ACF47B5165A">
+	<DocumentID>00155D27-0422-A1EA-AA71-4ACF47B4D65A</DocumentID>
+	<Name>00155D27-0422-A1EA-AA71-4ACF47B4D65A</Name>
+	<Description>RFX Home Page</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-06-08T20:19:50.966</CreationDate>
+	<Notes/>
+	<DefaultText>RFX Home Page</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-AA71-4ACF47B5565A"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-81A0-A32812271680">
+	<DocumentID>00155D27-0422-A1EB-81A0-A3281226D680</DocumentID>
+	<Name>00155D27-0422-A1EB-81A0-A3281226D680</Name>
+	<Description>معرف العنصر ٢</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-04T21:01:58.575</CreationDate>
+	<Notes/>
+	<Text>معرف العنصر ٢</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF01-59C75665D67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

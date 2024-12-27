@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805F-1743926A1680">
+	<DocumentID>00155D27-0422-A1EB-805F-17439269D680</DocumentID>
+	<Name>00155D27-0422-A1EB-805F-17439269D680</Name>
+	<Description>الصفحة الرئيسية لموظف الميزانية</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T11:23:42.463</CreationDate>
+	<Notes/>
+	<Text>الصفحة الرئيسية لموظف الميزانية</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805E-90D0490D1680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-802B-4AE59A9F1680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

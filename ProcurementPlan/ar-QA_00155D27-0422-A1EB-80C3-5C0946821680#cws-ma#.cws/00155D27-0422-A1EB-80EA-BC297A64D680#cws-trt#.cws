@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80EA-BC297A651680">
+	<DocumentID>00155D27-0422-A1EB-80EA-BC297A64D680</DocumentID>
+	<Name>00155D27-0422-A1EB-80EA-BC297A64D680</Name>
+	<Description>استراتيجية العطاء</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-01T05:59:15.088</CreationDate>
+	<Notes/>
+	<Text>استراتيجية العطاء</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-80C3-5C0946829680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BC70-C451E703967E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

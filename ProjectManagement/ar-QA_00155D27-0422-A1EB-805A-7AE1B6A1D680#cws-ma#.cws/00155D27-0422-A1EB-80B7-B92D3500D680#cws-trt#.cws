@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80B7-B92D35011680">
+	<DocumentID>00155D27-0422-A1EB-80B7-B92D3500D680</DocumentID>
+	<Name>00155D27-0422-A1EB-80B7-B92D3500D680</Name>
+	<Description>حالة الخطر</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T05:47:54.82</CreationDate>
+	<Notes/>
+	<Text>حالة الخطر </Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE7-13B36A7C567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

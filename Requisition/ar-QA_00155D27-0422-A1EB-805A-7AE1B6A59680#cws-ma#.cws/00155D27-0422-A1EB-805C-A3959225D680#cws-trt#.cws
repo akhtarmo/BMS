@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805C-A39592261680">
+	<DocumentID>00155D27-0422-A1EB-805C-A3959225D680</DocumentID>
+	<Name>00155D27-0422-A1EB-805C-A3959225D680</Name>
+	<Description>اضافة المهام</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T10:10:15.155</CreationDate>
+	<Notes/>
+	<Text>اضافة المهام</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BFDD-6F56F45B5680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

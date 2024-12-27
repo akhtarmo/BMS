@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDE9-661F35EFD67F">
+	<DocumentID>00155D27-0422-A1EA-BDE9-661F35EF967F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDE9-661F35EF967F</Name>
+	<Description>Declined</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T22:51:18.727</CreationDate>
+	<Notes/>
+	<Text>Declined</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE9-661F35EF167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BE11-BEAB905C967F">
+	<DocumentID>00155D27-0422-A1EA-BE11-BEAB905C567F</DocumentID>
+	<Name>00155D27-0422-A1EA-BE11-BEAB905C567F</Name>
+	<Description>Total Balance</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-16T19:25:20.75</CreationDate>
+	<Notes/>
+	<DefaultText>Total Balance</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BE11-BEAB905CD67F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805E-2B363D355680"
+		/>
+	</Translations>
+</TextIdentifier>

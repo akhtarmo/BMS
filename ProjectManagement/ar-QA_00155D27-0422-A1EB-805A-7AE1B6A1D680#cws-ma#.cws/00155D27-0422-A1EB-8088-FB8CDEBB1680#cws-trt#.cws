@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8088-FB8CDEBB5680">
+	<DocumentID>00155D27-0422-A1EB-8088-FB8CDEBB1680</DocumentID>
+	<Name>00155D27-0422-A1EB-8088-FB8CDEBB1680</Name>
+	<Description>غير مستحق</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T07:27:15.66</CreationDate>
+	<Notes/>
+	<Text>غير مستحق</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE9-ADD1CEBE567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

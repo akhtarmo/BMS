@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-8472-A788AA0E58FF">
+	<DocumentID>00155D27-0470-A1EE-8472-A788AA0E18FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8472-A788AA0E18FF</Name>
+	<Description>High</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-23T14:11:36.32</CreationDate>
+	<Notes/>
+	<Text>High</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-83D2-82EDEA0D98FF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-8472-A788AA0D98FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

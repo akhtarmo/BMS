@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BFDF-9B0AC70E5680">
+	<DocumentID>00155D27-0422-A1EA-BFDF-9B0AC70E1680</DocumentID>
+	<Name>00155D27-0422-A1EA-BFDF-9B0AC70E1680</Name>
+	<Description>Unplanned</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-25T22:55:26.09</CreationDate>
+	<Notes/>
+	<DefaultText>Unplanned</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BFDF-9B0AC70E9680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-80EB-E6F987EBD680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-80EB-E6F987EA5680"
+		/>
+	</Translations>
+</TextIdentifier>

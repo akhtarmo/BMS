@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BEF2-851838D1567F">
+	<DocumentID>00155D27-0422-A1EA-BEF2-851838D1167F</DocumentID>
+	<Name>00155D27-0422-A1EA-BEF2-851838D1167F</Name>
+	<Description>Last synchronization status</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-21T05:21:06.759</CreationDate>
+	<Notes/>
+	<Text>Last synchronization status</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C736967E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BEF2-851838D0967F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

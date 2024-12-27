@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1ED-BD51-1C4BEF1FD8FF">
+	<DocumentID>00155D27-0470-A1ED-BD51-1C4BEF1F98FF</DocumentID>
+	<Name>00155D27-0470-A1ED-BD51-1C4BEF1F98FF</Name>
+	<Description>PO Achievement End</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-05-18T07:24:52.43</CreationDate>
+	<Notes/>
+	<Text>PO Achievement End</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1ED-BD51-1C4BEF1F18FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

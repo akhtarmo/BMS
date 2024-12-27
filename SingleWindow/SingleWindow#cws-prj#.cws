@@ -1,0 +1,127 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="00155D27-0422-A1EA-BEF2-851838C2567F">
+	<DocumentID>00155D27-0422-A1EA-BEF2-851838C2167F</DocumentID>
+	<Name>SingleWindow</Name>
+	<Description>SingleWindow</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-21T07:35:56.298</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="00155D27-0422-A1EA-BEF2-851838C1567F">
+			<DocumentID>00155D27-0422-A1EA-BEF2-851838C1167F</DocumentID>
+			<Name>My Company SingleWindow</Name>
+			<Description>My Company SingleWindow</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-21T07:35:56.298</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>My Company SingleWindow 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>SingleWindow</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="00155D27-0470-A1EF-B109-60BA4FC09A37"
+			path="SingleWindow"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="00155D27-0422-A1EA-BEF2-851838C0D67F">
+			<DocumentID>00155D27-0422-A1EA-BEF2-851838C0967F</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-21T07:35:56.298</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00155D27-0422-A1EA-BEF2-851838BFD67F">
+					<DocumentID>00155D27-0422-A1EA-BEF2-851838BF967F</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-21T07:35:56.298</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="00155D27-0422-A1EA-BEF2-851838BF167F"
+							path="SingleWindow/en-US_00155D27-0422-A1EA-BEF2-851838BF167F"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00155D27-0422-A1EA-BEF2-851838C0967F"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00155D27-0422-A1EB-805E-90D0490D5680">
+					<DocumentID>00155D27-0422-A1EB-805E-90D0490D1680</DocumentID>
+					<Name>ar-QA</Name>
+					<Description>ar-QA</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-28T11:14:55.511</CreationDate>
+					<Notes/>
+					<Language>Arabic - Qatar</Language>
+					<Texts>
+						<uri
+							id="00155D27-0422-A1EB-805E-90D0490C9680"
+							path="SingleWindow/ar-QA_00155D27-0422-A1EB-805E-90D0490C9680"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00155D27-0422-A1EA-BEF2-851838C0967F"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="00155D27-0422-A1EA-BEF2-851838BF967F"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="00155D27-0422-A1EA-BEF2-851838C0167F"
+					path="SingleWindow/TranslationInformation_00155D27-0422-A1EA-BEF2-851838C0167F"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

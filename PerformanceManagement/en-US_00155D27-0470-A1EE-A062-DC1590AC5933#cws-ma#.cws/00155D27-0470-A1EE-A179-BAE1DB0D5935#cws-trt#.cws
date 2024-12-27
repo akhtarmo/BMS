@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A179-BAE1DB0D9935">
+	<DocumentID>00155D27-0470-A1EE-A179-BAE1DB0D5935</DocumentID>
+	<Name>00155D27-0470-A1EE-A179-BAE1DB0D5935</Name>
+	<Description>EPM Risks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-18T08:27:09.025</CreationDate>
+	<Notes/>
+	<Text>EPM Risks</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A179-BAE1DB0CD935"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDE8-EEA506B4D67F">
+	<DocumentID>00155D27-0422-A1EA-BDE8-EEA506B4967F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDE8-EEA506B4967F</Name>
+	<Description>Change Type</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T22:49:07.929</CreationDate>
+	<Notes/>
+	<DefaultText>Change Type</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BDE8-EEA506B5167F"
+		/>
+	</Translations>
+</TextIdentifier>

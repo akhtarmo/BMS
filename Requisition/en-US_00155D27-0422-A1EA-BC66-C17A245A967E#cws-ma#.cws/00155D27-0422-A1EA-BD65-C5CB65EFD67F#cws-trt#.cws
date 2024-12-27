@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BD65-C5CB65F0167F">
+	<DocumentID>00155D27-0422-A1EA-BD65-C5CB65EFD67F</DocumentID>
+	<Name>00155D27-0422-A1EA-BD65-C5CB65EFD67F</Name>
+	<Description>Requisition Contacts</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-13T08:00:23.704</CreationDate>
+	<Notes/>
+	<Text>Requisition Contacts</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BD65-C5CB65EF567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BF62-C6E7BD42D680">
+	<DocumentID>00155D27-0422-A1EA-BF62-C6E7BD429680</DocumentID>
+	<Name>00155D27-0422-A1EA-BF62-C6E7BD429680</Name>
+	<Description>Requisition Tasklist</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-23T12:05:36.635</CreationDate>
+	<Notes/>
+	<Text>Requisition Tasklist</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF62-C6E7BD421680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

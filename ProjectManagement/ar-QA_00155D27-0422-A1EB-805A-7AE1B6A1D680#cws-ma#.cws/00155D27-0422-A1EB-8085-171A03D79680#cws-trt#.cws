@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8085-171A03D7D680">
+	<DocumentID>00155D27-0422-A1EB-8085-171A03D79680</DocumentID>
+	<Name>00155D27-0422-A1EB-8085-171A03D79680</Name>
+	<Description>متوسط</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T05:43:47.115</CreationDate>
+	<Notes/>
+	<Text>متوسط</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE7-E34FAB37D67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

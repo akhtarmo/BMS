@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80B7-F1EFE97D9680">
+	<DocumentID>00155D27-0422-A1EB-80B7-F1EFE97D5680</DocumentID>
+	<Name>00155D27-0422-A1EB-80B7-F1EFE97D5680</Name>
+	<Description> عنوان عملية الدفع</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T05:47:54.82</CreationDate>
+	<Notes/>
+	<Text> عنوان عملية الدفع </Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE1-EB6A3431D67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

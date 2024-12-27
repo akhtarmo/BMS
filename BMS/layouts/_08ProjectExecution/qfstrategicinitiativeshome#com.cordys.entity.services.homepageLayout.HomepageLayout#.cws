@@ -1,0 +1,148 @@
+
+<HomepageLayout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.homepageLayout.HomepageLayout"
+	typeVersion="5FB698AB-8095-4249-8CC7-B4058DDA5D41"
+	RuntimeDocumentID="00155D27-0470-A1ED-BDF7-3183E3D658FF">
+	<DocumentID>00155D27-0470-A1ED-BDF7-3183E3D618FF</DocumentID>
+	<Name>qfstrategicinitiativeshome</Name>
+	<Description>qfstrategicinitiativeshome</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-05-21T13:52:43.125</CreationDate>
+	<Notes/>
+	<AllowUpdateSecurityViaAdmin>false</AllowUpdateSecurityViaAdmin>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00155D27-0470-A1ED-BDF7-3183E3D618FF&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:17,&quot;id&quot;:&quot;566762a50431a4a45dfea43cc6b5c61f&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;1d08b56ba0ab62c4aa68ca6e230e16b1&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;aed866fcb3385ada27723128a03306e2&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;d1bb9dfda12231fbb1aac2088b7c9ca7&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:83,&quot;id&quot;:&quot;80bb1f69381e522929198f173d14c17d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;db20f9fd93755e5b2441b9be4ca336dc&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;62415a4bb84e0dedb85dd81ed9302a39&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;0e2598ae8afcb9683d1ff1fa0b3b81e4&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>true</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>false</IsFullLayout>
+	<IsPreviewLayout>false</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>1</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations/>
+	<BuildingBlock/>
+	<CustomActions/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00155D27-0470-A1ED-BDF7-3183E3D3D8FF">
+			<DocumentID>00155D27-0470-A1ED-BDF7-3183E3D398FF</DocumentID>
+			<Name>00155D27-0470-A1ED-BDF7-3183E3D398FF</Name>
+			<Description>00155D27-0470-A1ED-BDF7-3183E3D398FF</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-05-21T13:52:43.126</CreationDate>
+			<Notes/>
+			<DeveloperText>QF Strategic Initiatives Home</DeveloperText>
+			<Identifier>
+				<uri
+					id="00155D27-0470-A1ED-BDF7-3183E3D418FF"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1ED-BDF7-3183E3D358FF">
+			<DocumentID>00155D27-0470-A1ED-BDF7-3183E3D318FF</DocumentID>
+			<Name>WebContent</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-05-21T13:52:43.126</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;AD4D660886F04AEE96C81E4C693F3C16&quot;,&quot;sourceName&quot;:&quot;WebContent&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;aed866fcb3385ada27723128a03306e2&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;url&quot;,&quot;value&quot;:&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/home/system/com/qfproj/menu.html&quot;}]}</Definition>
+			<DisplayName>Web Content</DisplayName>
+			<ModelerId>aed866fcb3385ada27723128a03306e2</ModelerId>
+			<SourceId>AD4D660886F04AEE96C81E4C693F3C16</SourceId>
+			<SourceName>WebContent</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1ED-BDF7-3183E3D2D8FF">
+			<DocumentID>00155D27-0470-A1ED-BDF7-3183E3D298FF</DocumentID>
+			<Name>Results</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-05-21T13:52:43.126</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;62415a4bb84e0dedb85dd81ed9302a39&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Strategic Initiatives List</DisplayName>
+			<ModelerId>62415a4bb84e0dedb85dd81ed9302a39</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1ED-BDF7-3183E3D118FF">
+					<DocumentID>00155D27-0470-A1ED-BDF7-3183E3D0D8FF</DocumentID>
+					<Name>00155D27-0470-A1ED-BDF7-3183E3D0D8FF</Name>
+					<Description>00155D27-0470-A1ED-BDF7-3183E3D0D8FF</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2023-05-21T13:52:43.126</CreationDate>
+					<Notes/>
+					<DeveloperText>Strategic Initiatives List</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1ED-BDF7-3183E3D158FF"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0470-A1ED-BDF7-3183E3CC98FF"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<SecurityDescriptor/>
+	<WorklistAssociations>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0470-A1ED-BDF7-3183E3CCD8FF">
+			<DocumentID>00155D27-0470-A1ED-BDF7-3183E3CC98FF</DocumentID>
+			<Name>Results_SelectedWorklist</Name>
+			<Description>Strategic Initiatives</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-05-21T13:53:39.132</CreationDate>
+			<Notes/>
+			<DisplayName>Strategic Initiatives</DisplayName>
+			<ModelerId>28500a1368bf95726824bbfcd9bec708</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0470-A1ED-BD3B-383D4C8718FF"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+	</WorklistAssociations>
+	<XFormAssociations/>
+</HomepageLayout>

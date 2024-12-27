@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A064-F5DC66611933">
+	<DocumentID>00155D27-0470-A1EE-A064-F5DC6660D933</DocumentID>
+	<Name>00155D27-0470-A1EE-A064-F5DC6660D933</Name>
+	<Description>Strategies</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-12T19:49:57.332</CreationDate>
+	<Notes/>
+	<Text>Strategies</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A064-F5DC66605933"
+		/>
+	</TextIdentifier>
+</TranslatedText>

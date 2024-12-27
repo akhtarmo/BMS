@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A12A-A2CD7F235935">
+	<DocumentID>00155D27-0470-A1EE-A12A-A2CD7F231935</DocumentID>
+	<Name>00155D27-0470-A1EE-A12A-A2CD7F231935</Name>
+	<Description>Organization</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-16T18:05:56.855</CreationDate>
+	<Notes/>
+	<Text>Organization</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A12A-A2CD7F229935"
+		/>
+	</TextIdentifier>
+</TranslatedText>

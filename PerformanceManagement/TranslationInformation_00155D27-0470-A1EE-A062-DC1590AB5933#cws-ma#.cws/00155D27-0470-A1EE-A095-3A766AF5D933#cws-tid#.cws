@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-A095-3A766AF61933">
+	<DocumentID>00155D27-0470-A1EE-A095-3A766AF5D933</DocumentID>
+	<Name>00155D27-0470-A1EE-A095-3A766AF5D933</Name>
+	<Description>Mitigation End Date</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-13T18:49:23.436</CreationDate>
+	<Notes/>
+	<DefaultText>Mitigation End Date</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590AAD933"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-A095-3A766AF65933"
+		/>
+	</Translations>
+</TextIdentifier>

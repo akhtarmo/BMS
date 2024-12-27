@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-800F-304885BC1680">
+	<DocumentID>00155D27-0422-A1EB-800F-304885BBD680</DocumentID>
+	<Name>00155D27-0422-A1EB-800F-304885BBD680</Name>
+	<Description>Budget Clerk Tasks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T21:15:45.819</CreationDate>
+	<Notes/>
+	<Text>Budget Clerk Tasks</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-800F-304885BB5680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

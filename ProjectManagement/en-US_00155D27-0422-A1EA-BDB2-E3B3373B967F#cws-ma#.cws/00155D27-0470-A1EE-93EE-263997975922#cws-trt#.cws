@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-93EE-263997979922">
+	<DocumentID>00155D27-0470-A1EE-93EE-263997975922</DocumentID>
+	<Name>00155D27-0470-A1EE-93EE-263997975922</Name>
+	<Description>eMail</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-09-10T09:01:47.305</CreationDate>
+	<Notes/>
+	<Text>eMail</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-93EE-26399796D922"
+		/>
+	</TextIdentifier>
+</TranslatedText>

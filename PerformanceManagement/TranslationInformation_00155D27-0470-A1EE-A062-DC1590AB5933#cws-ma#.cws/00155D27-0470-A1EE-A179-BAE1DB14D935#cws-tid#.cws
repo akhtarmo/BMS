@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-A179-BAE1DB151935">
+	<DocumentID>00155D27-0470-A1EE-A179-BAE1DB14D935</DocumentID>
+	<Name>00155D27-0470-A1EE-A179-BAE1DB14D935</Name>
+	<Description>EPM Quality Standards</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-18T07:54:37.773</CreationDate>
+	<Notes/>
+	<DefaultText>EPM Quality Standards</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590AAD933"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-A179-BAE1DB155935"
+		/>
+	</Translations>
+</TextIdentifier>

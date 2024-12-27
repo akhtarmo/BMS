@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A24F-E6E739301935">
+	<DocumentID>00155D27-0470-A1EE-A24F-E6E7392FD935</DocumentID>
+	<Name>00155D27-0470-A1EE-A24F-E6E7392FD935</Name>
+	<Description>Severe</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-22T14:02:32.461</CreationDate>
+	<Notes/>
+	<Text>Severe</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A24F-E6E7392F5935"
+		/>
+	</TextIdentifier>
+</TranslatedText>

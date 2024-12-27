@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BFFC-F8268D70D680">
+	<DocumentID>00155D27-0422-A1EA-BFFC-F8268D709680</DocumentID>
+	<Name>00155D27-0422-A1EA-BFFC-F8268D709680</Name>
+	<Description>AmendDM</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T12:29:27.081</CreationDate>
+	<Notes/>
+	<Text>AmendDM</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BFFC-F8268D701680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

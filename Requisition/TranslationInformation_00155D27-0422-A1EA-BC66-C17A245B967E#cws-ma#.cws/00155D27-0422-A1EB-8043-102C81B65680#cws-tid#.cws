@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-8043-102C81B69680">
+	<DocumentID>00155D27-0422-A1EB-8043-102C81B65680</DocumentID>
+	<Name>00155D27-0422-A1EB-8043-102C81B65680</Name>
+	<Description>End Date cannot be before the Start Date</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-27T21:59:47.904</CreationDate>
+	<Notes/>
+	<DefaultText>End Date cannot be before the Start Date</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-8043-102C81B6D680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8061-04397EE6D680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8061-04397EE55680"
+		/>
+	</Translations>
+</TextIdentifier>

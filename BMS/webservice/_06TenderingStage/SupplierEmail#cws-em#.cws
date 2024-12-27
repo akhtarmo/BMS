@@ -1,0 +1,155 @@
+
+<EmailModel
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.notification.email.EmailModel"
+	typeVersion="005056C0-0008-71DF-975A-1C5CB52787A7"
+	RuntimeDocumentID="00155D27-0422-A1EA-AA64-81977F11165A">
+	<DocumentID>00155D27-0422-A1EA-AA64-81977F10D65A</DocumentID>
+	<Name>SupplierEmail</Name>
+	<Description>SupplierEmail</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-06-08T14:30:22.691</CreationDate>
+	<Notes/>
+	<EmailModelWSDL/>
+	<Format>HTML</Format>
+	<ModelContent>
+		<EmailModel
+			xmlns="http://schemas.cordys.com/1.0/xmlstore">
+			<description>SupplierEmail</description>
+			<subject/>
+			<templatetype>HTML</templatetype>
+			<textform/>
+			<emailform
+				xmlns=""
+				template="Type1EmailTemplate"
+				layout="original"
+				style="">
+				<logo
+					align=""
+					valign=""
+					style=""
+					src=""
+				/>
+				<header/>
+				<salutation/>
+				<body>
+					<div>
+						<div>Good Day,                  
+        
+        
+        
+							
+							<bR/>
+							<bR/>Kindly confirm your participation for the RFP 
+        
+							
+							<b> ://not:RfxSchema/not:RFPNo/text(): </b>by replying to this email.              
+      
+      
+      </div>
+						<p>
+							<bR/>
+						</p>
+						<p>
+							<b>
+								<u>Event Name:</u>
+							</b>
+						</p>
+						<div>
+							<p>
+								<b>://not:RfxSchema/not:Name/text():</b>
+							</p>
+							<p>
+								<bR/>
+							</p>
+							<p>
+								<b>
+									<u>Event Description:</u>
+								</b>
+							</p>
+							<p>
+								<b>://not:RfxSchema/not:Desc/text():</b>
+							</p>
+							<p>
+								<bR/>
+							</p>
+							<p>
+								<b>
+									<u>RFP Amount:</u>
+								</b>
+							</p>
+							<p>
+								<b>://not:RfxSchema/not:Amount/text():</b>
+							</p>
+							<p>
+								<bR/>
+							</p>
+							<p>
+								<b>
+									<u>RFP Type</u>
+								</b>
+							</p>
+							<p>
+								<b>://not:RfxSchema/not:Type/text():</b>
+							</p>
+							<p>
+								<bR/>
+							</p>
+							<p>
+								<b>
+									<u>Payment Link</u>
+								</b>
+							</p>
+							<p>
+								<b>
+									<a
+										href="://not:RfxSchema/not:Link/text():">Click Here</a>
+								</b>
+							</p>
+							<p>
+								<bR/>
+							</p>
+							<p>Kind Regards,</p>
+							<p>
+								<bR/>
+							</p>
+						</div>
+					</div>
+				</body>
+				<link
+					align=""
+					valign=""
+					style=""
+					formatType="Image"
+					src=""
+					textMsg=""
+					href=""
+				/>
+				<signature/>
+				<footer>
+					<div/>
+				</footer>
+			</emailform>
+			<namespace_xml
+				xmlns="http://schemas.cordys.com/1.0/notification">
+				<namespaces>
+					<namespace>
+						<namespaceprefix>not</namespaceprefix>
+						<namespaceurl>http://schemas.rfx.com/rfxdemo/1.0/notifications</namespaceurl>
+					</namespace>
+					<namespace>
+						<namespaceprefix>null</namespaceprefix>
+						<namespaceurl/>
+					</namespace>
+				</namespaces>
+			</namespace_xml>
+		</EmailModel>
+	</ModelContent>
+	<Subject>Confirmation of Participation in Event ://not:RfxSchema/not:RFPNo/text():</Subject>
+	<EmailSchemaFragment>
+		<uri
+			id="00155D27-0422-A1EA-AA62-1F563CBFD65A"
+		/>
+	</EmailSchemaFragment>
+	<workflowDeliveryModel/>
+</EmailModel>

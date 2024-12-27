@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A068-668B9F495933">
+	<DocumentID>00155D27-0470-A1EE-A068-668B9F491933</DocumentID>
+	<Name>00155D27-0470-A1EE-A068-668B9F491933</Name>
+	<Description>Metric Category Active</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-12T21:23:57.152</CreationDate>
+	<Notes/>
+	<Text>Metric Category Active</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A068-668B9F489933"
+		/>
+	</TextIdentifier>
+</TranslatedText>

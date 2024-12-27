@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BEE2-E56FB51E967F">
+	<DocumentID>00155D27-0422-A1EA-BEE2-E56FB51E567F</DocumentID>
+	<Name>00155D27-0422-A1EA-BEE2-E56FB51E567F</Name>
+	<Description>Parent Worklist</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-20T21:55:37.888</CreationDate>
+	<Notes/>
+	<DefaultText>Parent Worklist</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BEE2-E56FB51ED67F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-81A0-4985C432D680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-81A0-4985C4315680"
+		/>
+	</Translations>
+</TextIdentifier>

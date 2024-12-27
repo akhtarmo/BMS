@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-8465-DFBD52BB98FF">
+	<DocumentID>00155D27-0470-A1EE-8465-DFBD52BB58FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8465-DFBD52BB58FF</Name>
+	<Description>relmeetingmaintodirectives</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-23T07:32:44.855</CreationDate>
+	<Notes/>
+	<Text>relmeetingmaintodirectives</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-8461-B9ACB34098FF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-8465-DFBD52BAD8FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

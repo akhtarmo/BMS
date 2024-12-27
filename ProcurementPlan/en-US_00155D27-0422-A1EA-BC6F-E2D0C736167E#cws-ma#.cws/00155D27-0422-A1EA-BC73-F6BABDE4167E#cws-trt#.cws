@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC73-F6BABDE4567E">
+	<DocumentID>00155D27-0422-A1EA-BC73-F6BABDE4167E</DocumentID>
+	<Name>00155D27-0422-A1EA-BC73-F6BABDE4167E</Name>
+	<Description>lstFocalPoint</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T12:41:19.487</CreationDate>
+	<Notes/>
+	<Text>lstFocalPoint</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C736967E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BC73-F6BABDE3967E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="00155D27-0470-A1EE-9F31-357D7F8A1933">
+	<DocumentID>00155D27-0470-A1EE-9F31-357D7F89D933</DocumentID>
+	<Name>Commodities</Name>
+	<Description>Commodities</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-06T17:08:42.374</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="00155D27-0422-A1EA-A385-1668FC629650"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

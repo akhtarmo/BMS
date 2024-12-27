@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC72-9C3CE6AB567E">
+	<DocumentID>00155D27-0422-A1EA-BC72-9C3CE6AB167E</DocumentID>
+	<Name>00155D27-0422-A1EA-BC72-9C3CE6AB167E</Name>
+	<Description>lstAccount Manager</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T11:59:01.926</CreationDate>
+	<Notes/>
+	<DefaultText>lstAccount Manager</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BC72-9C3CE6AB967E"
+		/>
+	</Translations>
+</TextIdentifier>

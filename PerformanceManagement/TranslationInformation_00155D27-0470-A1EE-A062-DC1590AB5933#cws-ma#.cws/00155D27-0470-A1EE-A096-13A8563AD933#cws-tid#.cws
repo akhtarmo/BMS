@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-A096-13A8563B1933">
+	<DocumentID>00155D27-0470-A1EE-A096-13A8563AD933</DocumentID>
+	<Name>00155D27-0470-A1EE-A096-13A8563AD933</Name>
+	<Description>Review Frequency</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-13T19:26:36.455</CreationDate>
+	<Notes/>
+	<DefaultText>Review Frequency</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590AAD933"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-A096-13A8563B5933"
+		/>
+	</Translations>
+</TextIdentifier>

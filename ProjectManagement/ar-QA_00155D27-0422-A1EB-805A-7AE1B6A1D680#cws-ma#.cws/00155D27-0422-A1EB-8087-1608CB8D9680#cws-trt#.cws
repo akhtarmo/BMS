@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8087-1608CB8DD680">
+	<DocumentID>00155D27-0422-A1EB-8087-1608CB8D9680</DocumentID>
+	<Name>00155D27-0422-A1EB-8087-1608CB8D9680</Name>
+	<Description>المبلغ المستحق</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T06:26:55.098</CreationDate>
+	<Notes/>
+	<Text>المبلغ المستحق</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BE16-E5568A2AD67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

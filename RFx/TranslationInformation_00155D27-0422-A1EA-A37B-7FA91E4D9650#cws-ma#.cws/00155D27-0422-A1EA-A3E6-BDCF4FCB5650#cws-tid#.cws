@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-A3E6-BDCF4FCB9650">
+	<DocumentID>00155D27-0422-A1EA-A3E6-BDCF4FCB5650</DocumentID>
+	<Name>00155D27-0422-A1EA-A3E6-BDCF4FCB5650</Name>
+	<Description>Commercial Rating</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-06T13:14:59.985</CreationDate>
+	<Notes/>
+	<DefaultText>Commercial Rating</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-A3E6-BDCF4FCBD650"
+		/>
+		<uri
+			id="00155D27-0422-A1EA-A5A8-0D0A666ED652"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC72-ECE080A3D67E">
+	<DocumentID>00155D27-0422-A1EA-BC72-ECE080A3967E</DocumentID>
+	<Name>00155D27-0422-A1EA-BC72-ECE080A3967E</Name>
+	<Description>Tentative Award Date</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T12:09:31.105</CreationDate>
+	<Notes/>
+	<Text>Tentative Award Date</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C736967E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BC72-ECE080A3167E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

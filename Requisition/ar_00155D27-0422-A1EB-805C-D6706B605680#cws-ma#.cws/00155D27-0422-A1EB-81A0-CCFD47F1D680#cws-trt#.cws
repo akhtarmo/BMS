@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-81A0-CCFD47F21680">
+	<DocumentID>00155D27-0422-A1EB-81A0-CCFD47F1D680</DocumentID>
+	<Name>00155D27-0422-A1EB-81A0-CCFD47F1D680</Name>
+	<Description>المعرف ٣</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-04T21:01:58.544</CreationDate>
+	<Notes/>
+	<Text>المعرف ٣</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805C-D6706B60D680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF48-2D6F8EBB167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BF49-F1F190FB167F">
+	<DocumentID>00155D27-0422-A1EA-BF49-F1F190FAD67F</DocumentID>
+	<Name>00155D27-0422-A1EA-BF49-F1F190FAD67F</Name>
+	<Description>Invoice</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-22T23:06:33.936</CreationDate>
+	<Notes/>
+	<Text>Invoice</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF49-F1F190FA567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

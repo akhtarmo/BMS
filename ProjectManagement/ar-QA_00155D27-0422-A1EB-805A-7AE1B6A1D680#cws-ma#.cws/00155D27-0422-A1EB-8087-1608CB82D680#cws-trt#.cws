@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8087-1608CB831680">
+	<DocumentID>00155D27-0422-A1EB-8087-1608CB82D680</DocumentID>
+	<Name>00155D27-0422-A1EB-8087-1608CB82D680</Name>
+	<Description>الأداء المالي للمشروع</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T06:31:46.643</CreationDate>
+	<Notes/>
+	<Text>الأداء المالي للمشروع</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDD3-B2BC8276D67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

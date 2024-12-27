@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-AA8D-7446AA37565A">
+	<DocumentID>00155D27-0422-A1EA-AA8D-7446AA37165A</DocumentID>
+	<Name>00155D27-0422-A1EA-AA8D-7446AA37165A</Name>
+	<Description>Synchronize Workspace</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-06-09T09:48:53.386</CreationDate>
+	<Notes/>
+	<Text>Synchronize Workspace</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4E1650"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-AA8D-7446AA36965A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

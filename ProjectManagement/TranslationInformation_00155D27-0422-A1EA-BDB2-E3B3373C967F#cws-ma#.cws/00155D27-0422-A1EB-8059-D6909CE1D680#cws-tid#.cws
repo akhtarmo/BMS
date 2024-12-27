@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-8059-D6909CE21680">
+	<DocumentID>00155D27-0422-A1EB-8059-D6909CE1D680</DocumentID>
+	<Name>00155D27-0422-A1EB-8059-D6909CE1D680</Name>
+	<Description>Project Risk Categories</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T08:51:24.059</CreationDate>
+	<Notes/>
+	<DefaultText>Project Risk Categories</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-8059-D6909CE25680"
+		/>
+	</Translations>
+</TextIdentifier>

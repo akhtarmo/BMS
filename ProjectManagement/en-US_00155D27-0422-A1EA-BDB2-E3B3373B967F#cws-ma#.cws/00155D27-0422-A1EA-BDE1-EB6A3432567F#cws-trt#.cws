@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDE1-EB6A3432967F">
+	<DocumentID>00155D27-0422-A1EA-BDE1-EB6A3432567F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDE1-EB6A3432567F</Name>
+	<Description>Payment Title</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T21:05:42.866</CreationDate>
+	<Notes/>
+	<Text>Payment Title</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE1-EB6A3431D67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

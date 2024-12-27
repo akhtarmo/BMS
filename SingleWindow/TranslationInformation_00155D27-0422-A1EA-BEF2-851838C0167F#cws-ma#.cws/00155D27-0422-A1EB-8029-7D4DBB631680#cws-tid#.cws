@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-8029-7D4DBB635680">
+	<DocumentID>00155D27-0422-A1EB-8029-7D4DBB631680</DocumentID>
+	<Name>00155D27-0422-A1EB-8029-7D4DBB631680</Name>
+	<Description>Budgeting Manager Home</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-27T10:35:43.378</CreationDate>
+	<Notes/>
+	<DefaultText>Budgeting Manager Home</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BEF2-851838C0967F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-8029-7D4DBB639680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805F-174392685680"
+		/>
+	</Translations>
+</TextIdentifier>

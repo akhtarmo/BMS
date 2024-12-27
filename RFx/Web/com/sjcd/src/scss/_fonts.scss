@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'TheMixArabic';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/TheMixArabic/TheMixArabic-Regular.eot'); /* IE9 Compat Modes */
+    src: local('TheMixArabic'), local('TheMixArabic-Regular'),
+         url('../fonts/TheMixArabic/TheMixArabic-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/TheMixArabic/TheMixArabic-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/TheMixArabic/TheMixArabic-Regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/TheMixArabic/TheMixArabic-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/TheMixArabic/TheMixArabic-Regular.svg#TheMixArabic') format('svg'); /* Legacy iOS */
+}

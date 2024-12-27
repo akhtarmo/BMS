@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8088-FB8CDEC15680">
+	<DocumentID>00155D27-0422-A1EB-8088-FB8CDEC11680</DocumentID>
+	<Name>00155D27-0422-A1EB-8088-FB8CDEC11680</Name>
+	<Description>لم يتم استلام الفاتورة</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T07:27:15.66</CreationDate>
+	<Notes/>
+	<Text>لم يتم استلام الفاتورة</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE9-ADD1CEBC567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

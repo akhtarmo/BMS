@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC72-548E674F567E">
+	<DocumentID>00155D27-0422-A1EA-BC72-548E674F167E</DocumentID>
+	<Name>00155D27-0422-A1EA-BC72-548E674F167E</Name>
+	<Description>Lead Days</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T11:53:08.422</CreationDate>
+	<Notes/>
+	<DefaultText>Lead Days</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BC72-548E674F967E"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-80EA-BC297A635680"
+		/>
+	</Translations>
+</TextIdentifier>

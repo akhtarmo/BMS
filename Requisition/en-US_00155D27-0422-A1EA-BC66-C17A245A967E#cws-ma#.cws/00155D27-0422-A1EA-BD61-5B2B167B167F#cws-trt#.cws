@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BD61-5B2B167B567F">
+	<DocumentID>00155D27-0422-A1EA-BD61-5B2B167B167F</DocumentID>
+	<Name>00155D27-0422-A1EA-BD61-5B2B167B167F</Name>
+	<Description>Strategic Initiative</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-13T11:42:01.861</CreationDate>
+	<Notes/>
+	<Text>Strategic Initiative</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BD61-5B2B167A967F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805E-2B363D3AD680">
+	<DocumentID>00155D27-0422-A1EB-805E-2B363D3A9680</DocumentID>
+	<Name>00155D27-0422-A1EB-805E-2B363D3A9680</Name>
+	<Description>كمية</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T10:53:01.36</CreationDate>
+	<Notes/>
+	<Text>كمية</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE6-2F296ECD167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

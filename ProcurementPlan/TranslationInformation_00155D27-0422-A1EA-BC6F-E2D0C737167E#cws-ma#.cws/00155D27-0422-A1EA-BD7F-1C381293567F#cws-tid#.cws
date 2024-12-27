@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BD7F-1C381293967F">
+	<DocumentID>00155D27-0422-A1EA-BD7F-1C381293567F</DocumentID>
+	<Name>00155D27-0422-A1EA-BD7F-1C381293567F</Name>
+	<Description>Total Budget Requested</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-13T20:06:59.897</CreationDate>
+	<Notes/>
+	<DefaultText>Total Budget Requested</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BD6D-C2590F94D67F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-80EA-56923E9E5680"
+		/>
+	</Translations>
+</TextIdentifier>

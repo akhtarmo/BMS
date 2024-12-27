@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BFDD-6F56F4679680">
+	<DocumentID>00155D27-0422-A1EA-BFDD-6F56F4675680</DocumentID>
+	<Name>00155D27-0422-A1EA-BFDD-6F56F4675680</Name>
+	<Description>Requistion History</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-25T21:26:43.286</CreationDate>
+	<Notes/>
+	<DefaultText>Requistion History</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BFDD-6F56F467D680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8094-ABB6F788D680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8094-ABB6F7875680"
+		/>
+	</Translations>
+</TextIdentifier>

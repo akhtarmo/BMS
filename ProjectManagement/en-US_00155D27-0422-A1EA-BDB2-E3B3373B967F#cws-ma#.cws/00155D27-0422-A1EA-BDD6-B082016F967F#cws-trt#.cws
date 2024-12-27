@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDD6-B082016FD67F">
+	<DocumentID>00155D27-0422-A1EA-BDD6-B082016F967F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDD6-B082016F967F</Name>
+	<Description>Project Manager Name</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T13:54:33.425</CreationDate>
+	<Notes/>
+	<Text>Project Manager Name</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDD6-B082016F167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

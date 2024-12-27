@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1ED-86ED-9878A67916AF">
+	<DocumentID>00155D27-0422-A1ED-86ED-9878A678D6AF</DocumentID>
+	<Name>00155D27-0422-A1ED-86ED-9878A678D6AF</Name>
+	<Description>Procurement Homepage</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2022-08-14T15:52:36.959</CreationDate>
+	<Notes/>
+	<DefaultText>Procurement Homepage</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1ED-86ED-9878A67956AF"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8059-D6909CD59680">
+	<DocumentID>00155D27-0422-A1EB-8059-D6909CD55680</DocumentID>
+	<Name>00155D27-0422-A1EB-8059-D6909CD55680</Name>
+	<Description>Tender Strategies</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T08:57:01.313</CreationDate>
+	<Notes/>
+	<Text>Tender Strategies</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C736967E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8059-D6909CD4D680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

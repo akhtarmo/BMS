@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80EA-BC297A639680">
+	<DocumentID>00155D27-0422-A1EB-80EA-BC297A635680</DocumentID>
+	<Name>00155D27-0422-A1EB-80EA-BC297A635680</Name>
+	<Description>أيام الرصاص</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-01T05:59:15.088</CreationDate>
+	<Notes/>
+	<Text>أيام الرصاص</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-80C3-5C0946829680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BC72-548E674F167E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

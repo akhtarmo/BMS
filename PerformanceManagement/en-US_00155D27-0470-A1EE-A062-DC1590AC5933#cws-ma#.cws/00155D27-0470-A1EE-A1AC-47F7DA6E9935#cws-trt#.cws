@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A1AC-47F7DA6ED935">
+	<DocumentID>00155D27-0470-A1EE-A1AC-47F7DA6E9935</DocumentID>
+	<Name>00155D27-0470-A1EE-A1AC-47F7DA6E9935</Name>
+	<Description>Scorecards</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-19T07:58:33.751</CreationDate>
+	<Notes/>
+	<Text>Scorecards</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A1AC-47F7DA6E1935"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDE7-F9B71745567F">
+	<DocumentID>00155D27-0422-A1EA-BDE7-F9B71745167F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDE7-F9B71745167F</Name>
+	<Description>Moved to Issue Log</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T22:08:15.078</CreationDate>
+	<Notes/>
+	<DefaultText>Moved to Issue Log</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BDE7-F9B71745967F"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80EA-BC297A669680">
+	<DocumentID>00155D27-0422-A1EB-80EA-BC297A665680</DocumentID>
+	<Name>00155D27-0422-A1EB-80EA-BC297A665680</Name>
+	<Description>معرف الأعمال</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-01T05:59:15.088</CreationDate>
+	<Notes/>
+	<Text>معرف الأعمال</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-80C3-5C0946829680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BD96-C820BB1B167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

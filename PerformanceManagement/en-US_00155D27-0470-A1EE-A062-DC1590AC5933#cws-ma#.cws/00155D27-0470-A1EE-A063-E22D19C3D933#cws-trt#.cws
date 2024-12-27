@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A063-E22D19C41933">
+	<DocumentID>00155D27-0470-A1EE-A063-E22D19C3D933</DocumentID>
+	<Name>00155D27-0470-A1EE-A063-E22D19C3D933</Name>
+	<Description>Alignment to Mission</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-12T19:49:57.331</CreationDate>
+	<Notes/>
+	<Text>Alignment to Mission</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A064-ECDE53741933"
+		/>
+	</TextIdentifier>
+</TranslatedText>

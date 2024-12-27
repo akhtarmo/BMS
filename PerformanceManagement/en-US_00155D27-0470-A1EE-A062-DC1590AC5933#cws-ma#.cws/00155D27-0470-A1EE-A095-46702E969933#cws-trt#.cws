@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A095-46702E96D933">
+	<DocumentID>00155D27-0470-A1EE-A095-46702E969933</DocumentID>
+	<Name>00155D27-0470-A1EE-A095-46702E969933</Name>
+	<Description>Risk Mitigation</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-13T18:49:23.424</CreationDate>
+	<Notes/>
+	<Text>Risk Mitigation</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A095-46702E961933"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDE7-CCE742A6167F">
+	<DocumentID>00155D27-0422-A1EA-BDE7-CCE742A5D67F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDE7-CCE742A5D67F</Name>
+	<Description>Mitigation Action Status</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T22:03:32.585</CreationDate>
+	<Notes/>
+	<Text>Mitigation Action Status</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE7-CCE742A5567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

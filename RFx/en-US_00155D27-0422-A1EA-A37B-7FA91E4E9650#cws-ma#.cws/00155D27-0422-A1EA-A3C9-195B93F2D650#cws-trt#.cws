@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-A3C9-195B93F31650">
+	<DocumentID>00155D27-0422-A1EA-A3C9-195B93F2D650</DocumentID>
+	<Name>00155D27-0422-A1EA-A3C9-195B93F2D650</Name>
+	<Description>I wish to participate in this event</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-05T23:05:54.867</CreationDate>
+	<Notes/>
+	<Text>I wish to participate in this event</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4E1650"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-A3C9-195B93F25650"
+		/>
+	</TextIdentifier>
+</TranslatedText>

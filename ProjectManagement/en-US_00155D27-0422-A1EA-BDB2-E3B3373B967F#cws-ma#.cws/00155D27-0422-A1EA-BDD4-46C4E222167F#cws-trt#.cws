@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDD4-46C4E222567F">
+	<DocumentID>00155D27-0422-A1EA-BDD4-46C4E222167F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDD4-46C4E222167F</Name>
+	<Description>Project Schedule</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T12:52:47.916</CreationDate>
+	<Notes/>
+	<Text>Project Schedule</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDD4-46C4E221967F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

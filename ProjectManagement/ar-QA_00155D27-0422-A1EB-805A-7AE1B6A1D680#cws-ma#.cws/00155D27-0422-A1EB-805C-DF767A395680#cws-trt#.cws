@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805C-DF767A399680">
+	<DocumentID>00155D27-0422-A1EB-805C-DF767A395680</DocumentID>
+	<Name>00155D27-0422-A1EB-805C-DF767A395680</Name>
+	<Description>فاتورة</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T10:28:17.826</CreationDate>
+	<Notes/>
+	<Text>فاتورة</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF49-F1F190FA567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

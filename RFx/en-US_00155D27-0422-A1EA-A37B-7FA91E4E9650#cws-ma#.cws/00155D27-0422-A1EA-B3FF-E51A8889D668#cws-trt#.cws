@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-B3FF-E51A888A1668">
+	<DocumentID>00155D27-0422-A1EA-B3FF-E51A8889D668</DocumentID>
+	<Name>00155D27-0422-A1EA-B3FF-E51A8889D668</Name>
+	<Description>RFx Responce Tasks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-07-27T12:02:51.79</CreationDate>
+	<Notes/>
+	<Text>RFx Responce Tasks</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4E1650"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-B3FF-E51A88895668"
+		/>
+	</TextIdentifier>
+</TranslatedText>

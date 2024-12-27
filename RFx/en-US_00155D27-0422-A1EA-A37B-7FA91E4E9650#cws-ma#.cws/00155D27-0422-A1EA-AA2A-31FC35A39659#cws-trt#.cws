@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-AA2A-31FC35A3D659">
+	<DocumentID>00155D27-0422-A1EA-AA2A-31FC35A39659</DocumentID>
+	<Name>00155D27-0422-A1EA-AA2A-31FC35A39659</Name>
+	<Description>RfX Task Page</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-06-07T11:01:07.84</CreationDate>
+	<Notes/>
+	<Text>RfX Task Page</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4E1650"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-AA2A-31FC35A31659"
+		/>
+	</TextIdentifier>
+</TranslatedText>

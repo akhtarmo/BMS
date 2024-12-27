@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A0B8-B14DDF2D5933">
+	<DocumentID>00155D27-0470-A1EE-A0B8-B14DDF2D1933</DocumentID>
+	<Name>00155D27-0470-A1EE-A0B8-B14DDF2D1933</Name>
+	<Description>Manual Data Entry</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-14T11:49:40.404</CreationDate>
+	<Notes/>
+	<Text>Manual Data Entry</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A0B8-B14DDF2C9933"
+		/>
+	</TextIdentifier>
+</TranslatedText>

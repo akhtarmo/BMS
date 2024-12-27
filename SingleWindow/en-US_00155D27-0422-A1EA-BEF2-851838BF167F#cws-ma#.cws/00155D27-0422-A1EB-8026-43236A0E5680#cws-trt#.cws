@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8026-43236A0E9680">
+	<DocumentID>00155D27-0422-A1EB-8026-43236A0E5680</DocumentID>
+	<Name>00155D27-0422-A1EB-8026-43236A0E5680</Name>
+	<Description>Procurement Director Home</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-27T09:08:54.803</CreationDate>
+	<Notes/>
+	<Text>Procurement Director Home</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BEF2-851838BF967F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8026-43236A0DD680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

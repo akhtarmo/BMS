@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-800E-CC30C4165680">
+	<DocumentID>00155D27-0422-A1EB-800E-CC30C4161680</DocumentID>
+	<Name>00155D27-0422-A1EB-800E-CC30C4161680</Name>
+	<Description>Department Director Tasks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T21:11:07.626</CreationDate>
+	<Notes/>
+	<DefaultText>Department Director Tasks</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-800E-CC30C4169680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8060-B09763019680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8060-B09763001680"
+		/>
+	</Translations>
+</TextIdentifier>

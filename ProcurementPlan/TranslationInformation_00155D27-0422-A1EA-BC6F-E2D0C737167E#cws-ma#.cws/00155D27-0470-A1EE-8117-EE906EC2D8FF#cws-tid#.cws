@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-8117-EE906EC318FF">
+	<DocumentID>00155D27-0470-A1EE-8117-EE906EC2D8FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8117-EE906EC2D8FF</Name>
+	<Description>Procurement Plans</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-06T12:12:19.151</CreationDate>
+	<Notes/>
+	<DefaultText>Procurement Plans</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-8117-EE906EC358FF"
+		/>
+	</Translations>
+</TextIdentifier>

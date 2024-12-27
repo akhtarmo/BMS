@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-8471-6873E4CA98FF">
+	<DocumentID>00155D27-0470-A1EE-8471-6873E4CA58FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8471-6873E4CA58FF</Name>
+	<Description>Minute Taker</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-23T13:00:14.832</CreationDate>
+	<Notes/>
+	<Text>Minute Taker</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-8461-B9ACB34098FF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-8471-6873E4C9D8FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

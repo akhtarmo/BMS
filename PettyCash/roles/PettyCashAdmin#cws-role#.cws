@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="00155D27-0422-A1EB-819B-D13CE48A5680">
+	<DocumentID>00155D27-0422-A1EB-819B-D13CE48A1680</DocumentID>
+	<Name>PettyCashAdmin</Name>
+	<Description>Petty Cash Admin</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-04T18:36:40.693</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-A3B4-A0A898381650">
+	<DocumentID>00155D27-0422-A1EA-A3B4-A0A89837D650</DocumentID>
+	<Name>00155D27-0422-A1EA-A3B4-A0A89837D650</Name>
+	<Description>Sourcing Events</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-05T13:38:12.132</CreationDate>
+	<Notes/>
+	<DefaultText>Sourcing Events</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-A3B4-A0A898385650"
+		/>
+		<uri
+			id="00155D27-0422-A1EA-A4E3-17855AFC9652"
+		/>
+	</Translations>
+</TextIdentifier>

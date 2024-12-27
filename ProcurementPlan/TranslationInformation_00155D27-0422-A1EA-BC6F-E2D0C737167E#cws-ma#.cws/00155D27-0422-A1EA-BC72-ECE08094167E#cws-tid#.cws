@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC72-ECE08094567E">
+	<DocumentID>00155D27-0422-A1EA-BC72-ECE08094167E</DocumentID>
+	<Name>00155D27-0422-A1EA-BC72-ECE08094167E</Name>
+	<Description>relappdetailstolkptenderstrategy</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T12:14:41.88</CreationDate>
+	<Notes/>
+	<DefaultText>relappdetailstolkptenderstrategy</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BC72-ECE08094967E"
+		/>
+	</Translations>
+</TextIdentifier>

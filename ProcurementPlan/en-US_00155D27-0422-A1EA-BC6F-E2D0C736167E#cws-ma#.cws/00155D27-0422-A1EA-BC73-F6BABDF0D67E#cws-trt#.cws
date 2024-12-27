@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC73-F6BABDF1167E">
+	<DocumentID>00155D27-0422-A1EA-BC73-F6BABDF0D67E</DocumentID>
+	<Name>00155D27-0422-A1EA-BC73-F6BABDF0D67E</Name>
+	<Description>relappheadertolkpfocalpoint</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T12:37:50.021</CreationDate>
+	<Notes/>
+	<Text>relappheadertolkpfocalpoint</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C736967E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BC73-F6BABDF0567E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

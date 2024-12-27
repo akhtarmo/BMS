@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80C2-20A0F5571680">
+	<DocumentID>00155D27-0422-A1EB-80C2-20A0F556D680</DocumentID>
+	<Name>00155D27-0422-A1EB-80C2-20A0F556D680</Name>
+	<Description>Petty Cash Details</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T10:36:42.383</CreationDate>
+	<Notes/>
+	<Text>Petty Cash Details</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-80C0-3B255FBB5680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-80C2-20A0F5565680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

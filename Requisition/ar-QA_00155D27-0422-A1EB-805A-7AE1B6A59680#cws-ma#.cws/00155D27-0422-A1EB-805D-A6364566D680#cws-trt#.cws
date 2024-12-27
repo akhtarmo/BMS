@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805D-A63645671680">
+	<DocumentID>00155D27-0422-A1EB-805D-A6364566D680</DocumentID>
+	<Name>00155D27-0422-A1EB-805D-A6364566D680</Name>
+	<Description>مهام كاتب الميزانية</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T10:37:39.532</CreationDate>
+	<Notes/>
+	<Text>مهام كاتب الميزانية</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-800F-304885BB5680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

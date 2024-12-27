@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1ED-BEBA-64CB7A7A58FF">
+	<DocumentID>00155D27-0470-A1ED-BEBA-64CB7A7A18FF</DocumentID>
+	<Name>00155D27-0470-A1ED-BEBA-64CB7A7A18FF</Name>
+	<Description>QF Strategic Initiatives Tasks Home</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-05-25T14:47:16.753</CreationDate>
+	<Notes/>
+	<Text>QF Strategic Initiatives Tasks Home</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1ED-BEBA-64CB7A7998FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

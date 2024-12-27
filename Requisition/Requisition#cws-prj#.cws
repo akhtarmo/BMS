@@ -1,0 +1,172 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="00155D27-0422-A1EA-BC66-C17A245DD67E">
+	<DocumentID>00155D27-0422-A1EA-BC66-C17A245D967E</DocumentID>
+	<Name>Requisition</Name>
+	<Description>Requisition</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-08T06:29:41.452</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations>
+		<EntityConfiguration
+			type="com.opentext.entity.config.EntityConfiguration"
+			RuntimeDocumentID="00155D27-0422-A1EB-8021-56397F2F9680">
+			<DocumentID>00155D27-0422-A1EB-8021-56397F2F5680</DocumentID>
+			<Name>Untitled EntityConfiguration</Name>
+			<Description>Untitled EntityConfiguration</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T06:17:40.533</CreationDate>
+			<Notes/>
+			<ConfigurationEntity>
+				<uri
+					id="00155D27-0422-A1EB-8021-56397F2ED680"
+				/>
+			</ConfigurationEntity>
+			<Project>
+				<uri
+					id="00155D27-0422-A1EA-BC66-C17A245D967E"
+				/>
+			</Project>
+		</EntityConfiguration>
+	</Configurations>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="00155D27-0422-A1EA-BC66-C17A245CD67E">
+			<DocumentID>00155D27-0422-A1EA-BC66-C17A245C967E</DocumentID>
+			<Name>My Company Requisition</Name>
+			<Description>My Company Requisition</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-08T06:29:41.452</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>My Company Requisition 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Requisition</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="00155D27-0470-A1EF-B109-636BBADD5A37"
+			path="Requisition"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="00155D27-0422-A1EA-BC66-C17A245C567E">
+			<DocumentID>00155D27-0422-A1EA-BC66-C17A245C167E</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-08T06:29:41.452</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00155D27-0422-A1EA-BC66-C17A245B567E">
+					<DocumentID>00155D27-0422-A1EA-BC66-C17A245B167E</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-08T06:29:41.452</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="00155D27-0422-A1EA-BC66-C17A245A967E"
+							path="Requisition/en-US_00155D27-0422-A1EA-BC66-C17A245A967E"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00155D27-0422-A1EA-BC66-C17A245C167E"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00155D27-0422-A1EB-805A-7AE1B6A65680">
+					<DocumentID>00155D27-0422-A1EB-805A-7AE1B6A61680</DocumentID>
+					<Name>ar-QA</Name>
+					<Description>ar-QA</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-28T09:50:29.743</CreationDate>
+					<Notes/>
+					<Language>Arabic - Qatar</Language>
+					<Texts>
+						<uri
+							id="00155D27-0422-A1EB-805A-7AE1B6A59680"
+							path="Requisition/ar-QA_00155D27-0422-A1EB-805A-7AE1B6A59680"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00155D27-0422-A1EA-BC66-C17A245C167E"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00155D27-0422-A1EB-805C-D6706B611680">
+					<DocumentID>00155D27-0422-A1EB-805C-D6706B60D680</DocumentID>
+					<Name>ar</Name>
+					<Description>ar</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-28T10:15:50.759</CreationDate>
+					<Notes/>
+					<Language>Arabic</Language>
+					<Texts>
+						<uri
+							id="00155D27-0422-A1EB-805C-D6706B605680"
+							path="Requisition/ar_00155D27-0422-A1EB-805C-D6706B605680"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00155D27-0422-A1EA-BC66-C17A245C167E"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="00155D27-0422-A1EA-BC66-C17A245B167E"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="00155D27-0422-A1EA-BC66-C17A245B967E"
+					path="Requisition/TranslationInformation_00155D27-0422-A1EA-BC66-C17A245B967E"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

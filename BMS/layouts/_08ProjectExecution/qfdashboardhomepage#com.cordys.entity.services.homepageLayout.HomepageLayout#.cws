@@ -1,0 +1,108 @@
+
+<HomepageLayout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.homepageLayout.HomepageLayout"
+	typeVersion="5FB698AB-8095-4249-8CC7-B4058DDA5D41"
+	RuntimeDocumentID="00155D27-0470-A1EE-80D6-0AEF4D0158FF">
+	<DocumentID>00155D27-0470-A1EE-80D6-0AEF4D0118FF</DocumentID>
+	<Name>qfdashboardhomepage</Name>
+	<Description>qfdashboardhomepage</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-05T04:21:23.885</CreationDate>
+	<Notes/>
+	<AllowUpdateSecurityViaAdmin>false</AllowUpdateSecurityViaAdmin>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00155D27-0470-A1EE-80D6-0AEF4D0118FF&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:17,&quot;id&quot;:&quot;514da5b00e77dbeac6ffdf5a71af453c&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;4c5e880c4ffa05a222b49a59b828054d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;26aec457e7b6770f0551f1fbe56de5c6&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;12cef155d7f7610374cff894061ea303&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:83,&quot;id&quot;:&quot;c1deec4de0962523724da1594729c5b4&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;b5ce3b7eb3786d410f34b22c9cb5ee83&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;09adeac8264c3220869eb1d5de30dca7&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;cefa2338329acee1087c1df7e9e6a436&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>true</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>false</IsFullLayout>
+	<IsPreviewLayout>false</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>1</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations/>
+	<BuildingBlock/>
+	<CustomActions/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00155D27-0470-A1EE-80D6-0AEF4CFED8FF">
+			<DocumentID>00155D27-0470-A1EE-80D6-0AEF4CFE98FF</DocumentID>
+			<Name>00155D27-0470-A1EE-80D6-0AEF4CFE98FF</Name>
+			<Description>00155D27-0470-A1EE-80D6-0AEF4CFE98FF</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-05T04:21:23.885</CreationDate>
+			<Notes/>
+			<DeveloperText>QF Dashboard HomePage</DeveloperText>
+			<Identifier>
+				<uri
+					id="00155D27-0470-A1EE-80D6-0AEF4CFF18FF"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1EE-80D6-0AEF4CFDD8FF">
+			<DocumentID>00155D27-0470-A1EE-80D6-0AEF4CFD98FF</DocumentID>
+			<Name>WebContent</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-05T04:23:49.834</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;AD4D660886F04AEE96C81E4C693F3C16&quot;,&quot;sourceName&quot;:&quot;WebContent&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;26aec457e7b6770f0551f1fbe56de5c6&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[{&quot;name&quot;:&quot;url&quot;,&quot;value&quot;:null}]}</Definition>
+			<DisplayName>Web Content</DisplayName>
+			<ModelerId>26aec457e7b6770f0551f1fbe56de5c6</ModelerId>
+			<SourceId>AD4D660886F04AEE96C81E4C693F3C16</SourceId>
+			<SourceName>WebContent</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1EE-80D6-0AEF4CFD58FF">
+			<DocumentID>00155D27-0470-A1EE-80D6-0AEF4CFD18FF</DocumentID>
+			<Name>WebContent1</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-05T04:23:49.834</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;AD4D660886F04AEE96C81E4C693F3C16&quot;,&quot;sourceName&quot;:&quot;WebContent&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;09adeac8264c3220869eb1d5de30dca7&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[{&quot;name&quot;:&quot;url&quot;,&quot;value&quot;:null}]}</Definition>
+			<DisplayName>Web Content</DisplayName>
+			<ModelerId>09adeac8264c3220869eb1d5de30dca7</ModelerId>
+			<SourceId>AD4D660886F04AEE96C81E4C693F3C16</SourceId>
+			<SourceName>WebContent</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<SecurityDescriptor/>
+	<WorklistAssociations/>
+	<XFormAssociations/>
+</HomepageLayout>

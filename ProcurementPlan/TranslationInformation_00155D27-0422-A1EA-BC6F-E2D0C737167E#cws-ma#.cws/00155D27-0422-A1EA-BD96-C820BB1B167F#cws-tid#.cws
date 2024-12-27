@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BD96-C820BB1B567F">
+	<DocumentID>00155D27-0422-A1EA-BD96-C820BB1B167F</DocumentID>
+	<Name>00155D27-0422-A1EA-BD96-C820BB1B167F</Name>
+	<Description>BusinessId</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-14T08:34:46.213</CreationDate>
+	<Notes/>
+	<DefaultText>BusinessId</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C737967E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BD96-C820BB1B967F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-80EA-BC297A665680"
+		/>
+	</Translations>
+</TextIdentifier>

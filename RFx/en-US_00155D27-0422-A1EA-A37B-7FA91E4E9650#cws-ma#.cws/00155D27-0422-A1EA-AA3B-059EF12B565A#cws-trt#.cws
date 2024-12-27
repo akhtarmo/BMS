@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-AA3B-059EF12B965A">
+	<DocumentID>00155D27-0422-A1EA-AA3B-059EF12B565A</DocumentID>
+	<Name>00155D27-0422-A1EA-AA3B-059EF12B565A</Name>
+	<Description>Supplier Event List</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-06-07T18:28:00.95</CreationDate>
+	<Notes/>
+	<Text>Supplier Event List</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4E1650"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-AA3B-059EF12AD65A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

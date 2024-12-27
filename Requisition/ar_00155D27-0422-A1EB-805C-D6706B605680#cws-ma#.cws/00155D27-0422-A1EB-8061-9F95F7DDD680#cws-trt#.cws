@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8061-9F95F7DE1680">
+	<DocumentID>00155D27-0422-A1EB-8061-9F95F7DDD680</DocumentID>
+	<Name>00155D27-0422-A1EB-8061-9F95F7DDD680</Name>
+	<Description>عفا عليها الزمن</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T12:55:27.648</CreationDate>
+	<Notes/>
+	<Text>عفا عليها الزمن</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805C-D6706B60D680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BEE2-E6EE785C567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

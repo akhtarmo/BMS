@@ -1,0 +1,18 @@
+
+<EmailConfig
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.emailconfig.EmailConfig"
+	RuntimeDocumentID="00155D27-0422-A1EA-A396-8E3FC2CB5650">
+	<DocumentID>00155D27-0422-A1EA-A396-8E3FC2CB1650</DocumentID>
+	<Name>emailconfig</Name>
+	<Description>emailconfig</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-04T22:57:10.016</CreationDate>
+	<Notes/>
+	<EmailProfileUserID></EmailProfileUserID>
+	<EnableDefault>false</EnableDefault>
+	<From></From>
+	<FromDisplayName></FromDisplayName>
+	<ReplyTo></ReplyTo>
+	<DisplayName/>
+</EmailConfig>

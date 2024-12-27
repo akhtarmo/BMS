@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8061-04397EE59680">
+	<DocumentID>00155D27-0422-A1EB-8061-04397EE55680</DocumentID>
+	<Name>00155D27-0422-A1EB-8061-04397EE55680</Name>
+	<Description>لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البدء</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T12:17:02.319</CreationDate>
+	<Notes/>
+	<Text>لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البدء</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805C-D6706B60D680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8043-102C81B65680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A06A-AEC054FE1933">
+	<DocumentID>00155D27-0470-A1EE-A06A-AEC054FDD933</DocumentID>
+	<Name>00155D27-0470-A1EE-A06A-AEC054FDD933</Name>
+	<Description>Collection Method</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-12T22:29:04.609</CreationDate>
+	<Notes/>
+	<Text>Collection Method</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A06A-AEC054FD5933"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-80F0-A9EEED075680">
+	<DocumentID>00155D27-0422-A1EB-80F0-A9EEED071680</DocumentID>
+	<Name>00155D27-0422-A1EB-80F0-A9EEED071680</Name>
+	<Description>relpettycashrequesttopettycashregister</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-01T11:59:02.512</CreationDate>
+	<Notes/>
+	<DefaultText>relpettycashrequesttopettycashregister</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EB-80C0-3B255FBC5680"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-80F0-A9EEED079680"
+		/>
+	</Translations>
+</TextIdentifier>

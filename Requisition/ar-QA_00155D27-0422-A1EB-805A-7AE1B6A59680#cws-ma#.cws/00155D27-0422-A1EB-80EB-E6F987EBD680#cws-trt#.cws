@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80EB-E6F987EC1680">
+	<DocumentID>00155D27-0422-A1EB-80EB-E6F987EBD680</DocumentID>
+	<Name>00155D27-0422-A1EB-80EB-E6F987EBD680</Name>
+	<Description>غير مخطط</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-01T07:18:49.194</CreationDate>
+	<Notes/>
+	<Text>غير مخطط</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BFDF-9B0AC70E1680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

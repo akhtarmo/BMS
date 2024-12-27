@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-A3E1-F4B5F59FD650">
+	<DocumentID>00155D27-0422-A1EA-A3E1-F4B5F59F9650</DocumentID>
+	<Name>00155D27-0422-A1EA-A3E1-F4B5F59F9650</Name>
+	<Description>Assign On</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-06T10:54:16.616</CreationDate>
+	<Notes/>
+	<DefaultText>Assign On</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-A3E1-F4B5F5A01650"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6B15680"
+		/>
+	</Translations>
+</TextIdentifier>

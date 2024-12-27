@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-8472-A788AA1258FF">
+	<DocumentID>00155D27-0470-A1EE-8472-A788AA1218FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8472-A788AA1218FF</Name>
+	<Description>Low</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-23T14:11:36.32</CreationDate>
+	<Notes/>
+	<DefaultText>Low</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1EE-83D2-82EDEA0E98FF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-8472-A788AA1298FF"
+		/>
+	</Translations>
+</TextIdentifier>

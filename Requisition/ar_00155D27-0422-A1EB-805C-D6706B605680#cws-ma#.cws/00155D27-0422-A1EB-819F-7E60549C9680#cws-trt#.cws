@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-819F-7E60549CD680">
+	<DocumentID>00155D27-0422-A1EB-819F-7E60549C9680</DocumentID>
+	<Name>00155D27-0422-A1EB-819F-7E60549C9680</Name>
+	<Description>الصفحة الرئيسية لمدير المشتريات</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-04T21:01:58.56</CreationDate>
+	<Notes/>
+	<Text>الصفحة الرئيسية لمدير المشتريات</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805C-D6706B60D680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8095-650C2D859680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

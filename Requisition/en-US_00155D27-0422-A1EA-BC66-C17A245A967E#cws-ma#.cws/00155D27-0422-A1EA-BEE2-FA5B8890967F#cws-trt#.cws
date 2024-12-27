@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BEE2-FA5B8890D67F">
+	<DocumentID>00155D27-0422-A1EA-BEE2-FA5B8890967F</DocumentID>
+	<Name>00155D27-0422-A1EA-BEE2-FA5B8890967F</Name>
+	<Description>Finance Director Approval</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-20T21:55:37.857</CreationDate>
+	<Notes/>
+	<Text>Finance Director Approval</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BEE2-FA5B8890167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

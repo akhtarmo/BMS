@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-8000-591385185680">
+	<DocumentID>00155D27-0422-A1EB-8000-591385181680</DocumentID>
+	<Name>00155D27-0422-A1EB-8000-591385181680</Name>
+	<Description>Section Head Home Page</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T16:43:55.387</CreationDate>
+	<Notes/>
+	<DefaultText>Section Head Home Page</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-8000-591385189680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-819F-7E60548A5680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-819F-BE9BB526D680"
+		/>
+	</Translations>
+</TextIdentifier>

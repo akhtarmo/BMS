@@ -1,0 +1,603 @@
+
+<HomepageLayout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.homepageLayout.HomepageLayout"
+	typeVersion="5FB698AB-8095-4249-8CC7-B4058DDA5D41"
+	RuntimeDocumentID="00155D27-0422-A1EA-BF5A-59A19187567F">
+	<DocumentID>00155D27-0422-A1EA-BF5A-59A19187167F</DocumentID>
+	<Name>ProcurementDirectorHome</Name>
+	<Description>ProcurementDirectorHome</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-23T10:47:19.606</CreationDate>
+	<Notes/>
+	<AllowUpdateSecurityViaAdmin>false</AllowUpdateSecurityViaAdmin>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00155D27-0422-A1EA-BF5A-59A19187167F&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:50,&quot;id&quot;:&quot;467beb0a0b688e58a3db6465e38a8be4&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;f4994660b08f86d7dbbe856252075731&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;tabs&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;bd867b63329bedbb9644b2c337a444d1&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;a00790a565e10bee72fe0a220e5e9735&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;966032c5d5faf8c1497c61167ed4c3fe&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;25fdcff5510360f97b63c3e063b3484a&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;854a9f5fe8e646b476304acac4a911fc&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;c3c5c32e4664f9c1d0c2bd94a0a7a2f6&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;832f54016b979dfb2f7d1594615b6b3a&quot;,&quot;nodes&quot;:[]}]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:50,&quot;id&quot;:&quot;be8244ae37c958fe89364c97f06294e5&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;a4c747ccb11d5a292ed0c08ef15e00f0&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;tabs&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;95e48dd6891fd9367577d9b8004143bc&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;373a93db51d6986c9158b1d1b22d920e&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;bbbb0af17e04053ca35b8e82d357ceb8&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;98839877dba2a33cff41febe9c0abc1e&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;eb6b0ed0be9506d261b2caa8b5426d22&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;2bf7b2697ba4b229c5281b9eae7c5d42&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;89ab5b89b840e4c338c22afd9a9574ec&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;8b2f0b861ddf4c331791efc2ece02993&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;c268e4eeabd5e8a941a24f55f27727d4&quot;,&quot;nodes&quot;:[]}]}]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>true</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>false</IsFullLayout>
+	<IsPreviewLayout>false</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>1</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations/>
+	<BuildingBlock/>
+	<CustomActions/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00155D27-0422-A1EB-8026-43236A0D9680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660B51680</DocumentID>
+			<Name>00155D27-0422-A1EB-8028-421660B51680</Name>
+			<Description>00155D27-0422-A1EB-8028-421660B51680</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:08:54.803</CreationDate>
+			<Notes/>
+			<DeveloperText>Procurement Director Home</DeveloperText>
+			<Identifier>
+				<uri
+					id="00155D27-0422-A1EB-8026-43236A0DD680"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0422-A1EA-BF62-5FD7B441D680">
+			<DocumentID>00155D27-0422-A1EA-BF62-5FD7B4419680</DocumentID>
+			<Name>Results</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-23T10:47:19.606</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;25fdcff5510360f97b63c3e063b3484a&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>RFx Tasks</DisplayName>
+			<ModelerId>25fdcff5510360f97b63c3e063b3484a</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0422-A1EA-BF62-5FD7B43E5680">
+					<DocumentID>00155D27-0422-A1EA-BF62-5FD7B43E1680</DocumentID>
+					<Name>00155D27-0422-A1EA-BF62-5FD7B43E1680</Name>
+					<Description>00155D27-0422-A1EA-BF62-5FD7B43E1680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-23T10:47:19.606</CreationDate>
+					<Notes/>
+					<DeveloperText>RFx Tasks</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0422-A1EA-BF34-D20457BCD67F"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0422-A1EA-BF62-5FD7B43E9680"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0422-A1EA-BF62-5FD7B4355680">
+			<DocumentID>00155D27-0422-A1EA-BF62-5FD7B4351680</DocumentID>
+			<Name>Results1</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-23T10:51:56.205</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;c3c5c32e4664f9c1d0c2bd94a0a7a2f6&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Vendor Responce Task</DisplayName>
+			<ModelerId>c3c5c32e4664f9c1d0c2bd94a0a7a2f6</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0422-A1EA-BF62-5FD7B42FD680">
+					<DocumentID>00155D27-0422-A1EA-BF62-5FD7B42F9680</DocumentID>
+					<Name>00155D27-0422-A1EA-BF62-5FD7B42F9680</Name>
+					<Description>00155D27-0422-A1EA-BF62-5FD7B42F9680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-23T10:52:58.097</CreationDate>
+					<Notes/>
+					<DeveloperText>Vendor Responce Task</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0422-A1EA-BF62-5FD7B4301680"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0422-A1EA-BF62-5FD7B4339680"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0422-A1EA-BF62-C6E7BD365680">
+			<DocumentID>00155D27-0422-A1EA-BF62-C6E7BD361680</DocumentID>
+			<Name>Results2</Name>
+			<Description>Procurment Directory Tasks</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-23T12:07:10.947</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;a00790a565e10bee72fe0a220e5e9735&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Requisition Tasks</DisplayName>
+			<ModelerId>a00790a565e10bee72fe0a220e5e9735</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0422-A1EA-BF62-C6E7BD345680">
+					<DocumentID>00155D27-0422-A1EA-BF62-C6E7BD341680</DocumentID>
+					<Name>00155D27-0422-A1EA-BF62-C6E7BD341680</Name>
+					<Description>00155D27-0422-A1EA-BF62-C6E7BD341680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-23T12:07:10.947</CreationDate>
+					<Notes/>
+					<DeveloperText>Requisition Tasks</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0422-A1EA-BF62-C6E7BD349680"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0422-A1EA-BF62-C6E7BD339680"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660B2D680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660B29680</DocumentID>
+			<Name>Results3</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:12:40.842</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;98839877dba2a33cff41febe9c0abc1e&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>All Requisitions</DisplayName>
+			<ModelerId>98839877dba2a33cff41febe9c0abc1e</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0422-A1EB-8028-421660B25680">
+					<DocumentID>00155D27-0422-A1EB-8028-421660B21680</DocumentID>
+					<Name>00155D27-0422-A1EB-8028-421660B21680</Name>
+					<Description>00155D27-0422-A1EB-8028-421660B21680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-27T09:12:40.842</CreationDate>
+					<Notes/>
+					<DeveloperText>All Requisitions</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0422-A1EA-BF2F-43D7A5AAD67F"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0422-A1EB-8028-421660B19680"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660B15680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660B11680</DocumentID>
+			<Name>Results4</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:12:40.842</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;373a93db51d6986c9158b1d1b22d920e&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Budget Plans</DisplayName>
+			<ModelerId>373a93db51d6986c9158b1d1b22d920e</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0422-A1EB-80C2-0BB6F4E55680">
+					<DocumentID>00155D27-0422-A1EB-80C2-0BB6F4E51680</DocumentID>
+					<Name>00155D27-0422-A1EB-80C2-0BB6F4E51680</Name>
+					<Description>00155D27-0422-A1EB-80C2-0BB6F4E51680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-30T10:41:57.812</CreationDate>
+					<Notes/>
+					<DeveloperText>Budget Plans</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0422-A1EB-80C2-0BB6F4ED9680"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0422-A1EB-8028-421660ADD680"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660AAD680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660AA9680</DocumentID>
+			<Name>Results5</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:15:17.641</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;2bf7b2697ba4b229c5281b9eae7c5d42&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>RFx List</DisplayName>
+			<ModelerId>2bf7b2697ba4b229c5281b9eae7c5d42</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0422-A1EB-8028-421660A8D680">
+					<DocumentID>00155D27-0422-A1EB-8028-421660A89680</DocumentID>
+					<Name>00155D27-0422-A1EB-8028-421660A89680</Name>
+					<Description>00155D27-0422-A1EB-8028-421660A89680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-27T09:15:17.641</CreationDate>
+					<Notes/>
+					<DeveloperText>RFx List</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0422-A1EB-8028-421660A91680"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0422-A1EB-8028-421660A81680"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660A7D680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660A79680</DocumentID>
+			<Name>Results6</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:15:17.641</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;8b2f0b861ddf4c331791efc2ece02993&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>RFx Responces</DisplayName>
+			<ModelerId>8b2f0b861ddf4c331791efc2ece02993</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0422-A1EB-8028-421660A65680">
+					<DocumentID>00155D27-0422-A1EB-8028-421660A61680</DocumentID>
+					<Name>00155D27-0422-A1EB-8028-421660A61680</Name>
+					<Description>00155D27-0422-A1EB-8028-421660A61680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-27T09:15:17.641</CreationDate>
+					<Notes/>
+					<DeveloperText>RFx Responces</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0422-A1EB-8028-421660A69680"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0422-A1EB-8028-421660A59680"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<SecurityDescriptor>
+		<SecurityDescriptor
+			type="com.cordys.acl.SecurityDescriptor"
+			typeVersion="FFB228E4-5344-4FC9-893D-77229FA7C061"
+			RuntimeDocumentID="00155D27-0422-A1EB-8021-56397F3D1680">
+			<DocumentID>00155D27-0422-A1EB-8021-56397F3CD680</DocumentID>
+			<Name>ProcurementTaskHome</Name>
+			<Description>ProcurementTaskHome</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T06:11:57.662</CreationDate>
+			<Notes/>
+			<inherit>true</inherit>
+			<accesscontrolentries>
+				<ACE
+					type="com.cordys.acl.ACE"
+					typeVersion="F6CCAF77-15EB-4CB1-93EF-6099D6636D53"
+					RuntimeDocumentID="00155D27-0422-A1EB-8021-56397F3A5680">
+					<DocumentID>00155D27-0422-A1EB-8021-56397F3A1680</DocumentID>
+					<Name>00155D27-0422-A1EB-8021-56397F3A1680</Name>
+					<Description>00155D27-0422-A1EB-8021-56397F3A1680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-27T06:12:35.786</CreationDate>
+					<Notes/>
+					<Model>
+						<uri
+							id="00155D27-0422-A1EA-BF5A-59A19187167F"
+						/>
+					</Model>
+					<applicableRights>
+						<ApplicableRight
+							type="com.cordys.acl.ApplicableRight"
+							RuntimeDocumentID="00155D27-0422-A1EB-8021-56397F381680">
+							<DocumentID>00155D27-0422-A1EB-8021-56397F37D680</DocumentID>
+							<Name>00155D27-0422-A1EB-8021-56397F37D680</Name>
+							<Description>00155D27-0422-A1EB-8021-56397F37D680</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2020-09-27T06:12:35.786</CreationDate>
+							<Notes/>
+							<revoked>false</revoked>
+							<condition/>
+							<right>
+								<uri
+									id="947D49A7-966A-4739-9E21-C9C67E09D1B3"
+								/>
+							</right>
+						</ApplicableRight>
+					</applicableRights>
+					<identity>
+						<uri
+							id="00155D27-0422-A1EA-BF8B-7DFB5EFDD680"
+						/>
+					</identity>
+					<rights/>
+				</ACE>
+			</accesscontrolentries>
+			<accesscontrollists>
+				<AccessControlList
+					type="com.cordys.acl.AccessControlList"
+					RuntimeDocumentID="00155D27-0422-A1EB-8021-56397F399680">
+					<DocumentID>00155D27-0422-A1EB-8021-56397F395680</DocumentID>
+					<Name>00155D27-0422-A1EB-8021-56397F395680</Name>
+					<Description>00155D27-0422-A1EB-8021-56397F395680</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2020-09-27T06:12:35.786</CreationDate>
+					<Notes/>
+					<identity>
+						<uri
+							id="00155D27-0422-A1EA-BF8B-7DFB5EFDD680"
+						/>
+					</identity>
+					<securityDescriptor>
+						<uri
+							id="00155D27-0422-A1EB-8021-56397F3CD680"
+						/>
+					</securityDescriptor>
+				</AccessControlList>
+			</accesscontrollists>
+			<conditions/>
+			<instanceConditions/>
+			<securedObject>
+				<uri
+					id="00155D27-0422-A1EA-BF5A-59A19187167F"
+				/>
+			</securedObject>
+			<staticConditions/>
+		</SecurityDescriptor>
+	</SecurityDescriptor>
+	<WorklistAssociations>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0422-A1EA-BF62-5FD7B43ED680">
+			<DocumentID>00155D27-0422-A1EA-BF62-5FD7B43E9680</DocumentID>
+			<Name>Results_SelectedWorklist</Name>
+			<Description>RFx Tasks</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-23T10:47:19.606</CreationDate>
+			<Notes/>
+			<DisplayName>RFx Tasks</DisplayName>
+			<ModelerId>b5db99c66ba3e88dffd29a7b57adae77</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0422-A1EA-B3FF-7C94686F9668"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0422-A1EA-BF62-5FD7B433D680">
+			<DocumentID>00155D27-0422-A1EA-BF62-5FD7B4339680</DocumentID>
+			<Name>Results1_SelectedWorklist</Name>
+			<Description>RFx Responce Tasks</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-23T10:51:56.205</CreationDate>
+			<Notes/>
+			<DisplayName>RFx Responce Tasks</DisplayName>
+			<ModelerId>eb4f96d85f945bab5024ce2f259fb364</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0422-A1EA-B3FF-E51A888B5668"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0422-A1EA-BF62-C6E7BD33D680">
+			<DocumentID>00155D27-0422-A1EA-BF62-C6E7BD339680</DocumentID>
+			<Name>Results2_SelectedWorklist</Name>
+			<Description>Procurement Director Tasks</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-23T12:07:10.947</CreationDate>
+			<Notes/>
+			<DisplayName>Procurement Director Tasks</DisplayName>
+			<ModelerId>157cbefcc1af942385de350dd3efba58</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0422-A1EB-800F-8FE32DB31680"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660B1D680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660B19680</DocumentID>
+			<Name>Results3_SelectedWorklist</Name>
+			<Description>Purchase Requisition</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:12:40.842</CreationDate>
+			<Notes/>
+			<DisplayName>Purchase Requisition</DisplayName>
+			<ModelerId>5899e8387ed3e802f337339bf596a254</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0422-A1EA-BDA0-0E9C8433567F"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660AE1680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660ADD680</DocumentID>
+			<Name>Results4_SelectedWorklist</Name>
+			<Description>Procurement Plan</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:12:40.842</CreationDate>
+			<Notes/>
+			<DisplayName>Procurement Plan</DisplayName>
+			<ModelerId>753dd7c0cdd375338f46ef40af2426e1</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0422-A1EA-BD83-3C0ADB0FD67F"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660A85680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660A81680</DocumentID>
+			<Name>Results5_SelectedWorklist</Name>
+			<Description>Event List</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:15:17.641</CreationDate>
+			<Notes/>
+			<DisplayName>Event List</DisplayName>
+			<ModelerId>86792316a44ef84ede9a5f5dec73dd27</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0422-A1EA-A3B4-7171EC7A1650"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0422-A1EB-8028-421660A5D680">
+			<DocumentID>00155D27-0422-A1EB-8028-421660A59680</DocumentID>
+			<Name>Results6_SelectedWorklist</Name>
+			<Description>Responce List Supplier</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2020-09-27T09:15:17.641</CreationDate>
+			<Notes/>
+			<DisplayName>Responce List Supplier</DisplayName>
+			<ModelerId>c61fb0b11e2dc27772846ea0a4f10125</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0422-A1EA-BADD-E1511492D67D"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+	</WorklistAssociations>
+	<XFormAssociations/>
+</HomepageLayout>

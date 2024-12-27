@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BF61-279AF2911680">
+	<DocumentID>00155D27-0422-A1EA-BF61-279AF290D680</DocumentID>
+	<Name>00155D27-0422-A1EA-BF61-279AF290D680</Name>
+	<Description>RFx Dashboard</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-23T10:10:34.894</CreationDate>
+	<Notes/>
+	<Text>RFx Dashboard</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4E1650"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF61-279AF2905680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BE16-E5568A3B567F">
+	<DocumentID>00155D27-0422-A1EA-BE16-E5568A3B167F</DocumentID>
+	<Name>00155D27-0422-A1EA-BE16-E5568A3B167F</Name>
+	<Description>Financial Breakdown</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-16T20:32:39.501</CreationDate>
+	<Notes/>
+	<DefaultText>Financial Breakdown</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BE16-E5568A3B967F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-80B7-F1EFE972D680"
+		/>
+	</Translations>
+</TextIdentifier>

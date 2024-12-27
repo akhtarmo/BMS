@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80EA-BC297A5B9680">
+	<DocumentID>00155D27-0422-A1EB-80EA-BC297A5B5680</DocumentID>
+	<Name>00155D27-0422-A1EB-80EA-BC297A5B5680</Name>
+	<Description>مشتريات المجلس الأعلى</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-01T06:07:25.619</CreationDate>
+	<Notes/>
+	<Text>مشتريات المجلس الأعلى</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDA0-0E9C8429167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

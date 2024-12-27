@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-8474-1F89D3DBD8FF">
+	<DocumentID>00155D27-0470-A1EE-8474-1F89D3DB98FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8474-1F89D3DB98FF</Name>
+	<Description>Meeting List</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-23T14:22:26.229</CreationDate>
+	<Notes/>
+	<DefaultText>Meeting List</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1EE-8461-B9ACB34198FF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-8474-1F89D3DC18FF"
+		/>
+	</Translations>
+</TextIdentifier>

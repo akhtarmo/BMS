@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-A5AA-BD8A5080D652">
+	<DocumentID>00155D27-0422-A1EA-A5AA-BD8A50809652</DocumentID>
+	<Name>00155D27-0422-A1EA-A5AA-BD8A50809652</Name>
+	<Description>تفاصيل الحدث</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-15T18:37:08.936</CreationDate>
+	<Notes/>
+	<Text>تفاصيل الحدث</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-A4E3-17855B035652"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-A38F-EA2457EA5650"
+		/>
+	</TextIdentifier>
+</TranslatedText>

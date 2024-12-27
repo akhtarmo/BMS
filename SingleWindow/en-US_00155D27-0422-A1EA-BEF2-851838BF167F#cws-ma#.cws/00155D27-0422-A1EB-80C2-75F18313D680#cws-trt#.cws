@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80C2-75F183141680">
+	<DocumentID>00155D27-0422-A1EB-80C2-75F18313D680</DocumentID>
+	<Name>00155D27-0422-A1EB-80C2-75F18313D680</Name>
+	<Description>Finance Administration</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T10:45:02.204</CreationDate>
+	<Notes/>
+	<Text>Finance Administration</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BEF2-851838BF967F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-80C2-75F183135680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

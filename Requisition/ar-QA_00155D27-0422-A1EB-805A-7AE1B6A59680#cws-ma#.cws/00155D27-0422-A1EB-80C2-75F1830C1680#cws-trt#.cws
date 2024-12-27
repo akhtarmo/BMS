@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80C2-75F1830C5680">
+	<DocumentID>00155D27-0422-A1EB-80C2-75F1830C1680</DocumentID>
+	<Name>00155D27-0422-A1EB-80C2-75F1830C1680</Name>
+	<Description>قيمة المشروع</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T10:47:58.234</CreationDate>
+	<Notes/>
+	<Text>قيمة المشروع</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BD62-A83E4549967F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

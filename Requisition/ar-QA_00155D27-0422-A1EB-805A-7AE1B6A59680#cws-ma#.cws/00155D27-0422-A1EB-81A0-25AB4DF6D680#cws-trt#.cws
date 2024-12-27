@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-81A0-25AB4DF71680">
+	<DocumentID>00155D27-0422-A1EB-81A0-25AB4DF6D680</DocumentID>
+	<Name>00155D27-0422-A1EB-81A0-25AB4DF6D680</Name>
+	<Description>استراتيجية المناقصة</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-04T21:01:58.575</CreationDate>
+	<Notes/>
+	<Text>استراتيجية المناقصة</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF28-495115CBD67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

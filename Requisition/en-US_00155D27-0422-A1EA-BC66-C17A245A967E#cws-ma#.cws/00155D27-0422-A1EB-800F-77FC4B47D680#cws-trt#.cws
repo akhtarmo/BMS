@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-800F-77FC4B481680">
+	<DocumentID>00155D27-0422-A1EB-800F-77FC4B47D680</DocumentID>
+	<Name>00155D27-0422-A1EB-800F-77FC4B47D680</Name>
+	<Description>Budget Director Tasks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T21:21:07.305</CreationDate>
+	<Notes/>
+	<Text>Budget Director Tasks</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-800F-77FC4B475680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

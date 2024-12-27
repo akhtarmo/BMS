@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80B7-F1EFE9731680">
+	<DocumentID>00155D27-0422-A1EB-80B7-F1EFE972D680</DocumentID>
+	<Name>00155D27-0422-A1EB-80B7-F1EFE972D680</Name>
+	<Description> التفاصيل المالية</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T05:47:54.82</CreationDate>
+	<Notes/>
+	<Text> التفاصيل المالية</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BE16-E5568A3B167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

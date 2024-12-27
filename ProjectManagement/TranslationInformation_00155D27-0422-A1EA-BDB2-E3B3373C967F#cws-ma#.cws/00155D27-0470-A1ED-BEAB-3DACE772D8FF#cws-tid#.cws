@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1ED-BEAB-3DACE77318FF">
+	<DocumentID>00155D27-0470-A1ED-BEAB-3DACE772D8FF</DocumentID>
+	<Name>00155D27-0470-A1ED-BEAB-3DACE772D8FF</Name>
+	<Description>QF SI Tasks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-05-25T03:37:46.333</CreationDate>
+	<Notes/>
+	<DefaultText>QF SI Tasks</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1ED-BEAB-3DACE77358FF"
+		/>
+	</Translations>
+</TextIdentifier>

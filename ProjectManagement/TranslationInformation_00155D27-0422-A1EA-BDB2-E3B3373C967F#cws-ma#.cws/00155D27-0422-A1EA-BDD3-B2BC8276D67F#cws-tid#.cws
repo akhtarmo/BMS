@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDD3-B2BC8277167F">
+	<DocumentID>00155D27-0422-A1EA-BDD3-B2BC8276D67F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDD3-B2BC8276D67F</Name>
+	<Description>Project Financial Performance</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T12:28:24.001</CreationDate>
+	<Notes/>
+	<DefaultText>Project Financial Performance</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373D167F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BDD3-B2BC8277567F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8087-1608CB82D680"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1ED-BD37-DB18C2F018FF">
+	<DocumentID>00155D27-0470-A1ED-BD37-DB18C2EFD8FF</DocumentID>
+	<Name>00155D27-0470-A1ED-BD37-DB18C2EFD8FF</Name>
+	<Description>QF HomePage</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-05-17T18:36:24.457</CreationDate>
+	<Notes/>
+	<Text>QF HomePage</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1ED-BD37-DB18C2EF58FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

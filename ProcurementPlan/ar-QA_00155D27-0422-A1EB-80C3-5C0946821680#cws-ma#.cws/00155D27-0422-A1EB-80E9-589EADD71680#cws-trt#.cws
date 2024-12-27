@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80E9-589EADD75680">
+	<DocumentID>00155D27-0422-A1EB-80E9-589EADD71680</DocumentID>
+	<Name>00155D27-0422-A1EB-80E9-589EADD71680</Name>
+	<Description>كود التكلفة</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-01T05:29:15.874</CreationDate>
+	<Notes/>
+	<Text>كود التكلفة</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-80C3-5C0946829680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BC70-663B7023D67E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

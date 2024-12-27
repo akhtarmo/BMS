@@ -1,0 +1,154 @@
+<!DOCTYPE html dir='rtl'>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>المجلس الاعلى للقضاء</title>
+	<link rel="shortcut icon" href="/src/images/favico.ico" type="image/vnd.microsoft.icon" id="favicon">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="src/css/main.css">
+    <link rel="stylesheet" href="src/dist/Chart.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css">
+	<style type="text/css">/* Chart.js */@keyframes chartjs-render-animation{from{opacity:.99}to{opacity:1}}.chartjs-render-monitor{animation:chartjs-render-animation 1ms}.chartjs-size-monitor,.chartjs-size-monitor-expand,.chartjs-size-monitor-shrink{position:absolute;direction:ltr;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1}.chartjs-size-monitor-expand>div{position:absolute;width:1000000px;height:1000000px;left:0;top:0}.chartjs-size-monitor-shrink>div{position:absolute;width:200%;height:200%;left:0;top:0}</style>
+</head>
+<body>
+	<div class="contracts page10">
+		<div class="top-contracts">
+			<div class="row">
+				<div class="col col-12 col-lg-2">
+					<div class="top-inner-right">
+						<div>إجمالي العقود الحالية</div>
+						<div>19</div>
+						<div><img src="../src/images/contract.png" alt=""></div>
+					</div>
+				</div>
+				<div class="col col-12 col-lg-10">
+					<div class="inner-left">
+						<div class="top-inner-left">
+							<div class="wrapper">
+								<div>14</div>
+								<div>مسودة</div>
+							</div>
+						</div>
+						<div class="top-inner-left">
+							<div class="wrapper">
+								<div>2</div>
+								<div>تحت المراجعة</div>
+							</div>
+						</div>
+						<div class="top-inner-left">
+							<div class="wrapper">
+								<div>1</div>
+								<div>تفاوض</div>
+							</div>
+						</div>
+						<div class="top-inner-left">
+							<div class="wrapper">
+								<div>1</div>
+								<div>موافق</div>
+							</div>
+						</div>
+						<div class="top-inner-left">
+							<div class="wrapper">
+								<div>1</div>
+								<div>تحت التوقيع</div>
+							</div>
+						</div>
+						<div class="top-inner-left">
+							<div class="wrapper">
+								<div>13</div>
+								<div>خطابات ضمان سارية</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="middle-contracts">
+			<div class="row">
+				<div class="col col-12 col-lg-2">
+					<div class="middle-inner-right">
+						<div class="wrapper">
+							<div>قيمة العقود الحالية</div>
+							<div>9453939422 ر.ق</div>
+						</div>
+					</div>
+					<div class="middle-inner-right">
+						<div class="wrapper">
+							<div>نسبة المدفوع من العقود</div>
+							<div>50%</div>
+						</div>
+					</div>
+				</div>
+				<div class="col col-12 col-lg-5">
+					<div class="chart">
+						<h5>العقود حسب الحالة</h5>
+						<div id="canvas-holder"><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+							<canvas id="chart-area" style="display: block; width: 533px; height: 266px;" width="533" height="266" class="chartjs-render-monitor"></canvas>
+						</div>
+					</div>
+				</div>
+				<div class="col col-12 col-lg-5">
+					<div class="chart">
+						<h5>العقود طبقا للجهة المسؤولة</h5>
+						<div id="canvas-holder"><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+							<canvas id="chart-area2" style="display: block; width: 533px; height: 266px;" width="533" height="266" class="chartjs-render-monitor"></canvas>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bottom-contracts">
+			<div class="row">
+				<div class="col col-12 col-lg-6">
+					<div class="wrapper">
+						<div class="top">
+							<h5>عقود حديثة</h5>
+							<h5>عقود على وشك الانتهاء</h5>
+						</div>
+						<div class="middle">
+							<div>العنوان</div>
+							<div>انشأت بواسطة</div>
+							<div>التاريخ</div>
+						</div>
+						<div class="bottom">
+							<div>عقد تطوير منصة ادارة التحكم</div>
+							<div>ايمان السيد</div>
+							<div>01-اكتوبر-2020</div>
+						</div>
+					</div>
+				</div>
+				<div class="col col-12 col-lg-6">
+					<div class="wrapper">
+						<div class="top">
+							<h5>جهات اتصال حديثة</h5>
+							<h5>قوائم عقود حديثة</h5>
+						</div>
+						<div class="middle">
+							<div>الاسم</div>
+							<div>النوع</div>
+							<div>التاريخ</div>
+						</div>
+						<div class="bottom">
+							<div>ناصر أحمد</div>
+							<div>شركة</div>
+							<div>01-اكتوبر-2020</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+	<script src="src/js/jquery.countup.min.js"></script>
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="src/dist/Chart.bundle.min.js"></script>
+	<script src="src/dist/Chart.min.js"></script>
+	<script src="src/js/custom.js"></script>
+</body>
+</html>

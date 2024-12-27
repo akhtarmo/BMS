@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-808E-A60354395680">
+	<DocumentID>00155D27-0422-A1EB-808E-A60354391680</DocumentID>
+	<Name>00155D27-0422-A1EB-808E-A60354391680</Name>
+	<Description>المهام المتعلقة بطلبات العروض والاستفسارات</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-29T11:58:25.725</CreationDate>
+	<Notes/>
+	<Text>المهام المتعلقة بطلبات العروض والاستفسارات</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805E-90D0490D1680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF34-D20457BCD67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

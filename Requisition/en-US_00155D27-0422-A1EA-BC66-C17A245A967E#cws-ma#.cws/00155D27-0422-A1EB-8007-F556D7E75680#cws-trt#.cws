@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8007-F556D7E79680">
+	<DocumentID>00155D27-0422-A1EB-8007-F556D7E75680</DocumentID>
+	<Name>00155D27-0422-A1EB-8007-F556D7E75680</Name>
+	<Description>SJC Section Head Tasks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T17:51:12.284</CreationDate>
+	<Notes/>
+	<Text>SJC Section Head Tasks</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245B167E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8007-F556D7E6D680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

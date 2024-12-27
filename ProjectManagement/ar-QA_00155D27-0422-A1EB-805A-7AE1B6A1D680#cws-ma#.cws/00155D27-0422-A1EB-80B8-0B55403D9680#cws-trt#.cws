@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-80B8-0B55403DD680">
+	<DocumentID>00155D27-0422-A1EB-80B8-0B55403D9680</DocumentID>
+	<Name>00155D27-0422-A1EB-80B8-0B55403D9680</Name>
+	<Description> الانتهاء والإغلاق</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T05:47:54.82</CreationDate>
+	<Notes/>
+	<Text> الانتهاء والإغلاق </Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8045-583CDBE59680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-8466-D26862F618FF">
+	<DocumentID>00155D27-0470-A1EE-8466-D26862F5D8FF</DocumentID>
+	<Name>00155D27-0470-A1EE-8466-D26862F5D8FF</Name>
+	<Description>Total Remaining Budget</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-23T08:37:27.478</CreationDate>
+	<Notes/>
+	<Text>Total Remaining Budget</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-83D2-82EDEA0D98FF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-8466-D26862F558FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

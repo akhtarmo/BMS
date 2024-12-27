@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BF30-01DFB2FC167F">
+	<DocumentID>00155D27-0422-A1EA-BF30-01DFB2FBD67F</DocumentID>
+	<Name>00155D27-0422-A1EA-BF30-01DFB2FBD67F</Name>
+	<Description>RFx</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-22T12:49:17.285</CreationDate>
+	<Notes/>
+	<DefaultText>RFx</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BEF2-851838C0967F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BF30-01DFB2FC567F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-808E-A603543D9680"
+		/>
+	</Translations>
+</TextIdentifier>

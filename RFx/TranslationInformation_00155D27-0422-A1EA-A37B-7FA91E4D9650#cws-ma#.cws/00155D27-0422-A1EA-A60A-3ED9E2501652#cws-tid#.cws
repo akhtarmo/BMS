@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-A60A-3ED9E2505652">
+	<DocumentID>00155D27-0422-A1EA-A60A-3ED9E2501652</DocumentID>
+	<Name>00155D27-0422-A1EA-A60A-3ED9E2501652</Name>
+	<Description>Collaboration</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-17T17:57:51.181</CreationDate>
+	<Notes/>
+	<DefaultText>Collaboration</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-A60A-3ED9E2509652"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6AC9680"
+		/>
+	</Translations>
+</TextIdentifier>

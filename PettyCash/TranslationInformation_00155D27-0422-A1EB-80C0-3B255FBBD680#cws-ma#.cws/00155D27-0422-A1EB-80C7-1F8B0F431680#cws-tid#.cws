@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-80C7-1F8B0F435680">
+	<DocumentID>00155D27-0422-A1EB-80C7-1F8B0F431680</DocumentID>
+	<Name>00155D27-0422-A1EB-80C7-1F8B0F431680</Name>
+	<Description>Deposit Date</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-30T13:02:41.789</CreationDate>
+	<Notes/>
+	<DefaultText>Deposit Date</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EB-80C0-3B255FBC5680"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-80C7-1F8B0F439680"
+		/>
+	</Translations>
+</TextIdentifier>

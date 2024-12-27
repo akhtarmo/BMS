@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-A1EA-019A36991935">
+	<DocumentID>00155D27-0470-A1EE-A1EA-019A3698D935</DocumentID>
+	<Name>00155D27-0470-A1EE-A1EA-019A3698D935</Name>
+	<Description>Dashboard 4</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-20T13:28:25.847</CreationDate>
+	<Notes/>
+	<DefaultText>Dashboard 4</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590AAD933"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-A1EA-019A36995935"
+		/>
+	</Translations>
+</TextIdentifier>

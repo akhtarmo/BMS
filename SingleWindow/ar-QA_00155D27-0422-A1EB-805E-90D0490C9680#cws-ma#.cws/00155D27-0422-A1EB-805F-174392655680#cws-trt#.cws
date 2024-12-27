@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805F-174392659680">
+	<DocumentID>00155D27-0422-A1EB-805F-174392655680</DocumentID>
+	<Name>00155D27-0422-A1EB-805F-174392655680</Name>
+	<Description>كل الأحداث</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T11:23:42.463</CreationDate>
+	<Notes/>
+	<Text>كل الأحداث</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805E-90D0490D1680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF2F-C621172CD67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

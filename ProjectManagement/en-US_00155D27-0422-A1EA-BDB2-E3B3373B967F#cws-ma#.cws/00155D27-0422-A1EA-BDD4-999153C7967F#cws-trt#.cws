@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BDD4-999153C7D67F">
+	<DocumentID>00155D27-0422-A1EA-BDD4-999153C7967F</DocumentID>
+	<Name>00155D27-0422-A1EA-BDD4-999153C7967F</Name>
+	<Description>Project Task Dependencies</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-15T12:53:56.892</CreationDate>
+	<Notes/>
+	<Text>Project Task Dependencies</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDD4-999153C7167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

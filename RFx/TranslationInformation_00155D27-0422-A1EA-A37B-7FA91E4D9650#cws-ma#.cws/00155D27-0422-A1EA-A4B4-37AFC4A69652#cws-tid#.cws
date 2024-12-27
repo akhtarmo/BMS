@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-A4B4-37AFC4A6D652">
+	<DocumentID>00155D27-0422-A1EA-A4B4-37AFC4A69652</DocumentID>
+	<Name>00155D27-0422-A1EA-A4B4-37AFC4A69652</Name>
+	<Description>Open RFP Workspace</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-10T15:38:58.524</CreationDate>
+	<Notes/>
+	<DefaultText>Open RFP Workspace</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-A4B4-37AFC4A71652"
+		/>
+		<uri
+			id="00155D27-0422-A1EA-A619-9AC57B7F9652"
+		/>
+	</Translations>
+</TextIdentifier>

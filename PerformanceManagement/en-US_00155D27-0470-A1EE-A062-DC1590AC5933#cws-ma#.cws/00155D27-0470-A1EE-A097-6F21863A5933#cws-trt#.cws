@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1EE-A097-6F21863A9933">
+	<DocumentID>00155D27-0470-A1EE-A097-6F21863A5933</DocumentID>
+	<Name>00155D27-0470-A1EE-A097-6F21863A5933</Name>
+	<Description>Perspectives List</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-13T19:59:58.47</CreationDate>
+	<Notes/>
+	<Text>Perspectives List</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590ABD933"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1EE-A097-6F218639D933"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8060-B09763079680">
+	<DocumentID>00155D27-0422-A1EB-8060-B09763075680</DocumentID>
+	<Name>00155D27-0422-A1EB-8060-B09763075680</Name>
+	<Description>موافقة القسم</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T12:07:36.263</CreationDate>
+	<Notes/>
+	<Text>موافقة القسم</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BEE2-F5DFC73AD67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

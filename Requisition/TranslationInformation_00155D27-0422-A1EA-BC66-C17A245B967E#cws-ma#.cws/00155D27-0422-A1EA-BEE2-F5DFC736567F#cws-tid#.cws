@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BEE2-F5DFC736967F">
+	<DocumentID>00155D27-0422-A1EA-BEE2-F5DFC736567F</DocumentID>
+	<Name>00155D27-0422-A1EA-BEE2-F5DFC736567F</Name>
+	<Description>Procurement Approval</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-20T21:55:37.872</CreationDate>
+	<Notes/>
+	<DefaultText>Procurement Approval</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BEE2-F5DFC736D67F"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8094-7BE9F5DBD680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-8094-7BE9F5DA5680"
+		/>
+	</Translations>
+</TextIdentifier>

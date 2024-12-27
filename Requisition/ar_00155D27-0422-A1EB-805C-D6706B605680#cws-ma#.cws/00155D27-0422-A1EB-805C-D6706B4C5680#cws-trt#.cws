@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805C-D6706B4C9680">
+	<DocumentID>00155D27-0422-A1EB-805C-D6706B4C5680</DocumentID>
+	<Name>00155D27-0422-A1EB-805C-D6706B4C5680</Name>
+	<Description>وفرة الموارد المالية</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T10:37:39.532</CreationDate>
+	<Notes/>
+	<Text>وفرة الموارد المالية</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805C-D6706B60D680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BD62-A83E4545167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

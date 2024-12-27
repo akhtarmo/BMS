@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EB-8152-370E9B5D1680">
+	<DocumentID>00155D27-0422-A1EB-8152-370E9B5CD680</DocumentID>
+	<Name>00155D27-0422-A1EB-8152-370E9B5CD680</Name>
+	<Description>SJC Petty Cash</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-10-03T07:48:17.954</CreationDate>
+	<Notes/>
+	<DefaultText>SJC Petty Cash</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EB-80C0-3B255FBC5680"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EB-8152-370E9B5D5680"
+		/>
+	</Translations>
+</TextIdentifier>

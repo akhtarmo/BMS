@@ -1,0 +1,52 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="00155D27-0470-A1EE-8118-F4BCE05A98FF">
+	<DocumentID>00155D27-0470-A1EE-8118-F4BCE05A58FF</DocumentID>
+	<Name>GeneralEMail</Name>
+	<Description>GeneralEMail</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-06-06T12:38:25.988</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Dear Supplier,&lt;br /&gt;
+&lt;br /&gt;
+&amp;nbsp;</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Supplier {item.Properties.SupplierCode}</Subject>
+	<To>;{item.Properties.ContactEmail}</To>
+	<BCCRole/>
+	<BuildingBlock>
+		<uri
+			id="00155D27-0422-A1EA-A385-1668FC621650"
+		/>
+	</BuildingBlock>
+	<CCRole/>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00155D27-0470-A1EE-8118-F4BCE05898FF">
+			<DocumentID>00155D27-0470-A1EE-8118-F4BCE05858FF</DocumentID>
+			<Name>00155D27-0470-A1EE-8118-F4BCE05858FF</Name>
+			<Description>00155D27-0470-A1EE-8118-F4BCE05858FF</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2023-06-06T12:38:25.987</CreationDate>
+			<Notes/>
+			<DeveloperText>General eMail</DeveloperText>
+			<Identifier>
+				<uri
+					id="00155D27-0470-A1EE-8118-F4BCE058D8FF"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<ToRole/>
+	<TypeDefinition/>
+</EmailTemplate>

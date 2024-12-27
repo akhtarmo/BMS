@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BF5A-59A19185D67F">
+	<DocumentID>00155D27-0422-A1EA-BF5A-59A19185967F</DocumentID>
+	<Name>00155D27-0422-A1EA-BF5A-59A19185967F</Name>
+	<Description>Procurement Task Home</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-23T10:47:19.606</CreationDate>
+	<Notes/>
+	<Text>Procurement Task Home</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BEF2-851838BF967F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BF5A-59A19185167F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

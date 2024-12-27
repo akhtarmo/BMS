@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805E-2B363D265680">
+	<DocumentID>00155D27-0422-A1EB-805E-2B363D261680</DocumentID>
+	<Name>00155D27-0422-A1EB-805E-2B363D261680</Name>
+	<Description>يوم الدفع او الاستحقاق</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T11:05:30.595</CreationDate>
+	<Notes/>
+	<Text>يوم الدفع او الاستحقاق</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A25680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BDE1-EB6A342C567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

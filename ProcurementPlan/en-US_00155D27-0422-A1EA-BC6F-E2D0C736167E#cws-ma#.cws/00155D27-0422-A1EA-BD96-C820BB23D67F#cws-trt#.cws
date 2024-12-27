@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EA-BD96-C820BB24167F">
+	<DocumentID>00155D27-0422-A1EA-BD96-C820BB23D67F</DocumentID>
+	<Name>00155D27-0422-A1EA-BD96-C820BB23D67F</Name>
+	<Description>SJC Procurement</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-14T07:26:46.868</CreationDate>
+	<Notes/>
+	<Text>SJC Procurement</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BC6F-E2D0C736967E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BD96-C820BB23567F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

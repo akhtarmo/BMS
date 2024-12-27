@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1ED-BE80-0444D78DD8FF">
+	<DocumentID>00155D27-0470-A1ED-BE80-0444D78D98FF</DocumentID>
+	<Name>00155D27-0470-A1ED-BE80-0444D78D98FF</Name>
+	<Description>Last transition event</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-05-24T06:57:45.876</CreationDate>
+	<Notes/>
+	<Text>Last transition event</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1ED-BE80-0444D78D18FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

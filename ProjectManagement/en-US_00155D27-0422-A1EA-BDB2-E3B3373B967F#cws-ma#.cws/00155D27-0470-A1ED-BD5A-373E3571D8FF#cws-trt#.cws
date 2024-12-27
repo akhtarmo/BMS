@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1ED-BD5A-373E357218FF">
+	<DocumentID>00155D27-0470-A1ED-BD5A-373E3571D8FF</DocumentID>
+	<Name>00155D27-0470-A1ED-BD5A-373E3571D8FF</Name>
+	<Description>Determine the key sponsors and leaders who will champion the initiative and provide guidance and support throughout the change process.</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-05-18T10:51:01.406</CreationDate>
+	<Notes/>
+	<Text>Determine the key sponsors and leaders who will champion the initiative and provide guidance and support throughout the change process.</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1ED-BD5A-373E357158FF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

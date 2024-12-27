@@ -1,0 +1,30 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-BFF7-402F9BCB5680">
+	<DocumentID>00155D27-0422-A1EA-BFF7-402F9BCB1680</DocumentID>
+	<Name>00155D27-0422-A1EA-BFF7-402F9BCB1680</Name>
+	<Description>Budget Clerk Verification</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-26T10:02:32.366</CreationDate>
+	<Notes/>
+	<DefaultText>Budget Clerk Verification</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-BC66-C17A245C167E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-BFF7-402F9BCB9680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805D-A6364563D680"
+		/>
+		<uri
+			id="00155D27-0422-A1EB-805D-A63645625680"
+		/>
+	</Translations>
+</TextIdentifier>

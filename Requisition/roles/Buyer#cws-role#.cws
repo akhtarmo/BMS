@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="00155D27-0422-A1EA-BF8D-5F17F75E1680">
+	<DocumentID>00155D27-0422-A1EA-BF8D-5F17F75DD680</DocumentID>
+	<Name>Buyer</Name>
+	<Description>Buyer</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-24T07:17:41.861</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

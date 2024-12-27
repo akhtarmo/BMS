@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1EE-A066-067460409933">
+	<DocumentID>00155D27-0470-A1EE-A066-067460405933</DocumentID>
+	<Name>00155D27-0470-A1EE-A066-067460405933</Name>
+	<Description>Perspectives</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2023-11-12T20:15:34.469</CreationDate>
+	<Notes/>
+	<DefaultText>Perspectives</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1EE-A062-DC1590AAD933"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1EE-A066-06746040D933"
+		/>
+	</Translations>
+</TextIdentifier>

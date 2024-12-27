@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0422-A1EA-A3E1-F33817849650">
+	<DocumentID>00155D27-0422-A1EA-A3E1-F33817845650</DocumentID>
+	<Name>00155D27-0422-A1EA-A3E1-F33817845650</Name>
+	<Description>Created</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-05-06T10:54:16.646</CreationDate>
+	<Notes/>
+	<DefaultText>Created</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0422-A1EA-A37B-7FA91E4D1650"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0422-A1EA-A3E1-F3381784D650"
+		/>
+		<uri
+			id="00155D27-0422-A1EA-A5AA-BD8A50881652"
+		/>
+	</Translations>
+</TextIdentifier>

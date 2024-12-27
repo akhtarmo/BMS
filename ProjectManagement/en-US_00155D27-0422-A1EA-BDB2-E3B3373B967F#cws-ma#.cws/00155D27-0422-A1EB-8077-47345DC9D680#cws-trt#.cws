@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-8077-47345DCA1680">
+	<DocumentID>00155D27-0422-A1EB-8077-47345DC9D680</DocumentID>
+	<Name>00155D27-0422-A1EB-8077-47345DC9D680</Name>
+	<Description>Rel01projectsummarytolkpvendor</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T22:51:26.404</CreationDate>
+	<Notes/>
+	<Text>Rel01projectsummarytolkpvendor</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EA-BDB2-E3B3373C167F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EB-8077-47345DC95680"
+		/>
+	</TextIdentifier>
+</TranslatedText>

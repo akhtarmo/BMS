@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0422-A1EB-805C-D6706B539680">
+	<DocumentID>00155D27-0422-A1EB-805C-D6706B535680</DocumentID>
+	<Name>00155D27-0422-A1EB-805C-D6706B535680</Name>
+	<Description>التعيين الى</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2020-09-28T10:37:39.532</CreationDate>
+	<Notes/>
+	<Text>التعيين الى</Text>
+	<Language>
+		<uri
+			id="00155D27-0422-A1EB-805A-7AE1B6A61680"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0422-A1EA-BEE2-E6EE7887D67F"
+		/>
+	</TextIdentifier>
+</TranslatedText>
