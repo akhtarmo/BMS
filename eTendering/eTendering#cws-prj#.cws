@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="00155D27-0470-A1F0-8525-8918F8E71A99">
+	<DocumentID>00155D27-0470-A1F0-8525-8918F8E6DA99</DocumentID>
+	<Name>eTendering</Name>
+	<Description>eTendering</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-08T16:26:02.233</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="00155D27-0470-A1F0-8525-8918F8EB1A99">
+			<DocumentID>00155D27-0470-A1F0-8525-8918F8EADA99</DocumentID>
+			<Name>My Company eTendering</Name>
+			<Description>My Company eTendering</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T16:26:02.233</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>My Company eTendering 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>eTendering</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8EA5A99"
+			path="eTendering"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="00155D27-0470-A1F0-8525-8918F8E89A99">
+			<DocumentID>00155D27-0470-A1F0-8525-8918F8E79A99</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T16:26:02.234</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00155D27-0470-A1F0-8525-8918F8E99A99">
+					<DocumentID>00155D27-0470-A1F0-8525-8918F8E95A99</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-08T16:26:02.232</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="00155D27-0470-A1F0-8525-8918F8E9DA99"
+							path="eTendering/en-US_00155D27-0470-A1F0-8525-8918F8E9DA99"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00155D27-0470-A1F0-8525-8918F8E79A99"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="00155D27-0470-A1F0-8525-8918F8E95A99"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="00155D27-0470-A1F0-8525-8918F8E8DA99"
+					path="eTendering/TranslationInformation_00155D27-0470-A1F0-8525-8918F8E8DA99"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>
