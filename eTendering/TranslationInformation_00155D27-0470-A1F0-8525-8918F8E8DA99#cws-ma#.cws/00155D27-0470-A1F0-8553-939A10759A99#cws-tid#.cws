@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8553-939A1075DA99">
+	<DocumentID>00155D27-0470-A1F0-8553-939A10759A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8553-939A10759A99</Name>
+	<Description>Primary Contact Person Phone</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-09T14:34:10.242</CreationDate>
+	<Notes/>
+	<DefaultText>Primary Contact Person Phone</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8553-939A10761A99"
+		/>
+	</Translations>
+</TextIdentifier>

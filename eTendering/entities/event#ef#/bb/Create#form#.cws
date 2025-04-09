@@ -31,7 +31,7 @@
 			<ComponentId>1</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5DDA99</ComponentParentId>
 			<ComponentType>FormsFragment</ComponentType>
-			<Definition>{&quot;isContainer&quot;:true,&quot;componentId&quot;:&quot;1&quot;,&quot;componentType&quot;:&quot;FormsFragment&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5DDA99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;imageElementId&quot;:&quot;&quot;,&quot;nextHTMLContainerID&quot;:100,&quot;nextHTMLElementID&quot;:138,&quot;nextComponentID&quot;:138,&quot;presentationOptions&quot;:&quot;{\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;}&quot;,&quot;showTitleBar&quot;:false,&quot;oldFormId&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;collapsible&quot;:false,&quot;collapsed&quot;:false,&quot;lastAddedComponentId&quot;:&quot;138OTLayout&quot;,&quot;headerBackgroundColor&quot;:&quot;&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;formId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5DDA99&quot;,&quot;formElementName&quot;:&quot;&quot;,&quot;heightOfForm&quot;:700.0000152587891,&quot;widthOfForm&quot;:708,&quot;isGridOn&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;OTLayoutFormsFragment\&quot;,\&quot;left\&quot;:0,\&quot;top\&quot;:0,\&quot;right\&quot;:0,\&quot;bottom\&quot;:0,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:0,\&quot;topBasePx\&quot;:0,\&quot;widthBasePx\&quot;:0,\&quot;heightBasePx\&quot;:0,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:true,&quot;componentId&quot;:&quot;1&quot;,&quot;componentType&quot;:&quot;FormsFragment&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5DDA99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;imageElementId&quot;:&quot;&quot;,&quot;nextHTMLContainerID&quot;:100,&quot;nextHTMLElementID&quot;:157,&quot;nextComponentID&quot;:157,&quot;presentationOptions&quot;:&quot;{\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;}&quot;,&quot;showTitleBar&quot;:false,&quot;oldFormId&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;collapsible&quot;:false,&quot;collapsed&quot;:false,&quot;lastAddedComponentId&quot;:&quot;157OTLayout&quot;,&quot;headerBackgroundColor&quot;:&quot;&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;formId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5DDA99&quot;,&quot;formElementName&quot;:&quot;&quot;,&quot;heightOfForm&quot;:620,&quot;widthOfForm&quot;:1210,&quot;isGridOn&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;OTLayoutFormsFragment\&quot;,\&quot;left\&quot;:0,\&quot;top\&quot;:0,\&quot;right\&quot;:0,\&quot;bottom\&quot;:0,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:0,\&quot;topBasePx\&quot;:0,\&quot;widthBasePx\&quot;:0,\&quot;heightBasePx\&quot;:0,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormTopContainerComponentType</ElementType>
 			<ElementTypeId>F1A7C0249CA3464CAE09FF03CE40B3E6</ElementTypeId>
 			<IsContainer>true</IsContainer>
@@ -69,7 +69,7 @@
 			<ComponentId>133</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>EntityComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;133&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC288C9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIsOfATemplate&quot;,&quot;context&quot;:&quot;RelEventIsOfATemplate&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-86EB2D4C9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-86EB2D4C9A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852B-29822E2FDA99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852B-F6BE2F0D1A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852B-29822E2FDA99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852B-FCBAD9999A99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-86EB2D4C9A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_133\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:30,\&quot;right\&quot;:328,\&quot;bottom\&quot;:56,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:30,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:56,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:56,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;133&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC288C9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIsOfATemplate&quot;,&quot;context&quot;:&quot;RelEventIsOfATemplate&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-86EB2D4C9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-86EB2D4C9A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852B-29822E2FDA99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852B-F6BE2F0D1A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852B-29822E2FDA99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852B-FCBAD9999A99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-86EB2D4C9A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_133\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:100,\&quot;right\&quot;:328,\&quot;bottom\&quot;:56,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:100,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:56,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:56,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormEntityComponent</ElementType>
 			<ElementTypeId>A19C38687769470AA1DA3E4917DB57AC</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -161,7 +161,7 @@
 			<ComponentId>120</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;120&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC049A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventName&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventName&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-17B3CEE31A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CEE31A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Event Name\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_120\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:30,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:30,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;120&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC049A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventName&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventName&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-17B3CEE31A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CEE31A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Event Name\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_120\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:100,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:100,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -207,7 +207,7 @@
 			<ComponentId>124</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;124&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC029A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventNumber&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventNumber&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-2054D92DDA99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-2054D92DDA99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;EventNumber\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_124\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:90,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:90,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;124&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC029A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventNumber&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventNumber&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-2054D92DDA99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-2054D92DDA99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;EventNumber\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_124\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:160,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:160,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -253,7 +253,7 @@
 			<ComponentId>119</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;119&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC051A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventDescription&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventDescription&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-282E738E9A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-282E738E9A99&quot;,&quot;presentation&quot;:&quot;dataEntryMultilineText&quot;,&quot;dataType&quot;:&quot;LongText&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Event Description\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_119\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:90,\&quot;right\&quot;:328,\&quot;bottom\&quot;:110,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:90,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:110,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:110,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;119&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC051A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventDescription&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventDescription&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-282E738E9A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-282E738E9A99&quot;,&quot;presentation&quot;:&quot;dataEntryMultilineText&quot;,&quot;dataType&quot;:&quot;LongText&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Event Description\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_119\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:160,\&quot;right\&quot;:328,\&quot;bottom\&quot;:110,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:160,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:110,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:110,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -299,7 +299,7 @@
 			<ComponentId>134</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>EntityComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;134&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC288B9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIsOfType&quot;,&quot;context&quot;:&quot;RelEventIsOfType&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0C1A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0C1A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-47A3B06A9A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-551FCA8DDA99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-47A3B06A9A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-551FCA80DA99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0C1A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_134\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:150,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:150,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;134&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC288B9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIsOfType&quot;,&quot;context&quot;:&quot;RelEventIsOfType&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0C1A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0C1A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-47A3B06A9A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-551FCA8DDA99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-47A3B06A9A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-551FCA80DA99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0C1A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_134\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:220,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:220,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormEntityComponent</ElementType>
 			<ElementTypeId>A19C38687769470AA1DA3E4917DB57AC</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -391,7 +391,7 @@
 			<ComponentId>135</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>EntityComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;135&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC288A9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIsOfEventCategory&quot;,&quot;context&quot;:&quot;RelEventIsOfEventCategory&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC099A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC099A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-7196F0631A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-7196F0515A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-7196F0631A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-749637B2DA99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC099A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_135\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:210,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:210,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;135&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC288A9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIsOfEventCategory&quot;,&quot;context&quot;:&quot;RelEventIsOfEventCategory&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC099A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC099A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-7196F0631A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-8557-BCB5A5875A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-7196F0631A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-749637B2DA99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC099A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_135\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:280,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:280,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormEntityComponent</ElementType>
 			<ElementTypeId>A19C38687769470AA1DA3E4917DB57AC</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -422,7 +422,7 @@
 			<PreviewLayoutAssociation/>
 			<Property>
 				<uri
-					id="00155D27-0470-A1F0-852C-7196F0515A99"
+					id="00155D27-0470-A1F0-8557-BCB5A5875A99"
 				/>
 			</Property>
 			<Relationship>
@@ -483,7 +483,7 @@
 			<ComponentId>136</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>EntityComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;136&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC28899A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIssuedByDepartment&quot;,&quot;context&quot;:&quot;RelEventIssuedByDepartment&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC111A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC111A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CEE09A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CECEDA99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CEE09A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-282E7397DA99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC111A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_136\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:210,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:210,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;136&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC28899A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventIssuedByDepartment&quot;,&quot;context&quot;:&quot;RelEventIssuedByDepartment&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC111A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC111A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CEE09A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CECEDA99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-17B3CEE09A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-282E7397DA99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC111A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_136\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:280,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:280,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormEntityComponent</ElementType>
 			<ElementTypeId>A19C38687769470AA1DA3E4917DB57AC</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -575,7 +575,7 @@
 			<ComponentId>137</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>EntityComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;137&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2883DA99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventHasAnOwner&quot;,&quot;context&quot;:&quot;RelEventHasAnOwner&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2887DA99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2887DA99&quot;,&quot;targetElementId&quot;:&quot;F8B156E1-0371-11E6-E9CB-0FBF3334DBBF&quot;,&quot;propertyElementId&quot;:&quot;F8B156B4-FF8F-11E6-EEB7-BD20BF56971A&quot;,&quot;entityElementId&quot;:&quot;F8B156E1-0371-11E6-E9CB-0FBF3334DBBF&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;E86A649E-4517-A1EA-8144-2A277F334348&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:true,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2887DA99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_137\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:270,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:270,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:292,\&quot;componentWidthBasePx\&quot;:256,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;137&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2883DA99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventHasAnOwner&quot;,&quot;context&quot;:&quot;RelEventHasAnOwner&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2887DA99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2887DA99&quot;,&quot;targetElementId&quot;:&quot;F8B156E1-0371-11E6-E9CB-0FBF3334DBBF&quot;,&quot;propertyElementId&quot;:&quot;F8B156B4-FF8F-11E6-EEB7-BD20BF56971A&quot;,&quot;entityElementId&quot;:&quot;F8B156E1-0371-11E6-E9CB-0FBF3334DBBF&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;E86A649E-4517-A1EA-8144-2A277F334348&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:true,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2887DA99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_137\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:340,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:340,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:292,\&quot;componentWidthBasePx\&quot;:292,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormEntityComponent</ElementType>
 			<ElementTypeId>A19C38687769470AA1DA3E4917DB57AC</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -667,7 +667,7 @@
 			<ComponentId>138</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>EntityComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;138&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2882DA99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventWillUseEvaluationMethod&quot;,&quot;context&quot;:&quot;RelEventWillUseEvaluationMethod&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0E9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0E9A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-3BA7A1D61A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-44A4C15E5A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-3BA7A1D61A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-47A3B0761A99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0E9A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_138\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:270,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:269.99998474121094,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:327,\&quot;componentWidthBasePx\&quot;:327,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;138&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-EFCC2882DA99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;RelEventWillUseEvaluationMethod&quot;,&quot;context&quot;:&quot;RelEventWillUseEvaluationMethod&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0E9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;relationElementId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0E9A99&quot;,&quot;targetElementId&quot;:&quot;00155D27-0470-A1F0-852C-3BA7A1D61A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-44A4C15E5A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-852C-3BA7A1D61A99&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;00155D27-0470-A1F0-852C-47A3B0761A99&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:false,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC0E9A99_00155D27-0470-A1F0-852E-86EB2D525A99&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_138\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:340,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:340,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormEntityComponent</ElementType>
 			<ElementTypeId>A19C38687769470AA1DA3E4917DB57AC</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -759,7 +759,7 @@
 			<ComponentId>128</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;128&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC009A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;SubmissionDeadline&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.SubmissionDeadline&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBADC1A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBADC1A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Submission Deadline\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_128\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:390,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:390,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;128&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC009A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;SubmissionDeadline&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.SubmissionDeadline&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBADC1A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBADC1A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Submission Deadline\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_128\&quot;,\&quot;left\&quot;:980,\&quot;top\&quot;:105,\&quot;right\&quot;:211,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:980,\&quot;topBasePx\&quot;:105,\&quot;widthBasePx\&quot;:211,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:211,\&quot;componentWidthBasePx\&quot;:211,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -805,7 +805,7 @@
 			<ComponentId>127</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;127&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC011A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;StartDate&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.StartDate&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBADF9A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBADF9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Start Date\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_127\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:390,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:390,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;127&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC011A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;StartDate&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.StartDate&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBADF9A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBADF9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Start Date\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_127\&quot;,\&quot;left\&quot;:740,\&quot;top\&quot;:105,\&quot;right\&quot;:211,\&quot;bottom\&quot;:56,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:740,\&quot;topBasePx\&quot;:105,\&quot;widthBasePx\&quot;:211,\&quot;heightBasePx\&quot;:56,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:211,\&quot;componentWidthBasePx\&quot;:211,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:56,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -851,7 +851,7 @@
 			<ComponentId>131</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;131&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DBFF1A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TenderPurchaseRequired&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TenderPurchaseRequired&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBAD19A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBAD19A99&quot;,&quot;presentation&quot;:&quot;dataEntryEnumRadioButton&quot;,&quot;dataType&quot;:&quot;Bool&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Tender Purchase Required\&quot;,\&quot;showLabel\&quot;:true,\&quot;numOfColumns\&quot;:2}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_131\&quot;,\&quot;left\&quot;:9,\&quot;top\&quot;:580,\&quot;right\&quot;:328,\&quot;bottom\&quot;:60,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10.9998779296875,\&quot;topBasePx\&quot;:580.0000076293945,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:60,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:60,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;131&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DBFF1A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TenderPurchaseRequired&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TenderPurchaseRequired&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBAD19A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBAD19A99&quot;,&quot;presentation&quot;:&quot;dataEntryEnumRadioButton&quot;,&quot;dataType&quot;:&quot;Bool&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Tender Purchase Required\&quot;,\&quot;showLabel\&quot;:true,\&quot;numOfColumns\&quot;:2}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_131\&quot;,\&quot;left\&quot;:9,\&quot;top\&quot;:550,\&quot;right\&quot;:328,\&quot;bottom\&quot;:60,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:9,\&quot;topBasePx\&quot;:550,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:60,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:60,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -897,7 +897,7 @@
 			<ComponentId>130</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;130&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DBFF9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TenderPurchaseAmount&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TenderPurchaseAmount&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-BC230A675A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A675A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Currency&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;right\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Tender Purchase Amount\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_130\&quot;,\&quot;left\&quot;:369,\&quot;top\&quot;:580,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:369.99993896484375,\&quot;topBasePx\&quot;:580.0000114440918,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;130&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DBFF9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TenderPurchaseAmount&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TenderPurchaseAmount&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-BC230A675A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A675A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Currency&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;right\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Tender Purchase Amount\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_130\&quot;,\&quot;left\&quot;:369,\&quot;top\&quot;:550,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:369,\&quot;topBasePx\&quot;:550,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -943,7 +943,7 @@
 			<ComponentId>117</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;117&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC061A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;ClarificationDeadline&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.ClarificationDeadline&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-282E738B9A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-282E738B9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Clarification Deadline\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_117\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:450,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:450.0000457763672,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;117&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC061A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;ClarificationDeadline&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.ClarificationDeadline&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-282E738B9A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-282E738B9A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Clarification Deadline\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_117\&quot;,\&quot;left\&quot;:740,\&quot;top\&quot;:165,\&quot;right\&quot;:211,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:740,\&quot;topBasePx\&quot;:165,\&quot;widthBasePx\&quot;:211,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:211,\&quot;componentWidthBasePx\&quot;:211,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -989,7 +989,7 @@
 			<ComponentId>125</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;125&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC021A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;OpeningDate&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.OpeningDate&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBAD51A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBAD51A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Opening Date\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_125\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:450,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:450.0000305175781,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;125&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC021A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;OpeningDate&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.OpeningDate&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBAD51A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBAD51A99&quot;,&quot;presentation&quot;:&quot;dataEntryDateTime&quot;,&quot;dataType&quot;:&quot;DateTime&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Opening Date\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_125\&quot;,\&quot;left\&quot;:980,\&quot;top\&quot;:165,\&quot;right\&quot;:211,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:980,\&quot;topBasePx\&quot;:165,\&quot;widthBasePx\&quot;:211,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:211,\&quot;componentWidthBasePx\&quot;:211,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -1035,7 +1035,7 @@
 			<ComponentId>132</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;132&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DBFE9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TenderValidityPeriod&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TenderValidityPeriod&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-749637A89A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-749637A89A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Tender Validity Period\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_132\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:510,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:510.0000457763672,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;132&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DBFE9A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TenderValidityPeriod&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TenderValidityPeriod&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852C-749637A89A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852C-749637A89A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Tender Validity Period\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_132\&quot;,\&quot;left\&quot;:740,\&quot;top\&quot;:225,\&quot;right\&quot;:211,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:740,\&quot;topBasePx\&quot;:225,\&quot;widthBasePx\&quot;:211,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:211,\&quot;componentWidthBasePx\&quot;:211,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -1071,98 +1071,6 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
-			RuntimeDocumentID="00155D27-0470-A1F0-852E-C5D8DC06DA99">
-			<DocumentID>00155D27-0470-A1F0-852E-C5D8DC069A99</DocumentID>
-			<Name>FormPropertyComponentEGWH3IKP7X93JB14JOFX4KDLDNWYB7B7</Name>
-			<Description>FormPropertyComponentEGWH3IKP7X93JB14JOFX4KDLDNWYB7B7</Description>
-			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-08T21:02:21.162</CreationDate>
-			<Notes/>
-			<ComponentId>116</ComponentId>
-			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
-			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;116&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC069A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;AllowMultipleResponses&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.AllowMultipleResponses&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBAE59A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBAE59A99&quot;,&quot;presentation&quot;:&quot;dataEntryEnumRadioButton&quot;,&quot;dataType&quot;:&quot;Bool&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Allow Multiple Responses\&quot;,\&quot;showLabel\&quot;:true,\&quot;numOfColumns\&quot;:2}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_116\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:640,\&quot;right\&quot;:328,\&quot;bottom\&quot;:50,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:640.0000152587891,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:50,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:50,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
-			<ElementType>FormPropertyComponent</ElementType>
-			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
-			<IsContainer>false</IsContainer>
-			<Action/>
-			<ConstrainByRelationship/>
-			<CreatableAssociations/>
-			<CustomScript/>
-			<FilterCriteria/>
-			<Form/>
-			<FormComponentCategories/>
-			<FormComponentDateFormat/>
-			<FormComponentDateTimeFormat/>
-			<FullviewLayoutAssociation/>
-			<Image/>
-			<LocalizableLabel/>
-			<LocalizableTooltip/>
-			<ParentComponent>
-				<uri
-					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
-				/>
-			</ParentComponent>
-			<PathRelationships/>
-			<PickerWorklist/>
-			<PreviewLayoutAssociation/>
-			<Property>
-				<uri
-					id="00155D27-0470-A1F0-852A-99ACBAE59A99"
-				/>
-			</Property>
-			<Relationship/>
-			<RelationshipPath/>
-		</FormComponent>
-		<FormComponent
-			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
-			RuntimeDocumentID="00155D27-0470-A1F0-852E-C5D8DC05DA99">
-			<DocumentID>00155D27-0470-A1F0-852E-C5D8DC059A99</DocumentID>
-			<Name>FormPropertyComponentY4IX7SS0DJGJW7GK7AP29S5FL3I4MFMY</Name>
-			<Description>FormPropertyComponentY4IX7SS0DJGJW7GK7AP29S5FL3I4MFMY</Description>
-			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-08T21:02:21.158</CreationDate>
-			<Notes/>
-			<ComponentId>118</ComponentId>
-			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
-			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;118&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC059A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;DisplayWeightingToBidders&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.DisplayWeightingToBidders&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-99ACBAE29A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-99ACBAE29A99&quot;,&quot;presentation&quot;:&quot;dataEntryEnumRadioButton&quot;,&quot;dataType&quot;:&quot;Bool&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Display Weighting to Bidders\&quot;,\&quot;showLabel\&quot;:true,\&quot;numOfColumns\&quot;:2}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_118\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:640,\&quot;right\&quot;:328,\&quot;bottom\&quot;:50,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:639.9999771118164,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:50,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:50,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
-			<ElementType>FormPropertyComponent</ElementType>
-			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
-			<IsContainer>false</IsContainer>
-			<Action/>
-			<ConstrainByRelationship/>
-			<CreatableAssociations/>
-			<CustomScript/>
-			<FilterCriteria/>
-			<Form/>
-			<FormComponentCategories/>
-			<FormComponentDateFormat/>
-			<FormComponentDateTimeFormat/>
-			<FullviewLayoutAssociation/>
-			<Image/>
-			<LocalizableLabel/>
-			<LocalizableTooltip/>
-			<ParentComponent>
-				<uri
-					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
-				/>
-			</ParentComponent>
-			<PathRelationships/>
-			<PickerWorklist/>
-			<PreviewLayoutAssociation/>
-			<Property>
-				<uri
-					id="00155D27-0470-A1F0-852A-99ACBAE29A99"
-				/>
-			</Property>
-			<Relationship/>
-			<RelationshipPath/>
-		</FormComponent>
-		<FormComponent
-			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
 			RuntimeDocumentID="00155D27-0470-A1F0-852E-C5D8DC03DA99">
 			<DocumentID>00155D27-0470-A1F0-852E-C5D8DC039A99</DocumentID>
 			<Name>FormPropertyComponentFOSW21W8SSLKGN9H5OGORPCR9IGGSFN7</Name>
@@ -1173,7 +1081,7 @@
 			<ComponentId>122</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;122&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC039A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventShortName&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventShortName&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852B-FCBAD9861A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852B-FCBAD9861A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Event Short Name\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_122\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:330,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:330.00001525878906,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;122&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC039A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;EventShortName&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.EventShortName&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852B-FCBAD9861A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852B-FCBAD9861A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Event Short Name\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_122\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:400,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:400,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -1219,7 +1127,7 @@
 			<ComponentId>129</ComponentId>
 			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;129&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC001A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TargetValue&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TargetValue&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-2054D9225A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-2054D9225A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Currency&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;right\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Target Value\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_129\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:330,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:330.0125274658203,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;129&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852E-C5D8DC001A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;TargetValue&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.TargetValue&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852A-2054D9225A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852A-2054D9225A99&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Currency&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;right\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Target Value\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_129\&quot;,\&quot;left\&quot;:370,\&quot;top\&quot;:400,\&quot;right\&quot;:328,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:370,\&quot;topBasePx\&quot;:400,\&quot;widthBasePx\&quot;:328,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:328,\&quot;componentWidthBasePx\&quot;:328,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
 			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
 			<IsContainer>false</IsContainer>
@@ -1247,6 +1155,507 @@
 			<Property>
 				<uri
 					id="00155D27-0470-A1F0-852A-2054D9225A99"
+				/>
+			</Property>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF81151A99">
+			<DocumentID>00155D27-0470-A1F0-852F-CEFF8114DA99</DocumentID>
+			<Name>FormHtmlTextComponentCNPCP4XXO09HVEU2HH2L7XIIDK9UTJPR</Name>
+			<Description>FormHtmlTextComponentCNPCP4XXO09HVEU2HH2L7XIIDK9UTJPR</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:28:35.783</CreationDate>
+			<Notes/>
+			<ComponentId>140</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlTextComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;140&quot;,&quot;componentType&quot;:&quot;HtmlTextComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852F-CEFF8114DA99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;text&quot;:&quot;Event Details&quot;,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;rgb(33, 37, 41)\&quot;,\&quot;fontWeight\&quot;:\&quot;bold\&quot;,\&quot;fontSize\&quot;:\&quot;28px\&quot;,\&quot;textDecoration\&quot;:\&quot;none solid rgb(33, 37, 41)\&quot;,\&quot;fontStyle\&quot;:\&quot;normal\&quot;,\&quot;fontFamily\&quot;:\&quot;\\\&quot;Aktiv grotesk\\\&quot;, Helvetica, \\\&quot;Segoe UI\\\&quot;, Tahoma, Arial, sans-serif\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;backgroundColor\&quot;:\&quot;rgb(255,255,255)\&quot;}&quot;,&quot;textType&quot;:0,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_140\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:20,\&quot;right\&quot;:291,\&quot;bottom\&quot;:40,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:20,\&quot;widthBasePx\&quot;:291,\&quot;heightBasePx\&quot;:40,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:291,\&quot;componentWidthBasePx\&quot;:291,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:40,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlTextComponent</ElementType>
+			<ElementTypeId>EFD77A5DEA92458CB110ADF0FC6D05EF</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF81131A99">
+					<DocumentID>00155D27-0470-A1F0-852F-CEFF8112DA99</DocumentID>
+					<Name>00155D27-0470-A1F0-852F-CEFF8112DA99</Name>
+					<Description>00155D27-0470-A1F0-852F-CEFF8112DA99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-08T21:28:35.79</CreationDate>
+					<Notes/>
+					<DeveloperText>Event Details
+</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-852F-CEFF81135A99"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableLabel>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF81129A99">
+			<DocumentID>00155D27-0470-A1F0-852F-CEFF81125A99</DocumentID>
+			<Name>FormHtmlLineComponentPT50NOA70AXHBO46O77ILWOQIQO8RP1G</Name>
+			<Description>FormHtmlLineComponentPT50NOA70AXHBO46O77ILWOQIQO8RP1G</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:28:35.787</CreationDate>
+			<Notes/>
+			<ComponentId>142</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlLineComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;142&quot;,&quot;componentType&quot;:&quot;HtmlLineComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852F-CEFF81125A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;lineWidth&quot;:&quot;100%&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_142\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:57.25001525878906,\&quot;right\&quot;:690,\&quot;bottom\&quot;:35,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:57.25001525878906,\&quot;widthBasePx\&quot;:690,\&quot;heightBasePx\&quot;:35,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:35,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlLineComponent</ElementType>
+			<ElementTypeId>4527A48A246F4C3DAA33193A13705BAB</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF81121A99">
+			<DocumentID>00155D27-0470-A1F0-852F-CEFF8111DA99</DocumentID>
+			<Name>FormHtmlTextComponentT5NN1VGS1TS0Y8DJGSSEW86HRKIO06PX</Name>
+			<Description>FormHtmlTextComponentT5NN1VGS1TS0Y8DJGSSEW86HRKIO06PX</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:28:35.792</CreationDate>
+			<Notes/>
+			<ComponentId>144</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlTextComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;144&quot;,&quot;componentType&quot;:&quot;HtmlTextComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852F-CEFF8111DA99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;text&quot;:&quot;Dates&quot;,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;rgb(33, 37, 41)\&quot;,\&quot;fontWeight\&quot;:\&quot;bold\&quot;,\&quot;fontSize\&quot;:\&quot;28px\&quot;,\&quot;textDecoration\&quot;:\&quot;none solid rgb(33, 37, 41)\&quot;,\&quot;fontStyle\&quot;:\&quot;normal\&quot;,\&quot;fontFamily\&quot;:\&quot;\\\&quot;Aktiv grotesk\\\&quot;, Helvetica, \\\&quot;Segoe UI\\\&quot;, Tahoma, Arial, sans-serif\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;backgroundColor\&quot;:\&quot;rgb(255,255,255)\&quot;}&quot;,&quot;textType&quot;:0,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_144\&quot;,\&quot;left\&quot;:740,\&quot;top\&quot;:15,\&quot;right\&quot;:220,\&quot;bottom\&quot;:40,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:740,\&quot;topBasePx\&quot;:15,\&quot;widthBasePx\&quot;:220,\&quot;heightBasePx\&quot;:40,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:220,\&quot;componentWidthBasePx\&quot;:220,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:40,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlTextComponent</ElementType>
+			<ElementTypeId>EFD77A5DEA92458CB110ADF0FC6D05EF</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF81109A99">
+					<DocumentID>00155D27-0470-A1F0-852F-CEFF81105A99</DocumentID>
+					<Name>00155D27-0470-A1F0-852F-CEFF81105A99</Name>
+					<Description>00155D27-0470-A1F0-852F-CEFF81105A99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-08T21:28:35.791</CreationDate>
+					<Notes/>
+					<DeveloperText>Dates</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-852F-CEFF8110DA99"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableLabel>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF81101A99">
+			<DocumentID>00155D27-0470-A1F0-852F-CEFF810FDA99</DocumentID>
+			<Name>FormHtmlLineComponentETFC7S255I2JQ8FCNKMAV2D55KMF6F98</Name>
+			<Description>FormHtmlLineComponentETFC7S255I2JQ8FCNKMAV2D55KMF6F98</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:28:35.787</CreationDate>
+			<Notes/>
+			<ComponentId>146</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlLineComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;146&quot;,&quot;componentType&quot;:&quot;HtmlLineComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852F-CEFF810FDA99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;lineWidth&quot;:&quot;100%&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_146\&quot;,\&quot;left\&quot;:740,\&quot;top\&quot;:55.65000915527344,\&quot;right\&quot;:460,\&quot;bottom\&quot;:35,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:740,\&quot;topBasePx\&quot;:55.65000915527344,\&quot;widthBasePx\&quot;:460,\&quot;heightBasePx\&quot;:35,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:35,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlLineComponent</ElementType>
+			<ElementTypeId>4527A48A246F4C3DAA33193A13705BAB</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF810F9A99">
+			<DocumentID>00155D27-0470-A1F0-852F-CEFF810F5A99</DocumentID>
+			<Name>FormHtmlTextComponentN2VJCKRGM2GA3VXYY0S795JSPFAPRRO5</Name>
+			<Description>FormHtmlTextComponentN2VJCKRGM2GA3VXYY0S795JSPFAPRRO5</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:28:35.783</CreationDate>
+			<Notes/>
+			<ComponentId>148</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlTextComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;148&quot;,&quot;componentType&quot;:&quot;HtmlTextComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852F-CEFF810F5A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;text&quot;:&quot;Earnest Money Deposit&quot;,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;rgb(33, 37, 41)\&quot;,\&quot;fontWeight\&quot;:\&quot;bold\&quot;,\&quot;fontSize\&quot;:\&quot;28px\&quot;,\&quot;textDecoration\&quot;:\&quot;none solid rgb(33, 37, 41)\&quot;,\&quot;fontStyle\&quot;:\&quot;normal\&quot;,\&quot;fontFamily\&quot;:\&quot;\\\&quot;Aktiv grotesk\\\&quot;, Helvetica, \\\&quot;Segoe UI\\\&quot;, Tahoma, Arial, sans-serif\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;backgroundColor\&quot;:\&quot;rgb(255,255,255)\&quot;}&quot;,&quot;textType&quot;:0,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_148\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:470,\&quot;right\&quot;:420,\&quot;bottom\&quot;:40,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:470,\&quot;widthBasePx\&quot;:420,\&quot;heightBasePx\&quot;:40,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:420,\&quot;componentWidthBasePx\&quot;:420,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:40,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlTextComponent</ElementType>
+			<ElementTypeId>EFD77A5DEA92458CB110ADF0FC6D05EF</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF810E1A99">
+					<DocumentID>00155D27-0470-A1F0-852F-CEFF810DDA99</DocumentID>
+					<Name>00155D27-0470-A1F0-852F-CEFF810DDA99</Name>
+					<Description>00155D27-0470-A1F0-852F-CEFF810DDA99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-08T21:28:35.787</CreationDate>
+					<Notes/>
+					<DeveloperText>Earnest Money Deposit</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-852F-CEFF810E5A99"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableLabel>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-852F-CEFF810D9A99">
+			<DocumentID>00155D27-0470-A1F0-852F-CEFF810D5A99</DocumentID>
+			<Name>FormHtmlLineComponentTNEDO4IF0WHYYNIS96S158YKP9VYDE5M</Name>
+			<Description>FormHtmlLineComponentTNEDO4IF0WHYYNIS96S158YKP9VYDE5M</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:28:35.79</CreationDate>
+			<Notes/>
+			<ComponentId>150</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlLineComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;150&quot;,&quot;componentType&quot;:&quot;HtmlLineComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-852F-CEFF810D5A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;lineWidth&quot;:&quot;100%&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_150\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:510.65000915527344,\&quot;right\&quot;:690,\&quot;bottom\&quot;:35,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:510.65000915527344,\&quot;widthBasePx\&quot;:690,\&quot;heightBasePx\&quot;:35,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:35,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlLineComponent</ElementType>
+			<ElementTypeId>4527A48A246F4C3DAA33193A13705BAB</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-8530-1E198953DA99">
+			<DocumentID>00155D27-0470-A1F0-8530-1E1989539A99</DocumentID>
+			<Name>FormHtmlTextComponentKIPXKHAYJ3TIR75RRWEAJ67XQQA7UDJB</Name>
+			<Description>FormHtmlTextComponentKIPXKHAYJ3TIR75RRWEAJ67XQQA7UDJB</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:33:50.321</CreationDate>
+			<Notes/>
+			<ComponentId>152</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlTextComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;152&quot;,&quot;componentType&quot;:&quot;HtmlTextComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8530-1E1989539A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;text&quot;:&quot;Notes&quot;,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;rgb(33, 37, 41)\&quot;,\&quot;fontWeight\&quot;:\&quot;bold\&quot;,\&quot;fontSize\&quot;:\&quot;28px\&quot;,\&quot;textDecoration\&quot;:\&quot;none solid rgb(33, 37, 41)\&quot;,\&quot;fontStyle\&quot;:\&quot;normal\&quot;,\&quot;fontFamily\&quot;:\&quot;\\\&quot;Aktiv grotesk\\\&quot;, Helvetica, \\\&quot;Segoe UI\\\&quot;, Tahoma, Arial, sans-serif\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;backgroundColor\&quot;:\&quot;rgb(255,255,255)\&quot;}&quot;,&quot;textType&quot;:0,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_152\&quot;,\&quot;left\&quot;:744,\&quot;top\&quot;:300,\&quot;right\&quot;:100,\&quot;bottom\&quot;:40,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:744,\&quot;topBasePx\&quot;:300,\&quot;widthBasePx\&quot;:100,\&quot;heightBasePx\&quot;:40,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:100,\&quot;componentWidthBasePx\&quot;:100,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:40,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlTextComponent</ElementType>
+			<ElementTypeId>EFD77A5DEA92458CB110ADF0FC6D05EF</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-8530-1E198951DA99">
+					<DocumentID>00155D27-0470-A1F0-8530-1E1989519A99</DocumentID>
+					<Name>00155D27-0470-A1F0-8530-1E1989519A99</Name>
+					<Description>00155D27-0470-A1F0-8530-1E1989519A99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-08T21:33:50.321</CreationDate>
+					<Notes/>
+					<DeveloperText>Notes</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-8530-1E1989521A99"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableLabel>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-8530-1E1989515A99">
+			<DocumentID>00155D27-0470-A1F0-8530-1E1989511A99</DocumentID>
+			<Name>FormHtmlLineComponentI6QKSS4HOKS7Y2RTIJI92FTLOF38C4T1</Name>
+			<Description>FormHtmlLineComponentI6QKSS4HOKS7Y2RTIJI92FTLOF38C4T1</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:33:50.32</CreationDate>
+			<Notes/>
+			<ComponentId>154</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>HtmlLineComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;154&quot;,&quot;componentType&quot;:&quot;HtmlLineComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8530-1E1989511A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;lineWidth&quot;:&quot;100%&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_154\&quot;,\&quot;left\&quot;:747,\&quot;top\&quot;:340.65000915527344,\&quot;right\&quot;:450,\&quot;bottom\&quot;:35,\&quot;overflow\&quot;:\&quot;auto\&quot;,\&quot;leftBasePx\&quot;:747,\&quot;topBasePx\&quot;:340.65000915527344,\&quot;widthBasePx\&quot;:450,\&quot;heightBasePx\&quot;:35,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:35,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormHtmlLineComponent</ElementType>
+			<ElementTypeId>4527A48A246F4C3DAA33193A13705BAB</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-8530-1E198950DA99">
+			<DocumentID>00155D27-0470-A1F0-8530-1E1989509A99</DocumentID>
+			<Name>FormPropertyComponentEN2V14R5MMGK8B869VY4LRNT9AXH6OCF</Name>
+			<Description>FormPropertyComponentEN2V14R5MMGK8B869VY4LRNT9AXH6OCF</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:33:50.32</CreationDate>
+			<Notes/>
+			<ComponentId>156</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>PropertyComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;156&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8530-1E1989509A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;InternalNotes&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.InternalNotes&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852F-CEFF810C1A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852F-CEFF810C1A99&quot;,&quot;presentation&quot;:&quot;dataEntryMultilineText&quot;,&quot;dataType&quot;:&quot;LongText&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Internal Notes\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_156\&quot;,\&quot;left\&quot;:739,\&quot;top\&quot;:380,\&quot;right\&quot;:450,\&quot;bottom\&quot;:100,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:740,\&quot;topBasePx\&quot;:381.0124969482422,\&quot;widthBasePx\&quot;:450,\&quot;heightBasePx\&quot;:100,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:450,\&quot;componentWidthBasePx\&quot;:450,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:100,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormPropertyComponent</ElementType>
+			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property>
+				<uri
+					id="00155D27-0470-A1F0-852F-CEFF810C1A99"
+				/>
+			</Property>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00155D27-0470-A1F0-8530-1E1989505A99">
+			<DocumentID>00155D27-0470-A1F0-8530-1E1989501A99</DocumentID>
+			<Name>FormPropertyComponentY4PD2I9CNH9GE84XGEC9BDBVQ12ES124</Name>
+			<Description>FormPropertyComponentY4PD2I9CNH9GE84XGEC9BDBVQ12ES124</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-08T21:33:50.319</CreationDate>
+			<Notes/>
+			<ComponentId>157</ComponentId>
+			<ComponentParentId>00155D27-0470-A1F0-852A-BC230A5D5A99</ComponentParentId>
+			<ComponentType>PropertyComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;157&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;00155D27-0470-A1F0-852A-BC230A5D5A99&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8530-1E1989501A99&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;VendorViewNotes&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.VendorViewNotes&quot;,&quot;contextId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490419A99.00155D27-0470-A1F0-852F-CEFF81089A99&quot;,&quot;entityElementId&quot;:&quot;00155D27-0470-A1F0-8526-D7B490585A99&quot;,&quot;propertyElementId&quot;:&quot;00155D27-0470-A1F0-852F-CEFF81089A99&quot;,&quot;presentation&quot;:&quot;dataEntryMultilineText&quot;,&quot;dataType&quot;:&quot;LongText&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Vendor View Notes\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_157\&quot;,\&quot;left\&quot;:740,\&quot;top\&quot;:500,\&quot;right\&quot;:450,\&quot;bottom\&quot;:100,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:739.9999694824219,\&quot;topBasePx\&quot;:500,\&quot;widthBasePx\&quot;:450,\&quot;heightBasePx\&quot;:100,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:450,\&quot;componentWidthBasePx\&quot;:450,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:100,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormPropertyComponent</ElementType>
+			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-852A-BC230A5D5A99"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property>
+				<uri
+					id="00155D27-0470-A1F0-852F-CEFF81089A99"
 				/>
 			</Property>
 			<Relationship/>
