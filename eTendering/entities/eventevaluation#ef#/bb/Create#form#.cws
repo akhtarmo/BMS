@@ -94,11 +94,7 @@
 			<PathRelationships/>
 			<PickerWorklist/>
 			<PreviewLayoutAssociation/>
-			<Property>
-				<uri
-					id="00155D27-0470-A1F0-8546-8CE906DCDA99"
-				/>
-			</Property>
+			<Property/>
 			<Relationship/>
 			<RelationshipPath/>
 		</FormComponent>
@@ -140,11 +136,7 @@
 			<PathRelationships/>
 			<PickerWorklist/>
 			<PreviewLayoutAssociation/>
-			<Property>
-				<uri
-					id="00155D27-0470-A1F0-8546-8CE906D95A99"
-				/>
-			</Property>
+			<Property/>
 			<Relationship/>
 			<RelationshipPath/>
 		</FormComponent>

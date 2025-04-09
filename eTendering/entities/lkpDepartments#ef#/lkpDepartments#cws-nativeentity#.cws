@@ -617,6 +617,79 @@
 						/>
 					</TypeDefinition>
 				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00155D27-0470-A1F0-8558-558241A21A99">
+					<DocumentID>00155D27-0470-A1F0-8558-558241A1DA99</DocumentID>
+					<Name>DepartmentShortCode</Name>
+					<Description>DepartmentShortCode</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-09T16:53:47.066</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>Text</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-852C-17B3CECF5A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-8558-5582419F9A99">
+							<DocumentID>00155D27-0470-A1F0-8558-5582419F5A99</DocumentID>
+							<Name>00155D27-0470-A1F0-8558-5582419F5A99</Name>
+							<Description>00155D27-0470-A1F0-8558-5582419F5A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T16:53:47.068</CreationDate>
+							<Notes/>
+							<DeveloperText>Department Short Code</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-8558-5582419FDA99"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<OwnedTypeDefinition>
+						<SmallTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00155D27-0470-A1F0-8558-558241A19A99">
+							<DocumentID>00155D27-0470-A1F0-8558-558241A15A99</DocumentID>
+							<Name>00155D27-0470-A1F0-8558-558241A15A99</Name>
+							<Description>00155D27-0470-A1F0-8558-558241A15A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T16:53:47.067</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<Length>4</Length>
+							<Pattern></Pattern>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75561F9D"
+								/>
+							</Type>
+						</SmallTextPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00155D27-0470-A1F0-8558-558241A15A99"
+						/>
+					</TypeDefinition>
+				</Property>
 			</Properties>
 		</PropertyBuildingBlock>
 		<TitleBuildingBlock

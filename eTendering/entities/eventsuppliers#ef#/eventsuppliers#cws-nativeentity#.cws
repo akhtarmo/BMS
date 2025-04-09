@@ -622,86 +622,6 @@
 				</Property>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="00155D27-0470-A1F0-8557-6ED201BA5A99">
-					<DocumentID>00155D27-0470-A1F0-8557-6ED201BA1A99</DocumentID>
-					<Name>ParticipationConfirmed</Name>
-					<Description>ParticipationConfirmed</Description>
-					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-09T16:18:51.474</CreationDate>
-					<Notes/>
-					<ConflictLevel>None</ConflictLevel>
-					<DataType>Bool</DataType>
-					<ExposeForReuse>false</ExposeForReuse>
-					<Expression></Expression>
-					<IsComputedProperty>false</IsComputedProperty>
-					<IsReadOnly>false</IsReadOnly>
-					<IsRequired>false</IsRequired>
-					<IsValueUnique>false</IsValueUnique>
-					<StaticProperty></StaticProperty>
-					<Updatability>ReadWrite</Updatability>
-					<BuildingBlock>
-						<uri
-							id="00155D27-0470-A1F0-8557-6ED201BF1A99"
-						/>
-					</BuildingBlock>
-					<DisplayName>
-						<TranslatableText
-							type="com.cordys.translation.TranslatableText"
-							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-							RuntimeDocumentID="00155D27-0470-A1F0-8557-6ED201B6DA99">
-							<DocumentID>00155D27-0470-A1F0-8557-6ED201B69A99</DocumentID>
-							<Name>00155D27-0470-A1F0-8557-6ED201B69A99</Name>
-							<Description>00155D27-0470-A1F0-8557-6ED201B69A99</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-09T16:18:51.458</CreationDate>
-							<Notes/>
-							<DeveloperText>Participation Confirmed</DeveloperText>
-							<Identifier>
-								<uri
-									id="00155D27-0470-A1F0-8557-6ED201B71A99"
-								/>
-							</Identifier>
-						</TranslatableText>
-					</DisplayName>
-					<OwnedTypeDefinition>
-						<BoolPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.staticEnum.BoolPropertyDefinition"
-							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="00155D27-0470-A1F0-8557-6ED201B65A99">
-							<DocumentID>00155D27-0470-A1F0-8557-6ED201B61A99</DocumentID>
-							<Name>00155D27-0470-A1F0-8557-6ED201B61A99</Name>
-							<Description>00155D27-0470-A1F0-8557-6ED201B61A99</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-09T16:18:51.469</CreationDate>
-							<Notes/>
-							<DefaultValue>false</DefaultValue>
-							<FalseValue>false</FalseValue>
-							<NoneValue>none</NoneValue>
-							<TrueValue>true</TrueValue>
-							<lowerBound>1</lowerBound>
-							<upperBound>1</upperBound>
-							<FalseDisplayName/>
-							<FalseIcon/>
-							<NoneDisplayName/>
-							<NoneIcon/>
-							<TrueDisplayName/>
-							<TrueIcon/>
-							<Type>
-								<uri
-									id="005056C0-0008-11E6-FAF8-E91C59EAFF9D"
-								/>
-							</Type>
-						</BoolPropertyDefinition>
-					</OwnedTypeDefinition>
-					<Tooltip/>
-					<TypeDefinition>
-						<uri
-							id="00155D27-0470-A1F0-8557-6ED201B61A99"
-						/>
-					</TypeDefinition>
-				</Property>
-				<Property
-					type="com.cordys.entity.core.structure.property.Property"
 					RuntimeDocumentID="00155D27-0470-A1F0-8557-6ED201B5DA99">
 					<DocumentID>00155D27-0470-A1F0-8557-6ED201B59A99</DocumentID>
 					<Name>Awarded</Name>
@@ -756,15 +676,51 @@
 							<Notes/>
 							<DefaultValue>false</DefaultValue>
 							<FalseValue>false</FalseValue>
-							<NoneValue>none</NoneValue>
+							<NoneValue>DeletedNoneValue</NoneValue>
 							<TrueValue>true</TrueValue>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
-							<FalseDisplayName/>
+							<FalseDisplayName>
+								<TranslatableText
+									type="com.cordys.translation.TranslatableText"
+									typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+									RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AACA9A99">
+									<DocumentID>00155D27-0470-A1F0-855B-3B18AACA5A99</DocumentID>
+									<Name>00155D27-0470-A1F0-855B-3B18AACA5A99</Name>
+									<Description>00155D27-0470-A1F0-855B-3B18AACA5A99</Description>
+									<CreatedBy>PS Dev</CreatedBy>
+									<CreationDate>2025-04-09T18:22:54.213</CreationDate>
+									<Notes/>
+									<DeveloperText>No</DeveloperText>
+									<Identifier>
+										<uri
+											id="00155D27-0470-A1F0-852E-C5D8DBFB5A99"
+										/>
+									</Identifier>
+								</TranslatableText>
+							</FalseDisplayName>
 							<FalseIcon/>
 							<NoneDisplayName/>
 							<NoneIcon/>
-							<TrueDisplayName/>
+							<TrueDisplayName>
+								<TranslatableText
+									type="com.cordys.translation.TranslatableText"
+									typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+									RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AACB1A99">
+									<DocumentID>00155D27-0470-A1F0-855B-3B18AACADA99</DocumentID>
+									<Name>00155D27-0470-A1F0-855B-3B18AACADA99</Name>
+									<Description>00155D27-0470-A1F0-855B-3B18AACADA99</Description>
+									<CreatedBy>PS Dev</CreatedBy>
+									<CreationDate>2025-04-09T18:22:54.212</CreationDate>
+									<Notes/>
+									<DeveloperText>Yes</DeveloperText>
+									<Identifier>
+										<uri
+											id="00155D27-0470-A1F0-852E-C5D8DBFCDA99"
+										/>
+									</Identifier>
+								</TranslatableText>
+							</TrueDisplayName>
 							<TrueIcon/>
 							<Type>
 								<uri
@@ -777,6 +733,549 @@
 					<TypeDefinition>
 						<uri
 							id="00155D27-0470-A1F0-8557-6ED201B41A99"
+						/>
+					</TypeDefinition>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E56D9A99">
+					<DocumentID>00155D27-0470-A1F0-8558-DC58E56D5A99</DocumentID>
+					<Name>Status</Name>
+					<Description>Status</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-09T18:06:58.298</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>TextValueList</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-8557-6ED201BF1A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E56B1A99">
+							<DocumentID>00155D27-0470-A1F0-8558-DC58E56ADA99</DocumentID>
+							<Name>00155D27-0470-A1F0-8558-DC58E56ADA99</Name>
+							<Description>00155D27-0470-A1F0-8558-DC58E56ADA99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T18:06:58.295</CreationDate>
+							<Notes/>
+							<DeveloperText>Status</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-8558-DC58E56B5A99"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<OwnedTypeDefinition>
+						<TextEnumPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.staticEnum.TextEnumPropertyDefinition"
+							typeVersion="005056C0-0008-11E6-ECD4-9ED50A5AFB27 4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5691A99">
+							<DocumentID>00155D27-0470-A1F0-8558-DC58E568DA99</DocumentID>
+							<Name>00155D27-0470-A1F0-8558-DC58E568DA99</Name>
+							<Description>00155D27-0470-A1F0-8558-DC58E568DA99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T18:06:58.294</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<IsEnumerationSorted>false</IsEnumerationSorted>
+							<Length>64</Length>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<DefaultEnum/>
+							<Enums/>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75555F9D"
+								/>
+							</Type>
+							<ValuesDefinition>
+								<StaticTextEnumSet
+									type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnumSet"
+									RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5689A99">
+									<DocumentID>00155D27-0470-A1F0-8558-DC58E5685A99</DocumentID>
+									<Name>Untitled StaticTextEnumSet</Name>
+									<Description>Untitled StaticTextEnumSet</Description>
+									<CreatedBy>PS Dev</CreatedBy>
+									<CreationDate>2025-04-09T18:06:58.299</CreationDate>
+									<Notes/>
+									<DefaultEnum>
+										<uri
+											id="00155D27-0470-A1F0-8558-DC58E567DA99"
+										/>
+									</DefaultEnum>
+									<Enums>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5681A99">
+											<DocumentID>00155D27-0470-A1F0-8558-DC58E567DA99</DocumentID>
+											<Name>Untitled Static Text Enum</Name>
+											<Description>Untitled Static Text Enum</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.29</CreationDate>
+											<Notes/>
+											<IsNullEntry>true</IsNullEntry>
+											<Value></Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5679A99">
+													<DocumentID>00155D27-0470-A1F0-8558-DC58E5675A99</DocumentID>
+													<Name>00155D27-0470-A1F0-8558-DC58E5675A99</Name>
+													<Description>00155D27-0470-A1F0-8558-DC58E5675A99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.294</CreationDate>
+													<Notes/>
+													<DeveloperText>Select One</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-852E-587B2CAF1A99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5671A99">
+											<DocumentID>00155D27-0470-A1F0-8558-DC58E566DA99</DocumentID>
+											<Name>Untitled Static Text Enum (1)</Name>
+											<Description>Untitled Static Text Enum (1)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.297</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Invited</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5641A99">
+													<DocumentID>00155D27-0470-A1F0-8558-DC58E563DA99</DocumentID>
+													<Name>00155D27-0470-A1F0-8558-DC58E563DA99</Name>
+													<Description>00155D27-0470-A1F0-8558-DC58E563DA99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.3</CreationDate>
+													<Notes/>
+													<DeveloperText>Invited</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-8558-DC58E5645A99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5669A99">
+											<DocumentID>00155D27-0470-A1F0-8558-DC58E5665A99</DocumentID>
+											<Name>Untitled Static Text Enum (2)</Name>
+											<Description>Untitled Static Text Enum (2)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.292</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Expressed Interest</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5629A99">
+													<DocumentID>00155D27-0470-A1F0-8558-DC58E5625A99</DocumentID>
+													<Name>00155D27-0470-A1F0-8558-DC58E5625A99</Name>
+													<Description>00155D27-0470-A1F0-8558-DC58E5625A99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.294</CreationDate>
+													<Notes/>
+													<DeveloperText>Expressed Interest</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-8558-DC58E562DA99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5661A99">
+											<DocumentID>00155D27-0470-A1F0-8558-DC58E565DA99</DocumentID>
+											<Name>Untitled Static Text Enum (3)</Name>
+											<Description>Untitled Static Text Enum (3)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.297</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Approved</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5621A99">
+													<DocumentID>00155D27-0470-A1F0-8558-DC58E561DA99</DocumentID>
+													<Name>00155D27-0470-A1F0-8558-DC58E561DA99</Name>
+													<Description>00155D27-0470-A1F0-8558-DC58E561DA99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.299</CreationDate>
+													<Notes/>
+													<DeveloperText>Approved</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-8530-851469F01A99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5619A99">
+											<DocumentID>00155D27-0470-A1F0-8558-DC58E5615A99</DocumentID>
+											<Name>Untitled Static Text Enum (4)</Name>
+											<Description>Untitled Static Text Enum (4)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.298</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Rejected</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5611A99">
+													<DocumentID>00155D27-0470-A1F0-8558-DC58E560DA99</DocumentID>
+													<Name>00155D27-0470-A1F0-8558-DC58E560DA99</Name>
+													<Description>00155D27-0470-A1F0-8558-DC58E560DA99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.292</CreationDate>
+													<Notes/>
+													<DeveloperText>Rejected</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-8530-851469F19A99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5609A99">
+											<DocumentID>00155D27-0470-A1F0-8558-DC58E5605A99</DocumentID>
+											<Name>Untitled Static Text Enum (5)</Name>
+											<Description>Untitled Static Text Enum (5)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.3</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Disqualified</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AAD89A99">
+													<DocumentID>00155D27-0470-A1F0-855B-3B18AAD85A99</DocumentID>
+													<Name>00155D27-0470-A1F0-855B-3B18AAD85A99</Name>
+													<Description>00155D27-0470-A1F0-855B-3B18AAD85A99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.293</CreationDate>
+													<Notes/>
+													<DeveloperText>Disqualified</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-855B-3B18AAD8DA99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AAD81A99">
+											<DocumentID>00155D27-0470-A1F0-855B-3B18AAD7DA99</DocumentID>
+											<Name>Untitled Static Text Enum (6)</Name>
+											<Description>Untitled Static Text Enum (6)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.294</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Declined</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AAD61A99">
+													<DocumentID>00155D27-0470-A1F0-855B-3B18AAD5DA99</DocumentID>
+													<Name>00155D27-0470-A1F0-855B-3B18AAD5DA99</Name>
+													<Description>00155D27-0470-A1F0-855B-3B18AAD5DA99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.293</CreationDate>
+													<Notes/>
+													<DeveloperText>Declined</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-855B-3B18AAD65A99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AAD79A99">
+											<DocumentID>00155D27-0470-A1F0-855B-3B18AAD75A99</DocumentID>
+											<Name>Untitled Static Text Enum (7)</Name>
+											<Description>Untitled Static Text Enum (7)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-09T18:06:58.295</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Submitted Bid</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8558-DC58E5685A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AAD19A99">
+													<DocumentID>00155D27-0470-A1F0-855B-3B18AAD15A99</DocumentID>
+													<Name>00155D27-0470-A1F0-855B-3B18AAD15A99</Name>
+													<Description>00155D27-0470-A1F0-855B-3B18AAD15A99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-09T18:06:58.295</CreationDate>
+													<Notes/>
+													<DeveloperText>Submitted Bid</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-855B-3B18AAD1DA99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+									</Enums>
+									<PropertyDefinition>
+										<uri
+											id="00155D27-0470-A1F0-8558-DC58E568DA99"
+										/>
+									</PropertyDefinition>
+								</StaticTextEnumSet>
+							</ValuesDefinition>
+						</TextEnumPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00155D27-0470-A1F0-8558-DC58E568DA99"
+						/>
+					</TypeDefinition>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AAD11A99">
+					<DocumentID>00155D27-0470-A1F0-855B-3B18AAD0DA99</DocumentID>
+					<Name>DateAdded</Name>
+					<Description>DateAdded</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-09T18:06:58.299</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>Date</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-8557-6ED201BF1A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AACF1A99">
+							<DocumentID>00155D27-0470-A1F0-855B-3B18AACEDA99</DocumentID>
+							<Name>00155D27-0470-A1F0-855B-3B18AACEDA99</Name>
+							<Description>00155D27-0470-A1F0-855B-3B18AACEDA99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T18:06:58.291</CreationDate>
+							<Notes/>
+							<DeveloperText>Date Added</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-855B-3B18AACF5A99"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<OwnedTypeDefinition>
+						<DatePropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.date.DatePropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AACE9A99">
+							<DocumentID>00155D27-0470-A1F0-855B-3B18AACE5A99</DocumentID>
+							<Name>00155D27-0470-A1F0-855B-3B18AACE5A99</Name>
+							<Description>00155D27-0470-A1F0-855B-3B18AACE5A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T18:06:58.291</CreationDate>
+							<Notes/>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF8-E91C59EA3F9D"
+								/>
+							</Type>
+						</DatePropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00155D27-0470-A1F0-855B-3B18AACE5A99"
+						/>
+					</TypeDefinition>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AACE1A99">
+					<DocumentID>00155D27-0470-A1F0-855B-3B18AACDDA99</DocumentID>
+					<Name>Comments</Name>
+					<Description>Comments</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-09T18:06:58.297</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>LongText</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-8557-6ED201BF1A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AACD1A99">
+							<DocumentID>00155D27-0470-A1F0-855B-3B18AACCDA99</DocumentID>
+							<Name>00155D27-0470-A1F0-855B-3B18AACCDA99</Name>
+							<Description>00155D27-0470-A1F0-855B-3B18AACCDA99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T18:06:58.295</CreationDate>
+							<Notes/>
+							<DeveloperText>Comments</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-8546-8CE906D3DA99"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<OwnedTypeDefinition>
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00155D27-0470-A1F0-855B-3B18AACC9A99">
+							<DocumentID>00155D27-0470-A1F0-855B-3B18AACC5A99</DocumentID>
+							<Name>00155D27-0470-A1F0-855B-3B18AACC5A99</Name>
+							<Description>00155D27-0470-A1F0-855B-3B18AACC5A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-09T18:06:58.298</CreationDate>
+							<Notes/>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75567F9D"
+								/>
+							</Type>
+						</LongTextPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00155D27-0470-A1F0-855B-3B18AACC5A99"
 						/>
 					</TypeDefinition>
 				</Property>

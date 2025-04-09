@@ -37,7 +37,59 @@
 		/>
 	</BuildingBlock>
 	<CardViewConfiguration/>
-	<ChartViewConfigurations/>
+	<ChartViewConfigurations>
+		<ChartViewConfiguration
+			type="com.cordys.entity.buildingblocks.worklist.ChartViewConfiguration"
+			RuntimeDocumentID="00155D27-0470-A1F0-8562-A507FC449A99">
+			<DocumentID>00155D27-0470-A1F0-8562-A507FC445A99</DocumentID>
+			<Name>00155D270470A1F08562A507FC445A99_chartview_Association</Name>
+			<Description>00155D270470A1F08562A507FC445A99_chartview_Association</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-09T21:49:05.117</CreationDate>
+			<Notes/>
+			<AggregatorName></AggregatorName>
+			<RendererName></RendererName>
+			<AggregatorAssociation>
+				<AggregatorAssociation
+					type="com.cordys.entity.buildingblocks.worklist.AggregatorAssociation"
+					RuntimeDocumentID="00155D27-0470-A1F0-8562-A507FC43DA99">
+					<DocumentID>00155D27-0470-A1F0-8562-A507FC439A99</DocumentID>
+					<Name>00155D270470A1F08562A507FC439A99_aggregator_Association</Name>
+					<Description>00155D270470A1F08562A507FC439A99_aggregator_Association</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-09T21:49:05.117</CreationDate>
+					<Notes/>
+					<Aggregator/>
+				</AggregatorAssociation>
+			</AggregatorAssociation>
+			<XAxisAssociation>
+				<XAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.XAxisAssociation"
+					RuntimeDocumentID="00155D27-0470-A1F0-8562-A507FC435A99">
+					<DocumentID>00155D27-0470-A1F0-8562-A507FC431A99</DocumentID>
+					<Name>00155D270470A1F08562A507FC431A99_xAxis_Association</Name>
+					<Description>00155D270470A1F08562A507FC431A99_xAxis_Association</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-09T21:49:05.117</CreationDate>
+					<Notes/>
+					<XAxis/>
+				</XAxisAssociation>
+			</XAxisAssociation>
+			<YAxisAssociation>
+				<YAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.YAxisAssociation"
+					RuntimeDocumentID="00155D27-0470-A1F0-8562-A507FC42DA99">
+					<DocumentID>00155D27-0470-A1F0-8562-A507FC429A99</DocumentID>
+					<Name>00155D270470A1F08562A507FC429A99_yAxis_Association</Name>
+					<Description>00155D270470A1F08562A507FC429A99_yAxis_Association</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-09T21:49:05.117</CreationDate>
+					<Notes/>
+					<YAxis/>
+				</YAxisAssociation>
+			</YAxisAssociation>
+		</ChartViewConfiguration>
+	</ChartViewConfigurations>
 	<ConditionalCountCriteria/>
 	<CreatableAssociations/>
 	<DisplayName>
@@ -255,154 +307,6 @@
 			<Property>
 				<uri
 					id="00155D27-0470-A1F0-8543-6B79D4521A99"
-				/>
-			</Property>
-			<WorklistDateFormat/>
-			<WorklistDateTimeFormat/>
-		</WorklistColumn>
-		<WorklistColumn
-			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
-			RuntimeDocumentID="00155D27-0470-A1F0-8546-95E7FE8B9A99">
-			<DocumentID>00155D27-0470-A1F0-8546-95E7FE8B5A99</DocumentID>
-			<Name>Untitled WorklistColumn (2)</Name>
-			<Description>Untitled WorklistColumn (2)</Description>
-			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-09T08:41:21.909</CreationDate>
-			<Notes/>
-			<ColumnAlignment>0</ColumnAlignment>
-			<ColumnLabel></ColumnLabel>
-			<DataType>Integer</DataType>
-			<DefaultSortType>0</DefaultSortType>
-			<Definition></Definition>
-			<FormatterName>resultSimpleNumber</FormatterName>
-			<HiddenInResult>false</HiddenInResult>
-			<InForm>true</InForm>
-			<IsComputedProperty>false</IsComputedProperty>
-			<ItemMemberId>00155D27-0470-A1F0-8543-6B79D455DA99</ItemMemberId>
-			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>Untitled_Entity</OwnerName>
-			<PropertyId>00155D27-0470-A1F0-8546-8CE906DD1A99</PropertyId>
-			<PropertyName>Score</PropertyName>
-			<StaticPropertyId></StaticPropertyId>
-			<ItemMemberPropertyPath>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-8546-95E7FE8B1A99">
-					<DocumentID>00155D27-0470-A1F0-8546-95E7FE8ADA99</DocumentID>
-					<Name>00155D27-0470-A1F0-8546-95E7FE8ADA99</Name>
-					<Description>00155D27-0470-A1F0-8546-95E7FE8ADA99</Description>
-					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-09T08:41:21.895</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="00155D27-0470-A1F0-8546-8CE906DCDA99"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="00155D27-0470-A1F0-8546-8CE906C9DA99"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="00155D27-0470-A1F0-8543-6B79D466DA99"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="00155D27-0470-A1F0-8546-8CE906DCDA99"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="00155D27-0470-A1F0-8543-6B79D466DA99"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-			</ItemMemberPropertyPath>
-			<Layout/>
-			<LocalizableColumnLabel/>
-			<Property>
-				<uri
-					id="00155D27-0470-A1F0-8546-8CE906DCDA99"
-				/>
-			</Property>
-			<WorklistDateFormat/>
-			<WorklistDateTimeFormat/>
-		</WorklistColumn>
-		<WorklistColumn
-			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
-			RuntimeDocumentID="00155D27-0470-A1F0-8546-95E7FE8A9A99">
-			<DocumentID>00155D27-0470-A1F0-8546-95E7FE8A5A99</DocumentID>
-			<Name>Untitled WorklistColumn (3)</Name>
-			<Description>Untitled WorklistColumn (3)</Description>
-			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-09T08:41:21.896</CreationDate>
-			<Notes/>
-			<ColumnAlignment>0</ColumnAlignment>
-			<ColumnLabel></ColumnLabel>
-			<DataType>Decimal</DataType>
-			<DefaultSortType>0</DefaultSortType>
-			<Definition></Definition>
-			<FormatterName>resultSimpleNumber</FormatterName>
-			<HiddenInResult>false</HiddenInResult>
-			<InForm>true</InForm>
-			<IsComputedProperty>false</IsComputedProperty>
-			<ItemMemberId>00155D27-0470-A1F0-8543-6B79D455DA99</ItemMemberId>
-			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>Untitled_Entity</OwnerName>
-			<PropertyId>00155D27-0470-A1F0-8546-8CE906D99A99</PropertyId>
-			<PropertyName>WeightedScore</PropertyName>
-			<StaticPropertyId></StaticPropertyId>
-			<ItemMemberPropertyPath>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-8546-95E7FE8A1A99">
-					<DocumentID>00155D27-0470-A1F0-8546-95E7FE89DA99</DocumentID>
-					<Name>00155D27-0470-A1F0-8546-95E7FE89DA99</Name>
-					<Description>00155D27-0470-A1F0-8546-95E7FE89DA99</Description>
-					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-09T08:41:21.9</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="00155D27-0470-A1F0-8546-8CE906D95A99"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="00155D27-0470-A1F0-8546-8CE906C9DA99"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="00155D27-0470-A1F0-8543-6B79D466DA99"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="00155D27-0470-A1F0-8546-8CE906D95A99"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="00155D27-0470-A1F0-8543-6B79D466DA99"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-			</ItemMemberPropertyPath>
-			<Layout/>
-			<LocalizableColumnLabel/>
-			<Property>
-				<uri
-					id="00155D27-0470-A1F0-8546-8CE906D95A99"
 				/>
 			</Property>
 			<WorklistDateFormat/>
