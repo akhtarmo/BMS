@@ -957,6 +957,78 @@
 						/>
 					</Target>
 				</Relationship>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="00155D27-0470-A1F0-8594-D441C39E1A99">
+					<DocumentID>00155D27-0470-A1F0-8594-D441C39DDA99</DocumentID>
+					<Name>RelCommitteeMemberIsUser</Name>
+					<Description>RelCommitteeMemberIsUser</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-10T21:53:39.222</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>true</HasFK>
+					<MaxCardinality>1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>false</OwnsJoinTable>
+					<RelationshipType>ToPeer</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-852E-86EB2D4FDA99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-8594-D441C39B9A99">
+							<DocumentID>00155D27-0470-A1F0-8594-D441C39B5A99</DocumentID>
+							<Name>00155D27-0470-A1F0-8594-D441C39B5A99</Name>
+							<Description>00155D27-0470-A1F0-8594-D441C39B5A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-10T21:53:39.222</CreationDate>
+							<Notes/>
+							<DeveloperText>relCommittee Member is User</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-8594-D441C39BDA99"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<ForeignKeyProperties>
+						<uri
+							id="00155D27-0470-A1F0-8594-D441C39D5A99"
+						/>
+					</ForeignKeyProperties>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties>
+						<ReferringProperty
+							type="com.cordys.entity.core.structure.relationship.ReferringProperty"
+							RuntimeDocumentID="00155D27-0470-A1F0-8594-D441C39D9A99">
+							<DocumentID>00155D27-0470-A1F0-8594-D441C39D5A99</DocumentID>
+							<Name>RelCommitteeMemberIsUser_Id</Name>
+							<Description>RelCommitteeMemberIsUser_Id</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-10T21:53:39.221</CreationDate>
+							<Notes/>
+							<NameIsExternallyManaged>false</NameIsExternallyManaged>
+							<TargetProperty>
+								<uri
+									id="F8B156B4-FF8F-11E6-E6F1-BB7823D79319"
+								/>
+							</TargetProperty>
+						</ReferringProperty>
+					</ReferringProperties>
+					<Target>
+						<uri
+							id="F8B156E1-0371-11E6-E9CB-0FBF3334DBBF"
+						/>
+					</Target>
+				</Relationship>
 			</Relationships>
 		</RelationshipBuildingBlock>
 	</OwnedBuildingBlocks>

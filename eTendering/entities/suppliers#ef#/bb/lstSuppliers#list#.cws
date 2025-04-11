@@ -37,7 +37,59 @@
 		/>
 	</BuildingBlock>
 	<CardViewConfiguration/>
-	<ChartViewConfigurations/>
+	<ChartViewConfigurations>
+		<ChartViewConfiguration
+			type="com.cordys.entity.buildingblocks.worklist.ChartViewConfiguration"
+			RuntimeDocumentID="00155D27-0470-A1F0-8583-01F4ABCD5A99">
+			<DocumentID>00155D27-0470-A1F0-8583-01F4ABCD1A99</DocumentID>
+			<Name>00155D270470A1F0858301F4ABCD1A99_chartview_Association</Name>
+			<Description>00155D270470A1F0858301F4ABCD1A99_chartview_Association</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-10T18:51:34.412</CreationDate>
+			<Notes/>
+			<AggregatorName></AggregatorName>
+			<RendererName></RendererName>
+			<AggregatorAssociation>
+				<AggregatorAssociation
+					type="com.cordys.entity.buildingblocks.worklist.AggregatorAssociation"
+					RuntimeDocumentID="00155D27-0470-A1F0-8583-01F4ABCC9A99">
+					<DocumentID>00155D27-0470-A1F0-8583-01F4ABCC5A99</DocumentID>
+					<Name>00155D270470A1F0858301F4ABCC5A99_aggregator_Association</Name>
+					<Description>00155D270470A1F0858301F4ABCC5A99_aggregator_Association</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-10T18:51:34.412</CreationDate>
+					<Notes/>
+					<Aggregator/>
+				</AggregatorAssociation>
+			</AggregatorAssociation>
+			<XAxisAssociation>
+				<XAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.XAxisAssociation"
+					RuntimeDocumentID="00155D27-0470-A1F0-8583-01F4ABCC1A99">
+					<DocumentID>00155D27-0470-A1F0-8583-01F4ABCBDA99</DocumentID>
+					<Name>00155D270470A1F0858301F4ABCBDA99_xAxis_Association</Name>
+					<Description>00155D270470A1F0858301F4ABCBDA99_xAxis_Association</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-10T18:51:34.412</CreationDate>
+					<Notes/>
+					<XAxis/>
+				</XAxisAssociation>
+			</XAxisAssociation>
+			<YAxisAssociation>
+				<YAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.YAxisAssociation"
+					RuntimeDocumentID="00155D27-0470-A1F0-8583-01F4ABCB9A99">
+					<DocumentID>00155D27-0470-A1F0-8583-01F4ABCB5A99</DocumentID>
+					<Name>00155D270470A1F0858301F4ABCB5A99_yAxis_Association</Name>
+					<Description>00155D270470A1F0858301F4ABCB5A99_yAxis_Association</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-10T18:51:34.412</CreationDate>
+					<Notes/>
+					<YAxis/>
+				</YAxisAssociation>
+			</YAxisAssociation>
+		</ChartViewConfiguration>
+	</ChartViewConfigurations>
 	<ConditionalCountCriteria/>
 	<CreatableAssociations/>
 	<DisplayName>
@@ -643,6 +695,80 @@
 			<Property>
 				<uri
 					id="00155D27-0470-A1F0-8553-8D9CDA641A99"
+				/>
+			</Property>
+			<WorklistDateFormat/>
+			<WorklistDateTimeFormat/>
+		</WorklistColumn>
+		<WorklistColumn
+			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
+			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			RuntimeDocumentID="00155D27-0470-A1F0-8583-01F4ABCB1A99">
+			<DocumentID>00155D27-0470-A1F0-8583-01F4ABCADA99</DocumentID>
+			<Name>Untitled WorklistColumn (7)</Name>
+			<Description>Untitled WorklistColumn (7)</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-10T18:51:34.413</CreationDate>
+			<Notes/>
+			<ColumnAlignment>0</ColumnAlignment>
+			<ColumnLabel></ColumnLabel>
+			<DataType>Text</DataType>
+			<DefaultSortType>0</DefaultSortType>
+			<Definition></Definition>
+			<FormatterName>resultSimple</FormatterName>
+			<HiddenInResult>false</HiddenInResult>
+			<InForm>true</InForm>
+			<IsComputedProperty>false</IsComputedProperty>
+			<ItemMemberId>00155D27-0470-A1F0-854B-A732B116DA99</ItemMemberId>
+			<ItemMemberPath></ItemMemberPath>
+			<OwnerName>suppliers</OwnerName>
+			<PropertyId>00155D27-0470-A1F0-8583-01F4ABCF9A99</PropertyId>
+			<PropertyName>BusinessId</PropertyName>
+			<StaticPropertyId></StaticPropertyId>
+			<ItemMemberPropertyPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="00155D27-0470-A1F0-8583-01F4ABCA9A99">
+					<DocumentID>00155D27-0470-A1F0-8583-01F4ABCA5A99</DocumentID>
+					<Name>00155D27-0470-A1F0-8583-01F4ABCA5A99</Name>
+					<Description>00155D27-0470-A1F0-8583-01F4ABCA5A99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-10T18:51:34.413</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
+					<IntermediateRelationships/>
+					<Object>
+						<uri
+							id="00155D27-0470-A1F0-8583-01F4ABCF5A99"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="00155D27-0470-A1F0-8553-8D9CDA551A99"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="00155D27-0470-A1F0-854B-A732B11D1A99"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="00155D27-0470-A1F0-8583-01F4ABCF5A99"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="00155D27-0470-A1F0-854B-A732B11D1A99"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+			</ItemMemberPropertyPath>
+			<Layout/>
+			<LocalizableColumnLabel/>
+			<Property>
+				<uri
+					id="00155D27-0470-A1F0-8583-01F4ABCF5A99"
 				/>
 			</Property>
 			<WorklistDateFormat/>

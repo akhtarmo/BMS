@@ -26,9 +26,9 @@
 	<MaxCount>200</MaxCount>
 	<SecuredByEntity>false</SecuredByEntity>
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
-	<ShowCreateButton>true</ShowCreateButton>
+	<ShowCreateButton>false</ShowCreateButton>
 	<ShowTotalCountInList>false</ShowTotalCountInList>
-	<UserVisible>true</UserVisible>
+	<UserVisible>false</UserVisible>
 	<ActionBar/>
 	<AssignedFilterCriteria/>
 	<BuildingBlock>

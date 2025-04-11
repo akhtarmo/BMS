@@ -598,17 +598,53 @@
 							<CreatedBy>PS Dev</CreatedBy>
 							<CreationDate>2025-04-08T20:49:07.405</CreationDate>
 							<Notes/>
-							<DefaultValue>false</DefaultValue>
+							<DefaultValue>true</DefaultValue>
 							<FalseValue>false</FalseValue>
-							<NoneValue>none</NoneValue>
+							<NoneValue>DeletedNoneValue</NoneValue>
 							<TrueValue>true</TrueValue>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
-							<FalseDisplayName/>
+							<FalseDisplayName>
+								<TranslatableText
+									type="com.cordys.translation.TranslatableText"
+									typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+									RuntimeDocumentID="00155D27-0470-A1F0-857D-8121064E9A99">
+									<DocumentID>00155D27-0470-A1F0-857D-8121064E5A99</DocumentID>
+									<Name>00155D27-0470-A1F0-857D-8121064E5A99</Name>
+									<Description>00155D27-0470-A1F0-857D-8121064E5A99</Description>
+									<CreatedBy>PS Dev</CreatedBy>
+									<CreationDate>2025-04-10T10:49:59.715</CreationDate>
+									<Notes/>
+									<DeveloperText>No</DeveloperText>
+									<Identifier>
+										<uri
+											id="00155D27-0470-A1F0-852E-C5D8DBFB5A99"
+										/>
+									</Identifier>
+								</TranslatableText>
+							</FalseDisplayName>
 							<FalseIcon/>
 							<NoneDisplayName/>
 							<NoneIcon/>
-							<TrueDisplayName/>
+							<TrueDisplayName>
+								<TranslatableText
+									type="com.cordys.translation.TranslatableText"
+									typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+									RuntimeDocumentID="00155D27-0470-A1F0-857D-8121064F1A99">
+									<DocumentID>00155D27-0470-A1F0-857D-8121064EDA99</DocumentID>
+									<Name>00155D27-0470-A1F0-857D-8121064EDA99</Name>
+									<Description>00155D27-0470-A1F0-857D-8121064EDA99</Description>
+									<CreatedBy>PS Dev</CreatedBy>
+									<CreationDate>2025-04-10T10:49:59.715</CreationDate>
+									<Notes/>
+									<DeveloperText>Yes</DeveloperText>
+									<Identifier>
+										<uri
+											id="00155D27-0470-A1F0-852E-C5D8DBFCDA99"
+										/>
+									</Identifier>
+								</TranslatableText>
+							</TrueDisplayName>
 							<TrueIcon/>
 							<Type>
 								<uri
@@ -621,6 +657,76 @@
 					<TypeDefinition>
 						<uri
 							id="00155D27-0470-A1F0-852C-551FCA885A99"
+						/>
+					</TypeDefinition>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00155D27-0470-A1F0-857D-8121064D5A99">
+					<DocumentID>00155D27-0470-A1F0-857D-8121064D1A99</DocumentID>
+					<Name>TenderTypeDescription</Name>
+					<Description>TenderTypeDescription</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-10T10:50:20.98</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>LongText</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-852C-551FCA8E5A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-857D-8121064ADA99">
+							<DocumentID>00155D27-0470-A1F0-857D-8121064A9A99</DocumentID>
+							<Name>00155D27-0470-A1F0-857D-8121064A9A99</Name>
+							<Description>00155D27-0470-A1F0-857D-8121064A9A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-10T10:50:20.98</CreationDate>
+							<Notes/>
+							<DeveloperText>Tender Type Description</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-857D-8121064B1A99"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<OwnedTypeDefinition>
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00155D27-0470-A1F0-857D-8121064A5A99">
+							<DocumentID>00155D27-0470-A1F0-857D-8121064A1A99</DocumentID>
+							<Name>00155D27-0470-A1F0-857D-8121064A1A99</Name>
+							<Description>00155D27-0470-A1F0-857D-8121064A1A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-10T10:50:20.98</CreationDate>
+							<Notes/>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75567F9D"
+								/>
+							</Type>
+						</LongTextPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00155D27-0470-A1F0-857D-8121064A1A99"
 						/>
 					</TypeDefinition>
 				</Property>

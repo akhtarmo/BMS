@@ -979,6 +979,218 @@
 						/>
 					</TypeDefinition>
 				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00155D27-0470-A1F0-85A7-8D00A6A39A99">
+					<DocumentID>00155D27-0470-A1F0-85A7-8D00A6A35A99</DocumentID>
+					<Name>ScoringUpperLimit</Name>
+					<Description>ScoringUpperLimit</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-11T10:17:26.561</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>IntegerValueList</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-8543-6B79D4559A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-85A7-8D00A6A11A99">
+							<DocumentID>00155D27-0470-A1F0-85A7-8D00A6A0DA99</DocumentID>
+							<Name>00155D27-0470-A1F0-85A7-8D00A6A0DA99</Name>
+							<Description>00155D27-0470-A1F0-85A7-8D00A6A0DA99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-11T10:17:26.56</CreationDate>
+							<Notes/>
+							<DeveloperText>Scoring Upper Limit</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-85A7-8D00A6A15A99"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<OwnedTypeDefinition>
+						<IntegerEnumPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.staticEnum.IntegerEnumPropertyDefinition"
+							typeVersion="005056C0-0008-11E6-ECD4-9ED50A5ADB27 4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00155D27-0470-A1F0-85A7-8D00A69D9A99">
+							<DocumentID>00155D27-0470-A1F0-85A7-8D00A69D5A99</DocumentID>
+							<Name>00155D27-0470-A1F0-85A7-8D00A69D5A99</Name>
+							<Description>00155D27-0470-A1F0-85A7-8D00A69D5A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-11T10:17:26.557</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<IsEnumerationSorted>false</IsEnumerationSorted>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<DefaultEnum/>
+							<Enums/>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E7556DF9D"
+								/>
+							</Type>
+							<ValuesDefinition>
+								<StaticIntegerEnumSet
+									type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnumSet"
+									RuntimeDocumentID="00155D27-0470-A1F0-85A7-8D00A69D1A99">
+									<DocumentID>00155D27-0470-A1F0-85A7-8D00A69CDA99</DocumentID>
+									<Name>Untitled StaticIntegerEnumSet</Name>
+									<Description>Untitled StaticIntegerEnumSet</Description>
+									<CreatedBy>PS Dev</CreatedBy>
+									<CreationDate>2025-04-11T10:17:26.559</CreationDate>
+									<Notes/>
+									<DefaultEnum>
+										<uri
+											id="00155D27-0470-A1F0-85A7-8D00A69BDA99"
+										/>
+									</DefaultEnum>
+									<Enums>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-85A7-8D00A69C1A99">
+											<DocumentID>00155D27-0470-A1F0-85A7-8D00A69BDA99</DocumentID>
+											<Name>Untitled Static Integer Enum (1)</Name>
+											<Description>Untitled Static Integer Enum (1)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-11T10:17:26.557</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>5</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-85A7-8D00A69CDA99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-85AF-85FBBDFD1A99">
+													<DocumentID>00155D27-0470-A1F0-85AF-85FBBDFCDA99</DocumentID>
+													<Name>00155D27-0470-A1F0-85AF-85FBBDFCDA99</Name>
+													<Description>00155D27-0470-A1F0-85AF-85FBBDFCDA99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-11T10:17:26.559</CreationDate>
+													<Notes/>
+													<DeveloperText>0 - 5</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-85AF-85FBBDFD5A99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-85A7-8D00A69B9A99">
+											<DocumentID>00155D27-0470-A1F0-85A7-8D00A69B5A99</DocumentID>
+											<Name>Untitled Static Integer Enum (2)</Name>
+											<Description>Untitled Static Integer Enum (2)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-11T10:17:26.559</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>10</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-85A7-8D00A69CDA99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-85AF-85FBBDFB9A99">
+													<DocumentID>00155D27-0470-A1F0-85AF-85FBBDFB5A99</DocumentID>
+													<Name>00155D27-0470-A1F0-85AF-85FBBDFB5A99</Name>
+													<Description>00155D27-0470-A1F0-85AF-85FBBDFB5A99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-11T10:17:26.561</CreationDate>
+													<Notes/>
+													<DeveloperText>0 - 10</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-85AF-85FBBDFBDA99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-85A7-8D00A69B1A99">
+											<DocumentID>00155D27-0470-A1F0-85A7-8D00A69ADA99</DocumentID>
+											<Name>Untitled Static Integer Enum (3)</Name>
+											<Description>Untitled Static Integer Enum (3)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-11T10:17:26.558</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>100</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-85A7-8D00A69CDA99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-85AF-85FBBDFA1A99">
+													<DocumentID>00155D27-0470-A1F0-85AF-85FBBDF9DA99</DocumentID>
+													<Name>00155D27-0470-A1F0-85AF-85FBBDF9DA99</Name>
+													<Description>00155D27-0470-A1F0-85AF-85FBBDF9DA99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-11T10:17:26.557</CreationDate>
+													<Notes/>
+													<DeveloperText>0 - 100</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-85AF-85FBBDFA5A99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+									</Enums>
+									<PropertyDefinition>
+										<uri
+											id="00155D27-0470-A1F0-85A7-8D00A69D5A99"
+										/>
+									</PropertyDefinition>
+								</StaticIntegerEnumSet>
+							</ValuesDefinition>
+						</IntegerEnumPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00155D27-0470-A1F0-85A7-8D00A69D5A99"
+						/>
+					</TypeDefinition>
+				</Property>
 			</Properties>
 		</PropertyBuildingBlock>
 		<TitleBuildingBlock
