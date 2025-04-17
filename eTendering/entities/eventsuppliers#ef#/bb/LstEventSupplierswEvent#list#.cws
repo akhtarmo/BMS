@@ -764,5 +764,79 @@
 			<WorklistDateFormat/>
 			<WorklistDateTimeFormat/>
 		</WorklistColumn>
+		<WorklistColumn
+			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
+			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			RuntimeDocumentID="00155D27-0470-A1F0-86F1-4B6090CC9A99">
+			<DocumentID>00155D27-0470-A1F0-86F1-4B6090CC5A99</DocumentID>
+			<Name>Untitled WorklistColumn (7)</Name>
+			<Description>Untitled WorklistColumn (7)</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-17T19:54:36.771</CreationDate>
+			<Notes/>
+			<ColumnAlignment>0</ColumnAlignment>
+			<ColumnLabel></ColumnLabel>
+			<DataType>Date</DataType>
+			<DefaultSortType>0</DefaultSortType>
+			<Definition></Definition>
+			<FormatterName>resultSimpleDateTime</FormatterName>
+			<HiddenInResult>false</HiddenInResult>
+			<InForm>true</InForm>
+			<IsComputedProperty>false</IsComputedProperty>
+			<ItemMemberId>00155D27-0470-A1F0-8557-6ED201BF5A99</ItemMemberId>
+			<ItemMemberPath></ItemMemberPath>
+			<OwnerName>eventsuppliers</OwnerName>
+			<PropertyId>00155D27-0470-A1F0-855B-3B18AAD11A99</PropertyId>
+			<PropertyName>DateAdded</PropertyName>
+			<StaticPropertyId></StaticPropertyId>
+			<ItemMemberPropertyPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="00155D27-0470-A1F0-86F1-4B6090CC1A99">
+					<DocumentID>00155D27-0470-A1F0-86F1-4B6090CBDA99</DocumentID>
+					<Name>00155D27-0470-A1F0-86F1-4B6090CBDA99</Name>
+					<Description>00155D27-0470-A1F0-86F1-4B6090CBDA99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-17T19:54:36.771</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
+					<IntermediateRelationships/>
+					<Object>
+						<uri
+							id="00155D27-0470-A1F0-855B-3B18AAD0DA99"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="00155D27-0470-A1F0-8561-AAE03A319A99"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="00155D27-0470-A1F0-8555-C3E33A609A99"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="00155D27-0470-A1F0-855B-3B18AAD0DA99"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="00155D27-0470-A1F0-8555-C3E33A609A99"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+			</ItemMemberPropertyPath>
+			<Layout/>
+			<LocalizableColumnLabel/>
+			<Property>
+				<uri
+					id="00155D27-0470-A1F0-855B-3B18AAD0DA99"
+				/>
+			</Property>
+			<WorklistDateFormat/>
+			<WorklistDateTimeFormat/>
+		</WorklistColumn>
 	</WorklistColumns>
 </Worklist>
