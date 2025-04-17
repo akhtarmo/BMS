@@ -27,17 +27,17 @@
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
 			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-			RuntimeDocumentID="00155D27-0470-A1F0-86C2-06F61A0C5A99">
-			<DocumentID>00155D27-0470-A1F0-86C2-06F61A0C1A99</DocumentID>
-			<Name>00155D27-0470-A1F0-86C2-06F61A0C1A99</Name>
-			<Description>00155D27-0470-A1F0-86C2-06F61A0C1A99</Description>
+			RuntimeDocumentID="00155D27-0470-A1F0-86DE-7ED46753DA99">
+			<DocumentID>00155D27-0470-A1F0-86DE-7ED467539A99</DocumentID>
+			<Name>00155D27-0470-A1F0-86DE-7ED467539A99</Name>
+			<Description>00155D27-0470-A1F0-86DE-7ED467539A99</Description>
 			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-16T21:25:19.436</CreationDate>
+			<CreationDate>2025-04-17T11:50:32.702</CreationDate>
 			<Notes/>
-			<DeveloperText>Supplier Portal</DeveloperText>
+			<DeveloperText>BMS Supplier Portal</DeveloperText>
 			<Identifier>
 				<uri
-					id="00155D27-0470-A1F0-85F4-41C7D56D1A99"
+					id="00155D27-0470-A1F0-86DE-7ED467541A99"
 				/>
 			</Identifier>
 		</TranslatableText>
