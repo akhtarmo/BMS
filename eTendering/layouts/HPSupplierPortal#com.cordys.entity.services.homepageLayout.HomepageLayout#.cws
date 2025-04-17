@@ -89,7 +89,7 @@
 			<PanelIcon/>
 			<WorklistAssociation>
 				<uri
-					id="00155D27-0470-A1F0-86C2-06F61A05DA99"
+					id="00155D27-0470-A1F0-86DB-813ED09F1A99"
 				/>
 			</WorklistAssociation>
 			<XFormAssociation/>
@@ -150,23 +150,6 @@
 	<WorklistAssociations>
 		<WorklistAssociation
 			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
-			RuntimeDocumentID="00155D27-0470-A1F0-86C2-06F61A061A99">
-			<DocumentID>00155D27-0470-A1F0-86C2-06F61A05DA99</DocumentID>
-			<Name>Results_SelectedWorklist</Name>
-			<Description>My Event List</Description>
-			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-16T21:25:19.436</CreationDate>
-			<Notes/>
-			<DisplayName>My Event List</DisplayName>
-			<ModelerId>0e8e7dbf9a0959f609f362639b715c3f</ModelerId>
-			<Worklist>
-				<uri
-					id="00155D27-0470-A1F0-85F4-41C7D57DDA99"
-				/>
-			</Worklist>
-		</WorklistAssociation>
-		<WorklistAssociation
-			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
 			RuntimeDocumentID="00155D27-0470-A1F0-86C3-37166F161A99">
 			<DocumentID>00155D27-0470-A1F0-86C3-37166F15DA99</DocumentID>
 			<Name>Results1_SelectedWorklist</Name>
@@ -179,6 +162,23 @@
 			<Worklist>
 				<uri
 					id="00155D27-0470-A1F0-86C2-54DEEA0B1A99"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0470-A1F0-86DB-813ED09F5A99">
+			<DocumentID>00155D27-0470-A1F0-86DB-813ED09F1A99</DocumentID>
+			<Name>Results_SelectedWorklist</Name>
+			<Description>My Open Events</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-17T09:28:51.705</CreationDate>
+			<Notes/>
+			<DisplayName>My Open Events</DisplayName>
+			<ModelerId>b520ba374bf7bfd8e9a6a277342a31eb</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0470-A1F0-86DB-52CDD422DA99"
 				/>
 			</Worklist>
 		</WorklistAssociation>

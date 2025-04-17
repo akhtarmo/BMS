@@ -5,7 +5,7 @@
 	typeVersion="E088BBC8-62C9-41E4-9EA1-8AFAE1F9DDBF"
 	RuntimeDocumentID="00155D27-0470-A1F0-85BB-D9D3EDBA9A99">
 	<DocumentID>00155D27-0470-A1F0-85BB-D9D3EDBADA99</DocumentID>
-	<Name>rulCommercialWeighting</Name>
+	<Name>rulCommercialWeighting100</Name>
 	<Description/>
 	<CreatedBy>PS Dev</CreatedBy>
 	<CreationDate>2025-04-11T16:21:51.383</CreationDate>
@@ -20,7 +20,7 @@
 	<CreateNewRuleManagerId>true</CreateNewRuleManagerId>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
-	<Expression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF15A99)!=100</Expression>
+	<Expression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF15A99)!=100 || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF15A99)==null</Expression>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -78,13 +78,13 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-11T16:21:51.382</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF15A99)!=100</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF15A99)!=100 || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF15A99)==null</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Properties.CommercialWeighting!=100</HumanExpression>
+			<HumanExpression>item.Properties.CommercialWeighting!=100 || item.Properties.CommercialWeighting==null</HumanExpression>
 			<IsAdvancedOnly>0</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;88FD3C5B63C54A0694C35AE0D0E0EDF0&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;ne&quot;,&quot;value&quot;:100,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.CommercialWeighting&quot;}]}</QueryCriteria>
+			<QueryCriteria>{&quot;type&quot;:&quot;OR&quot;,&quot;id&quot;:&quot;BEC74C7DAC574EA089E2ECDFD2EA45D1&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;ne&quot;,&quot;value&quot;:100,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.CommercialWeighting&quot;},{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;IsNull&quot;},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF15A99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.CommercialWeighting&quot;}]}</QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -100,12 +100,12 @@
 			<UsedProperties>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-85BB-D9D3EDB75A99">
-					<DocumentID>00155D27-0470-A1F0-85BB-D9D3EDB71A99</DocumentID>
-					<Name>00155D27-0470-A1F0-85BB-D9D3EDB71A99</Name>
+					RuntimeDocumentID="00155D27-0470-A1F0-86D8-B9AF53621A99">
+					<DocumentID>00155D27-0470-A1F0-86D8-B9AF5361DA99</DocumentID>
+					<Name>00155D27-0470-A1F0-86D8-B9AF5361DA99</Name>
 					<Description>item.Properties.CommercialWeighting</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-11T16:21:51.382</CreationDate>
+					<CreationDate>2025-04-17T09:06:24.214</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>

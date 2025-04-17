@@ -808,11 +808,7 @@
 			<PathRelationships/>
 			<PickerWorklist/>
 			<PreviewLayoutAssociation/>
-			<Property>
-				<uri
-					id="00155D27-0470-A1F0-85F7-E85D88D45A99"
-				/>
-			</Property>
+			<Property/>
 			<Relationship/>
 			<RelationshipPath/>
 		</FormComponent>

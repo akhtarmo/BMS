@@ -20,7 +20,7 @@
 	<CreateNewRuleManagerId>true</CreateNewRuleManagerId>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
-	<Expression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF55A99)!=100</Expression>
+	<Expression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF55A99)!=100 || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF55A99)==null</Expression>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -78,13 +78,13 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-11T16:20:54.266</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF55A99)!=100</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF55A99)!=100 || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085AF85FBBDF55A99)==null</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Properties.TechnicalWeighting!=100</HumanExpression>
+			<HumanExpression>item.Properties.TechnicalWeighting!=100 || item.Properties.TechnicalWeighting==null</HumanExpression>
 			<IsAdvancedOnly>0</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;A06ABCB889E842D0B144161D2BD882F8&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;ne&quot;,&quot;value&quot;:100,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.TechnicalWeighting&quot;}]}</QueryCriteria>
+			<QueryCriteria>{&quot;type&quot;:&quot;OR&quot;,&quot;id&quot;:&quot;638ED30A81C441AE8CE67D6BE5C02AC7&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;ne&quot;,&quot;value&quot;:100,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.TechnicalWeighting&quot;},{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;IsNull&quot;},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085AF85FBBDF55A99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.TechnicalWeighting&quot;}]}</QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -100,12 +100,12 @@
 			<UsedProperties>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-85BB-D9D3EDBE5A99">
-					<DocumentID>00155D27-0470-A1F0-85BB-D9D3EDBE1A99</DocumentID>
-					<Name>00155D27-0470-A1F0-85BB-D9D3EDBE1A99</Name>
+					RuntimeDocumentID="00155D27-0470-A1F0-86D8-B9AF5365DA99">
+					<DocumentID>00155D27-0470-A1F0-86D8-B9AF53659A99</DocumentID>
+					<Name>00155D27-0470-A1F0-86D8-B9AF53659A99</Name>
 					<Description>item.Properties.TechnicalWeighting</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-11T16:20:54.265</CreationDate>
+					<CreationDate>2025-04-17T09:05:02.141</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
