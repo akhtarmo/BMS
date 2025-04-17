@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-852A-2054D9269A99">
+	<DocumentID>00155D27-0470-A1F0-852A-2054D9265A99</DocumentID>
+	<Name>00155D27-0470-A1F0-852A-2054D9265A99</Name>
+	<Description>RFP Short Name</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-08T19:03:31.45</CreationDate>
+	<Notes/>
+	<Text>RFP Short Name</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-852A-2054D925DA99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

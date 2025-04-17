@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8582-C78B276B1A99">
+	<DocumentID>00155D27-0470-A1F0-8582-C78B276ADA99</DocumentID>
+	<Name>00155D27-0470-A1F0-8582-C78B276ADA99</Name>
+	<Description>Business Categories</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-10T13:00:35.172</CreationDate>
+	<Notes/>
+	<DefaultText>Business Categories</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8582-C78B276B5A99"
+		/>
+	</Translations>
+</TextIdentifier>

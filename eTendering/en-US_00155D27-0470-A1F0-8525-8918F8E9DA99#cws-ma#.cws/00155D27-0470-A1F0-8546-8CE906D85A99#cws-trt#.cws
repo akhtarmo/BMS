@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8546-8CE906D89A99">
+	<DocumentID>00155D27-0470-A1F0-8546-8CE906D85A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8546-8CE906D85A99</Name>
+	<Description>Weighted Score</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-09T08:41:21.895</CreationDate>
+	<Notes/>
+	<Text>Weighted Score</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8546-8CE906D7DA99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

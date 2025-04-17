@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-86A4-4C074CF4DA99">
+	<DocumentID>00155D27-0470-A1F0-86A4-4C074CF49A99</DocumentID>
+	<Name>00155D27-0470-A1F0-86A4-4C074CF49A99</Name>
+	<Description>Submssion BoQ</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-17T07:44:02.129</CreationDate>
+	<Notes/>
+	<Text>Submssion BoQ</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-86A4-4C074CF41A99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

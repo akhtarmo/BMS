@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-86D8-5CC8D8995A99">
+	<DocumentID>00155D27-0470-A1F0-86D8-5CC8D8991A99</DocumentID>
+	<Name>00155D27-0470-A1F0-86D8-5CC8D8991A99</Name>
+	<Description>BMS Client View</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-17T07:59:09.322</CreationDate>
+	<Notes/>
+	<Text>BMS Client View</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-86D8-5CC8D8989A99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

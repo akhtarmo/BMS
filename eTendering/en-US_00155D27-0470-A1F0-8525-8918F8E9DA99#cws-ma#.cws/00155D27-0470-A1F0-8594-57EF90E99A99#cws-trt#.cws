@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8594-4EF144DCDA99">
+	<DocumentID>00155D27-0470-A1F0-8594-57EF90E99A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8594-57EF90E99A99</Name>
+	<Description>Final Approval or Rejection</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-10T21:32:19.31</CreationDate>
+	<Notes/>
+	<Text>Final Approval or Rejection</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8594-57EF90E91A99"
+		/>
+	</TextIdentifier>
+</TranslatedText>
