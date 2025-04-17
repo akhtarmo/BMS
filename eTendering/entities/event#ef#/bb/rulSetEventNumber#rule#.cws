@@ -26,10 +26,10 @@
 	<PostRuleUrl></PostRuleUrl>
 	<PreRuleActionOption>0</PreRuleActionOption>
 	<PreRuleUrl></PreRuleUrl>
-	<RuleAction>{&quot;message&quot;:&quot;&quot;,&quot;source&quot;:&quot;item.Properties.EventShortName+item.RelEventIssuedByDepartment.Properties.DepartmentShortCode+item.Identity.BusinessId&quot;,&quot;target&quot;:&quot;item.Properties.EventNumber&quot;,&quot;type&quot;:&quot;com.opentext.cordys.entityCore.elements.ruleElement.RuleActionSet&quot;,&quot;sourceIsValid&quot;:true,&quot;targetIsValid&quot;:true,&quot;encodedSourceExpression&quot;:&quot;item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F0852BFCBAD9865A99)+item.qpid(00155D270470A1F0852EC5D8DC115A99.00155D270470A1F0852C17B3CECF9A99.00155D270470A1F08558558241A21A99)+item.qpid(00155D270470A1F08526D7B490521A99.00155D270470A1F0852AF091EC7B9A99)&quot;,&quot;encodedTargetExpression&quot;:&quot;item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F0852A2054D92E1A99)&quot;,&quot;StyleDefinition&quot;:&quot;&lt;style&gt;&lt;background&gt;undefined&lt;/background&gt;&lt;color&gt;undefined&lt;/color&gt;&lt;fontStyle&gt;undefined&lt;/fontStyle&gt;&lt;fontWeight&gt;undefined&lt;/fontWeight&gt;&lt;textDecoration&gt;undefined&lt;/textDecoration&gt;&lt;borderColor&gt;undefined&lt;/borderColor&gt;&lt;labelColor&gt;undefined&lt;/labelColor&gt;&lt;labelFontWeight&gt;undefined&lt;/labelFontWeight&gt;&lt;labelTextDecoration&gt;undefined&lt;/labelTextDecoration&gt;&lt;labelFontStyle&gt;undefined&lt;/labelFontStyle&gt;&lt;/style&gt;&quot;}</RuleAction>
+	<RuleAction>{&quot;message&quot;:&quot;&quot;,&quot;source&quot;:&quot;item.Properties.EventShortName+'-'+item.RelEventIssuedByDepartment.Properties.DepartmentShortCode+item.Identity.BusinessId&quot;,&quot;target&quot;:&quot;item.Properties.EventNumber&quot;,&quot;type&quot;:&quot;com.opentext.cordys.entityCore.elements.ruleElement.RuleActionSet&quot;,&quot;sourceIsValid&quot;:true,&quot;targetIsValid&quot;:true,&quot;encodedSourceExpression&quot;:&quot;item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F0852BFCBAD9865A99)+'-'+item.qpid(00155D270470A1F0852EC5D8DC115A99.00155D270470A1F0852C17B3CECF9A99.00155D270470A1F08558558241A21A99)+item.qpid(00155D270470A1F08526D7B490521A99.00155D270470A1F0852AF091EC7B9A99)&quot;,&quot;encodedTargetExpression&quot;:&quot;item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F0852A2054D92E1A99)&quot;,&quot;StyleDefinition&quot;:&quot;&lt;style&gt;&lt;background&gt;undefined&lt;/background&gt;&lt;color&gt;undefined&lt;/color&gt;&lt;fontStyle&gt;undefined&lt;/fontStyle&gt;&lt;fontWeight&gt;undefined&lt;/fontWeight&gt;&lt;textDecoration&gt;undefined&lt;/textDecoration&gt;&lt;borderColor&gt;undefined&lt;/borderColor&gt;&lt;labelColor&gt;undefined&lt;/labelColor&gt;&lt;labelFontWeight&gt;undefined&lt;/labelFontWeight&gt;&lt;labelTextDecoration&gt;undefined&lt;/labelTextDecoration&gt;&lt;labelFontStyle&gt;undefined&lt;/labelFontStyle&gt;&lt;/style&gt;&quot;}</RuleAction>
 	<RuleActionFormId></RuleActionFormId>
 	<RuleActionLayoutId></RuleActionLayoutId>
-	<RuleEventType>0</RuleEventType>
+	<RuleEventType>2</RuleEventType>
 	<RuleRelationshipId></RuleRelationshipId>
 	<ActionLogMessage/>
 	<BuildingBlock>
@@ -95,9 +95,9 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-09T16:56:09.608</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F0852BFCBAD9865A99)+item.qpid(00155D270470A1F0852EC5D8DC115A99.00155D270470A1F0852C17B3CECF9A99.00155D270470A1F08558558241A21A99)+item.qpid(00155D270470A1F08526D7B490521A99.00155D270470A1F0852AF091EC7B9A99)</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F0852BFCBAD9865A99)+'-'+item.qpid(00155D270470A1F0852EC5D8DC115A99.00155D270470A1F0852C17B3CECF9A99.00155D270470A1F08558558241A21A99)+item.qpid(00155D270470A1F08526D7B490521A99.00155D270470A1F0852AF091EC7B9A99)</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Properties.EventShortName+item.RelEventIssuedByDepartment.Properties.DepartmentShortCode+item.Identity.BusinessId</HumanExpression>
+			<HumanExpression>item.Properties.EventShortName+'-'+item.RelEventIssuedByDepartment.Properties.DepartmentShortCode+item.Identity.BusinessId</HumanExpression>
 			<IsAdvancedOnly>1</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
@@ -117,12 +117,12 @@
 			<UsedProperties>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E574DA99">
-					<DocumentID>00155D27-0470-A1F0-8558-DC58E5749A99</DocumentID>
-					<Name>00155D27-0470-A1F0-8558-DC58E5749A99</Name>
-					<Description>00155D27-0470-A1F0-8558-DC58E5749A99</Description>
+					RuntimeDocumentID="00155D27-0470-A1F0-85B6-67653064DA99">
+					<DocumentID>00155D27-0470-A1F0-85B6-676530649A99</DocumentID>
+					<Name>00155D27-0470-A1F0-85B6-676530649A99</Name>
+					<Description>00155D27-0470-A1F0-85B6-676530649A99</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-09T16:56:09.609</CreationDate>
+					<CreationDate>2025-04-11T13:49:00.97</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -154,12 +154,12 @@
 				</PropertyObjectPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5745A99">
-					<DocumentID>00155D27-0470-A1F0-8558-DC58E5741A99</DocumentID>
-					<Name>00155D27-0470-A1F0-8558-DC58E5741A99</Name>
-					<Description>00155D27-0470-A1F0-8558-DC58E5741A99</Description>
+					RuntimeDocumentID="00155D27-0470-A1F0-85B6-676530645A99">
+					<DocumentID>00155D27-0470-A1F0-85B6-676530641A99</DocumentID>
+					<Name>00155D27-0470-A1F0-85B6-676530641A99</Name>
+					<Description>00155D27-0470-A1F0-85B6-676530641A99</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-09T16:56:09.608</CreationDate>
+					<CreationDate>2025-04-11T13:49:00.969</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -191,23 +191,23 @@
 				</PropertyObjectPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E573DA99">
-					<DocumentID>00155D27-0470-A1F0-8558-DC58E5739A99</DocumentID>
-					<Name>00155D27-0470-A1F0-8558-DC58E5739A99</Name>
-					<Description>00155D27-0470-A1F0-8558-DC58E5739A99</Description>
+					RuntimeDocumentID="00155D27-0470-A1F0-85B6-67653063DA99">
+					<DocumentID>00155D27-0470-A1F0-85B6-676530639A99</DocumentID>
+					<Name>00155D27-0470-A1F0-85B6-676530639A99</Name>
+					<Description>00155D27-0470-A1F0-85B6-676530639A99</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-09T16:56:09.608</CreationDate>
+					<CreationDate>2025-04-11T13:49:00.969</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>1</NumberOfIntermediateRelationships>
 					<IntermediateRelationships>
 						<RelationshipReference
 							type="com.cordys.entity.core.objectpath.RelationshipReference"
-							RuntimeDocumentID="00155D27-0470-A1F0-8558-DC58E5735A99">
-							<DocumentID>00155D27-0470-A1F0-8558-DC58E5731A99</DocumentID>
-							<Name>00155D27-0470-A1F0-8558-DC58E5731A99</Name>
-							<Description>00155D27-0470-A1F0-8558-DC58E5731A99</Description>
+							RuntimeDocumentID="00155D27-0470-A1F0-85B6-676530635A99">
+							<DocumentID>00155D27-0470-A1F0-85B6-676530631A99</DocumentID>
+							<Name>00155D27-0470-A1F0-85B6-676530631A99</Name>
+							<Description>00155D27-0470-A1F0-85B6-676530631A99</Description>
 							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-09T16:56:09.607</CreationDate>
+							<CreationDate>2025-04-11T13:49:00.97</CreationDate>
 							<Notes/>
 							<Relationship>
 								<uri

@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="00155D27-0470-A1F0-85F7-E85D88EC1A99">
+	<DocumentID>00155D27-0470-A1F0-85F7-E85D88EBDA99</DocumentID>
+	<Name>BMS_EventSupplier</Name>
+	<Description>BMS_EventSupplier</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-12T20:49:51.797</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>
