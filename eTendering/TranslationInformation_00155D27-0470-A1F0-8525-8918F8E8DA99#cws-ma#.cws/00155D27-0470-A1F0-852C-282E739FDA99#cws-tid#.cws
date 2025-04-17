@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-852C-282E73A01A99">
+	<DocumentID>00155D27-0470-A1F0-852C-282E739FDA99</DocumentID>
+	<Name>00155D27-0470-A1F0-852C-282E739FDA99</Name>
+	<Description>Department Manager</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-08T19:36:34.731</CreationDate>
+	<Notes/>
+	<DefaultText>Department Manager</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-852C-282E73A05A99"
+		/>
+	</Translations>
+</TextIdentifier>

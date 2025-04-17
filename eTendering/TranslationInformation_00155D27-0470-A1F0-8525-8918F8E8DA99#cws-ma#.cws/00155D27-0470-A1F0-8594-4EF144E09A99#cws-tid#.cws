@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8594-4EF144E0DA99">
+	<DocumentID>00155D27-0470-A1F0-8594-4EF144E09A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8594-4EF144E09A99</Name>
+	<Description>Check Document Compliance</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-10T21:32:19.318</CreationDate>
+	<Notes/>
+	<DefaultText>Check Document Compliance</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8594-4EF144E11A99"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8530-851469E05A99">
+	<DocumentID>00155D27-0470-A1F0-8530-851469E01A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8530-851469E01A99</Name>
+	<Description>Cancelled</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-08T21:43:31.341</CreationDate>
+	<Notes/>
+	<Text>Cancelled</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8530-851469DF9A99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

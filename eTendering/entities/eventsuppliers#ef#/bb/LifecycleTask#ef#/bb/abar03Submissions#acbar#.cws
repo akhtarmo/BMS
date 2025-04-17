@@ -1,0 +1,48 @@
+
+<ActionBar
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.actionbar.ActionBar"
+	RuntimeDocumentID="00155D27-0470-A1F0-86C1-51B2A60D1A99">
+	<DocumentID>00155D27-0470-A1F0-86C1-51B2A60CDA99</DocumentID>
+	<Name>abar03Submissions</Name>
+	<Description>abar03Submissions</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-16T21:13:39.543</CreationDate>
+	<Notes/>
+	<EnablePrimaryButton>false</EnablePrimaryButton>
+	<ActionBarComponents>
+		<ActionBarComponent
+			type="com.cordys.entity.buildingblocks.actionbar.ActionBarComponent"
+			RuntimeDocumentID="00155D27-0470-A1F0-86C1-51B2A60C9A99">
+			<DocumentID>00155D27-0470-A1F0-86C1-51B2A60C5A99</DocumentID>
+			<Name>TopContainerComponent</Name>
+			<Description>TopContainerComponent</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-16T21:13:39.539</CreationDate>
+			<Notes/>
+			<ActionDisplayOption></ActionDisplayOption>
+			<ActionId></ActionId>
+			<BuildingblockId></BuildingblockId>
+			<ComponentType>ActionPresentationGroupComponent</ComponentType>
+			<EntityId></EntityId>
+			<GroupDisplayOption></GroupDisplayOption>
+			<GroupLabel></GroupLabel>
+			<Hierarchy></Hierarchy>
+			<Label></Label>
+			<RelationshipId></RelationshipId>
+			<Action/>
+			<LocalizableGroupLabel/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent/>
+			<RelationshipPath/>
+		</ActionBarComponent>
+	</ActionBarComponents>
+	<BuildingBlock>
+		<uri
+			id="00155D27-0470-A1F0-85EC-8A4263E25A99"
+		/>
+	</BuildingBlock>
+	<DisplayName/>
+	<Original/>
+</ActionBar>

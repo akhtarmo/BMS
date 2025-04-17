@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8562-0F3AB8411A99">
+	<DocumentID>00155D27-0470-A1F0-8562-0F3AB840DA99</DocumentID>
+	<Name>00155D27-0470-A1F0-8562-0F3AB840DA99</Name>
+	<Description>Event Supplier Evaluation Score Child</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-09T21:20:04.976</CreationDate>
+	<Notes/>
+	<DefaultText>Event Supplier Evaluation Score Child</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8562-0F3AB8415A99"
+		/>
+	</Translations>
+</TextIdentifier>
