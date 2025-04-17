@@ -26,7 +26,7 @@
 	<PostRuleUrl></PostRuleUrl>
 	<PreRuleActionOption>0</PreRuleActionOption>
 	<PreRuleUrl></PreRuleUrl>
-	<RuleAction>{&quot;message&quot;:&quot;&quot;,&quot;source&quot;:&quot;item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.UserId&quot;,&quot;target&quot;:&quot;item.Properties.SupplierUserID&quot;,&quot;type&quot;:&quot;com.opentext.cordys.entityCore.elements.ruleElement.RuleActionSet&quot;,&quot;sourceIsValid&quot;:true,&quot;targetIsValid&quot;:true,&quot;encodedSourceExpression&quot;:&quot;item.qpid(00155D270470A1F08557BCB5A58E5A99.00155D270470A1F0856F8A73F2DC9A99.F8B156E1037111E6E9CB18D8754D5BBF.F8B156B4FF8F11E6EE7EB5B96C4B771A)&quot;,&quot;encodedTargetExpression&quot;:&quot;item.qpid(00155D270470A1F085576ED201BF5A99.00155D270470A1F0856F8A73F2E21A99)&quot;,&quot;StyleDefinition&quot;:&quot;&lt;style&gt;&lt;background&gt;undefined&lt;/background&gt;&lt;color&gt;undefined&lt;/color&gt;&lt;fontStyle&gt;undefined&lt;/fontStyle&gt;&lt;fontWeight&gt;undefined&lt;/fontWeight&gt;&lt;textDecoration&gt;undefined&lt;/textDecoration&gt;&lt;borderColor&gt;undefined&lt;/borderColor&gt;&lt;labelColor&gt;undefined&lt;/labelColor&gt;&lt;labelFontWeight&gt;undefined&lt;/labelFontWeight&gt;&lt;labelTextDecoration&gt;undefined&lt;/labelTextDecoration&gt;&lt;labelFontStyle&gt;undefined&lt;/labelFontStyle&gt;&lt;/style&gt;&quot;}</RuleAction>
+	<RuleAction>{&quot;message&quot;:&quot;&quot;,&quot;source&quot;:&quot;item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.memberid&quot;,&quot;target&quot;:&quot;item.Properties.SupplierUserID&quot;,&quot;type&quot;:&quot;com.opentext.cordys.entityCore.elements.ruleElement.RuleActionSet&quot;,&quot;sourceIsValid&quot;:true,&quot;targetIsValid&quot;:true,&quot;encodedSourceExpression&quot;:&quot;item.qpid(00155D270470A1F08557BCB5A58E5A99.00155D270470A1F0856F8A73F2DC9A99.F8B156E1037111E6E9CB18D8754D5BBF.3417EB967E4611E6EDBC0899BA86F4D8)&quot;,&quot;encodedTargetExpression&quot;:&quot;item.qpid(00155D270470A1F085576ED201BF5A99.00155D270470A1F0856F8A73F2E21A99)&quot;,&quot;StyleDefinition&quot;:&quot;&lt;style&gt;&lt;background&gt;undefined&lt;/background&gt;&lt;color&gt;undefined&lt;/color&gt;&lt;fontStyle&gt;undefined&lt;/fontStyle&gt;&lt;fontWeight&gt;undefined&lt;/fontWeight&gt;&lt;textDecoration&gt;undefined&lt;/textDecoration&gt;&lt;borderColor&gt;undefined&lt;/borderColor&gt;&lt;labelColor&gt;undefined&lt;/labelColor&gt;&lt;labelFontWeight&gt;undefined&lt;/labelFontWeight&gt;&lt;labelTextDecoration&gt;undefined&lt;/labelTextDecoration&gt;&lt;labelFontStyle&gt;undefined&lt;/labelFontStyle&gt;&lt;/style&gt;&quot;}</RuleAction>
 	<RuleActionFormId></RuleActionFormId>
 	<RuleActionLayoutId></RuleActionLayoutId>
 	<RuleEventType>0</RuleEventType>
@@ -95,9 +95,9 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-10T05:17:58.573</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F08557BCB5A58E5A99.00155D270470A1F0856F8A73F2DC9A99.F8B156E1037111E6E9CB18D8754D5BBF.F8B156B4FF8F11E6EE7EB5B96C4B771A)</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F08557BCB5A58E5A99.00155D270470A1F0856F8A73F2DC9A99.F8B156E1037111E6E9CB18D8754D5BBF.3417EB967E4611E6EDBC0899BA86F4D8)</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.UserId</HumanExpression>
+			<HumanExpression>item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.memberid</HumanExpression>
 			<IsAdvancedOnly>1</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
@@ -117,23 +117,23 @@
 			<UsedProperties>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-8570-173E80C45A99">
-					<DocumentID>00155D27-0470-A1F0-8570-173E80C41A99</DocumentID>
-					<Name>00155D27-0470-A1F0-8570-173E80C41A99</Name>
-					<Description>00155D27-0470-A1F0-8570-173E80C41A99</Description>
+					RuntimeDocumentID="00155D27-0470-A1F0-86F0-E57D48C5DA99">
+					<DocumentID>00155D27-0470-A1F0-86F0-E57D48C59A99</DocumentID>
+					<Name>00155D27-0470-A1F0-86F0-E57D48C59A99</Name>
+					<Description>00155D27-0470-A1F0-86F0-E57D48C59A99</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-10T05:17:58.575</CreationDate>
+					<CreationDate>2025-04-17T19:50:27.14</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>2</NumberOfIntermediateRelationships>
 					<IntermediateRelationships>
 						<RelationshipReference
 							type="com.cordys.entity.core.objectpath.RelationshipReference"
-							RuntimeDocumentID="00155D27-0470-A1F0-8570-173E80C3DA99">
-							<DocumentID>00155D27-0470-A1F0-8570-173E80C39A99</DocumentID>
-							<Name>00155D27-0470-A1F0-8570-173E80C39A99</Name>
-							<Description>00155D27-0470-A1F0-8570-173E80C39A99</Description>
+							RuntimeDocumentID="00155D27-0470-A1F0-86F0-E57D48C55A99">
+							<DocumentID>00155D27-0470-A1F0-86F0-E57D48C51A99</DocumentID>
+							<Name>00155D27-0470-A1F0-86F0-E57D48C51A99</Name>
+							<Description>00155D27-0470-A1F0-86F0-E57D48C51A99</Description>
 							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-10T05:17:58.575</CreationDate>
+							<CreationDate>2025-04-17T19:50:27.141</CreationDate>
 							<Notes/>
 							<Relationship>
 								<uri
@@ -143,12 +143,12 @@
 						</RelationshipReference>
 						<RelationshipReference
 							type="com.cordys.entity.core.objectpath.RelationshipReference"
-							RuntimeDocumentID="00155D27-0470-A1F0-8570-173E80C35A99">
-							<DocumentID>00155D27-0470-A1F0-8570-173E80C31A99</DocumentID>
-							<Name>00155D27-0470-A1F0-8570-173E80C31A99</Name>
-							<Description>00155D27-0470-A1F0-8570-173E80C31A99</Description>
+							RuntimeDocumentID="00155D27-0470-A1F0-86F0-E57D48C4DA99">
+							<DocumentID>00155D27-0470-A1F0-86F1-4B6090D31A99</DocumentID>
+							<Name>00155D27-0470-A1F0-86F1-4B6090D31A99</Name>
+							<Description>00155D27-0470-A1F0-86F1-4B6090D31A99</Description>
 							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-10T05:17:58.573</CreationDate>
+							<CreationDate>2025-04-17T19:50:27.14</CreationDate>
 							<Notes/>
 							<Relationship>
 								<uri
@@ -174,7 +174,7 @@
 					</PathBegin>
 					<PathEnd>
 						<uri
-							id="F8B156B4-FF8F-11E6-EE7E-B5B96C4B571A"
+							id="3417EB96-7E46-11E6-EDBC-0899BA86D4D8"
 						/>
 					</PathEnd>
 					<RootOwner>
