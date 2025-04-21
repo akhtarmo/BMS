@@ -20,13 +20,13 @@
 	<CreateNewRuleManagerId>true</CreateNewRuleManagerId>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
-	<Expression>item.qpid(00155D270470A1F085937EC1D3D5DA99.840EBFF0D7BC11E5BC296C1ABB8E7F8B)==&quot;Review Event Details&quot;</Expression>
+	<Expression>item.qpid(00155D270470A1F085937EC1D3D5DA99.840EBFF0D7BC11E5BC296C1ABB8E7F8B)==&quot;Supplier Award&quot;</Expression>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
 	<PreRuleActionOption>0</PreRuleActionOption>
 	<PreRuleUrl></PreRuleUrl>
-	<RuleAction>{&quot;message&quot;:&quot;&quot;,&quot;source&quot;:&quot;\&quot;Under Review\&quot;&quot;,&quot;target&quot;:&quot;item.Properties.EventStatus&quot;,&quot;type&quot;:&quot;com.opentext.cordys.entityCore.elements.ruleElement.RuleActionSet&quot;,&quot;sourceIsValid&quot;:true,&quot;targetIsValid&quot;:true,&quot;encodedSourceExpression&quot;:&quot;\&quot;Under Review\&quot;&quot;,&quot;encodedTargetExpression&quot;:&quot;item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)&quot;,&quot;StyleDefinition&quot;:&quot;&lt;style&gt;&lt;background&gt;undefined&lt;/background&gt;&lt;color&gt;undefined&lt;/color&gt;&lt;fontStyle&gt;undefined&lt;/fontStyle&gt;&lt;fontWeight&gt;undefined&lt;/fontWeight&gt;&lt;textDecoration&gt;undefined&lt;/textDecoration&gt;&lt;borderColor&gt;undefined&lt;/borderColor&gt;&lt;labelColor&gt;undefined&lt;/labelColor&gt;&lt;labelFontWeight&gt;undefined&lt;/labelFontWeight&gt;&lt;labelTextDecoration&gt;undefined&lt;/labelTextDecoration&gt;&lt;labelFontStyle&gt;undefined&lt;/labelFontStyle&gt;&lt;/style&gt;&quot;}</RuleAction>
+	<RuleAction>{&quot;message&quot;:&quot;&quot;,&quot;source&quot;:&quot;\&quot;Award Pending\&quot;&quot;,&quot;target&quot;:&quot;item.Properties.EventStatus&quot;,&quot;type&quot;:&quot;com.opentext.cordys.entityCore.elements.ruleElement.RuleActionSet&quot;,&quot;sourceIsValid&quot;:true,&quot;targetIsValid&quot;:true,&quot;encodedSourceExpression&quot;:&quot;\&quot;Award Pending\&quot;&quot;,&quot;encodedTargetExpression&quot;:&quot;item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)&quot;,&quot;StyleDefinition&quot;:&quot;&lt;style&gt;&lt;background&gt;undefined&lt;/background&gt;&lt;color&gt;undefined&lt;/color&gt;&lt;fontStyle&gt;undefined&lt;/fontStyle&gt;&lt;fontWeight&gt;undefined&lt;/fontWeight&gt;&lt;textDecoration&gt;undefined&lt;/textDecoration&gt;&lt;borderColor&gt;undefined&lt;/borderColor&gt;&lt;labelColor&gt;undefined&lt;/labelColor&gt;&lt;labelFontWeight&gt;undefined&lt;/labelFontWeight&gt;&lt;labelTextDecoration&gt;undefined&lt;/labelTextDecoration&gt;&lt;labelFontStyle&gt;undefined&lt;/labelFontStyle&gt;&lt;/style&gt;&quot;}</RuleAction>
 	<RuleActionFormId></RuleActionFormId>
 	<RuleActionLayoutId></RuleActionLayoutId>
 	<RuleEventType>0</RuleEventType>
@@ -60,13 +60,13 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-11T13:47:32.002</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F085937EC1D3D5DA99.840EBFF0D7BC11E5BC296C1ABB8E7F8B)==&quot;Review Event Details&quot;</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F085937EC1D3D5DA99.840EBFF0D7BC11E5BC296C1ABB8E7F8B)==&quot;Supplier Award&quot;</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Lifecycle.CurrentState==&quot;Review Event Details&quot;</HumanExpression>
+			<HumanExpression>item.Lifecycle.CurrentState==&quot;Supplier Award&quot;</HumanExpression>
 			<IsAdvancedOnly>0</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;AC508DA7777E41F8A0CF8D511C68465B&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F085937EC1D3D5DA99&quot;,&quot;propertyId&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Review Event Details&quot;,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F085937EC1D3D5DA99&quot;,&quot;propertyId&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Lifecycle.CurrentState&quot;}]}</QueryCriteria>
+			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;5301E7E2A0A248EEB117FA926A4B92D0&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F085937EC1D3D5DA99&quot;,&quot;propertyId&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Supplier Award&quot;,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F085937EC1D3D5DA99&quot;,&quot;propertyId&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Lifecycle.CurrentState&quot;}]}</QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -133,9 +133,9 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-11T13:47:32.002</CreationDate>
 			<Notes/>
-			<EncodedExpression>&quot;Under Review&quot;</EncodedExpression>
+			<EncodedExpression>&quot;Award Pending&quot;</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>&quot;Under Review&quot;</HumanExpression>
+			<HumanExpression>&quot;Award Pending&quot;</HumanExpression>
 			<IsAdvancedOnly>1</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>

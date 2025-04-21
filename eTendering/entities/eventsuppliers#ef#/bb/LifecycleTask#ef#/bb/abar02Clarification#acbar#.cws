@@ -39,6 +39,76 @@
 		</ActionBarComponent>
 		<ActionBarComponent
 			type="com.cordys.entity.buildingblocks.actionbar.ActionBarComponent"
+			RuntimeDocumentID="00155D27-0470-A1F0-8786-1213E9189A99">
+			<DocumentID>00155D27-0470-A1F0-8786-1213E9185A99</DocumentID>
+			<Name>Claim00155D270470A1F087861213E9189A99</Name>
+			<Description>Claim00155D270470A1F087861213E9189A99</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-20T18:52:02.319</CreationDate>
+			<Notes/>
+			<ActionDisplayOption>LabelOnly</ActionDisplayOption>
+			<ActionId>2C633FBB84C84B33B41F63AD619DA7A4</ActionId>
+			<BuildingblockId>90B11C8A-3947-11E5-F7F0-5406E6CE7FCB</BuildingblockId>
+			<ComponentType>ActionPresentationComponent</ComponentType>
+			<EntityId>00155D27-0470-A1F0-85EC-8A4263E41A99</EntityId>
+			<GroupDisplayOption></GroupDisplayOption>
+			<GroupLabel></GroupLabel>
+			<Hierarchy></Hierarchy>
+			<Label></Label>
+			<RelationshipId></RelationshipId>
+			<Action>
+				<uri
+					id="00155D27-0470-A1F0-85EC-8A4263CFDA99"
+				/>
+			</Action>
+			<LocalizableGroupLabel/>
+			<LocalizableLabel>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-8786-1213E9181A99">
+					<DocumentID>00155D27-0470-A1F0-8786-1213E917DA99</DocumentID>
+					<Name>00155D27-0470-A1F0-8786-1213E917DA99</Name>
+					<Description>00155D27-0470-A1F0-8786-1213E917DA99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-20T18:52:02.319</CreationDate>
+					<Notes/>
+					<DeveloperText>Claim</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-8723-73298B1B5A99"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableLabel>
+			<LocalizableTooltip>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-8786-1213E9179A99">
+					<DocumentID>00155D27-0470-A1F0-8786-1213E9175A99</DocumentID>
+					<Name>00155D27-0470-A1F0-8786-1213E9175A99</Name>
+					<Description>00155D27-0470-A1F0-8786-1213E9175A99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-20T18:52:02.319</CreationDate>
+					<Notes/>
+					<DeveloperText>Claim</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-8723-73298B1B5A99"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableTooltip>
+			<ParentComponent>
+				<uri
+					id="00155D27-0470-A1F0-86C1-51B2A60D5A99"
+				/>
+			</ParentComponent>
+			<RelationshipPath/>
+		</ActionBarComponent>
+		<ActionBarComponent
+			type="com.cordys.entity.buildingblocks.actionbar.ActionBarComponent"
 			RuntimeDocumentID="00155D27-0470-A1F0-86C1-C20DF3589A99">
 			<DocumentID>00155D27-0470-A1F0-86C1-C20DF3585A99</DocumentID>
 			<Name>Submit_Clarifications00155D270470A1F086C1C20DF3589A99</Name>

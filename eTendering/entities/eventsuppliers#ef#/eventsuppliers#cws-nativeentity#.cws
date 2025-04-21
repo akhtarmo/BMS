@@ -1679,7 +1679,7 @@
 					<CreationDate>2025-04-09T16:18:51.467</CreationDate>
 					<Notes/>
 					<IsPersisted>false</IsPersisted>
-					<TitleSpecification></TitleSpecification>
+					<TitleSpecification>{item.Properties.EventNumber}</TitleSpecification>
 					<DisplayName/>
 				</Title>
 			</Title>

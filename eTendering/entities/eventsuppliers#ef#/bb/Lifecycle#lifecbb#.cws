@@ -1278,22 +1278,22 @@
 										<CMWorkAssignment
 											type="com.cordys.casemgmt.common.CMWorkAssignment"
 											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
-											RuntimeDocumentID="00155D27-0470-A1F0-85EF-3535B43F1A99">
-											<DocumentID>00155D27-0470-A1F0-85EF-3535B43EDA99</DocumentID>
-											<Name>None</Name>
-											<Description>None</Description>
+											RuntimeDocumentID="00155D27-0470-A1F0-8786-1213E9095A99">
+											<DocumentID>00155D27-0470-A1F0-8786-1213E9091A99</DocumentID>
+											<Name>BMS_EventSupplier</Name>
+											<Description>BMS_EventSupplier</Description>
 											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T16:47:20.947</CreationDate>
+											<CreationDate>2025-04-20T19:40:33.843</CreationDate>
 											<Notes/>
-											<AssignmentType>user</AssignmentType>
-											<IsDynamic>true</IsDynamic>
+											<AssignmentType>role</AssignmentType>
+											<IsDynamic>false</IsDynamic>
 											<List/>
-											<ModelParameters>
+											<ModelParameters/>
+											<Role>
 												<uri
-													id="00155D27-0470-A1F0-8645-45D9417C9A99"
+													id="00155D27-0470-A1F0-85F7-E85D88EBDA99"
 												/>
-											</ModelParameters>
-											<Role/>
+											</Role>
 											<Team/>
 										</CMWorkAssignment>
 									</WorkAssignment>
@@ -1460,21 +1460,17 @@
 										<CMWorkAssignment
 											type="com.cordys.casemgmt.common.CMWorkAssignment"
 											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F4-35CA9E6C1A99">
-											<DocumentID>00155D27-0470-A1F0-85F4-35CA9E6BDA99</DocumentID>
+											RuntimeDocumentID="00155D27-0470-A1F0-86F3-1A4FD8921A99">
+											<DocumentID>00155D27-0470-A1F0-86F3-1A4FD891DA99</DocumentID>
 											<Name>None</Name>
 											<Description>None</Description>
 											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T19:04:28.145</CreationDate>
+											<CreationDate>2025-04-17T20:42:23.478</CreationDate>
 											<Notes/>
-											<AssignmentType>user</AssignmentType>
-											<IsDynamic>true</IsDynamic>
+											<AssignmentType></AssignmentType>
+											<IsDynamic>false</IsDynamic>
 											<List/>
-											<ModelParameters>
-												<uri
-													id="00155D27-0470-A1F0-8646-DBCA977E1A99"
-												/>
-											</ModelParameters>
+											<ModelParameters/>
 											<Role/>
 											<Team/>
 										</CMWorkAssignment>
@@ -1642,22 +1638,22 @@
 										<CMWorkAssignment
 											type="com.cordys.casemgmt.common.CMWorkAssignment"
 											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
-											RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA97791A99">
-											<DocumentID>00155D27-0470-A1F0-8646-DBCA9778DA99</DocumentID>
-											<Name>None</Name>
-											<Description>None</Description>
+											RuntimeDocumentID="00155D27-0470-A1F0-86F3-1A4FD8919A99">
+											<DocumentID>00155D27-0470-A1F0-86F3-1A4FD8915A99</DocumentID>
+											<Name>BMS_EventOwner</Name>
+											<Description>BMS_EventOwner</Description>
 											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-14T10:32:21.286</CreationDate>
+											<CreationDate>2025-04-17T20:42:23.478</CreationDate>
 											<Notes/>
-											<AssignmentType>user</AssignmentType>
-											<IsDynamic>true</IsDynamic>
+											<AssignmentType>role</AssignmentType>
+											<IsDynamic>false</IsDynamic>
 											<List/>
-											<ModelParameters>
+											<ModelParameters/>
+											<Role>
 												<uri
-													id="00155D27-0470-A1F0-8646-DBCA97781A99"
+													id="00155D27-0470-A1F0-86F3-1A4FD88DDA99"
 												/>
-											</ModelParameters>
-											<Role/>
+											</Role>
 											<Team/>
 										</CMWorkAssignment>
 									</WorkAssignment>
@@ -1824,22 +1820,22 @@
 										<CMWorkAssignment
 											type="com.cordys.casemgmt.common.CMWorkAssignment"
 											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
-											RuntimeDocumentID="00155D27-0470-A1F0-8645-45D941909A99">
-											<DocumentID>00155D27-0470-A1F0-8645-45D941905A99</DocumentID>
-											<Name>None</Name>
-											<Description>None</Description>
+											RuntimeDocumentID="00155D27-0470-A1F0-86E3-4B499CEADA99">
+											<DocumentID>00155D27-0470-A1F0-86E3-4B499CEA9A99</DocumentID>
+											<Name>BMS_EventSupplier</Name>
+											<Description>BMS_EventSupplier</Description>
 											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-14T09:48:00.21</CreationDate>
+											<CreationDate>2025-04-17T20:04:32.107</CreationDate>
 											<Notes/>
-											<AssignmentType>user</AssignmentType>
-											<IsDynamic>true</IsDynamic>
+											<AssignmentType>role</AssignmentType>
+											<IsDynamic>false</IsDynamic>
 											<List/>
-											<ModelParameters>
+											<ModelParameters/>
+											<Role>
 												<uri
-													id="00155D27-0470-A1F0-8645-45D9417EDA99"
+													id="00155D27-0470-A1F0-85F7-E85D88EBDA99"
 												/>
-											</ModelParameters>
-											<Role/>
+											</Role>
 											<Team/>
 										</CMWorkAssignment>
 									</WorkAssignment>
@@ -3374,409 +3370,7 @@
 						</CMCaseHandlingModel>
 					</HandlingModels>
 					<Links/>
-					<ModelParameters>
-						<CMCaseModelParameter
-							type="com.cordys.casemgmt.CMCaseModelParameter"
-							typeVersion="AFB0A7B3-E293-41A9-8579-128CB75C285E"
-							RuntimeDocumentID="00155D27-0470-A1F0-8645-45D9417F1A99">
-							<DocumentID>00155D27-0470-A1F0-8645-45D9417EDA99</DocumentID>
-							<Name>caseVariable</Name>
-							<Description>caseVariable</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-14T10:29:26.483</CreationDate>
-							<Notes/>
-							<DefaultValue></DefaultValue>
-							<ParameterType>user</ParameterType>
-							<Algorithm/>
-							<CaseModel>
-								<uri
-									id="00155D27-0470-A1F0-85EC-8BC257009A99"
-								/>
-							</CaseModel>
-							<EntityExpression>
-								<EntityExpression
-									type="com.cordys.entity.services.entityexpression.EntityExpression"
-									typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
-									RuntimeDocumentID="00155D27-0470-A1F0-8645-45D9417E9A99">
-									<DocumentID>00155D27-0470-A1F0-8645-45D9417E5A99</DocumentID>
-									<Name>Entity_Expression_1744626542586</Name>
-									<Description>Entity_Expression_1744626542586</Description>
-									<CreatedBy>PS Dev</CreatedBy>
-									<CreationDate>2025-04-14T10:29:26.483</CreationDate>
-									<Notes/>
-									<EncodedExpression>item.qpid(00155D270470A1F085576ED201BF5A99.00155D270470A1F0856F8A73F2E21A99)</EncodedExpression>
-									<ErrorMessage></ErrorMessage>
-									<HumanExpression>item.Properties.SupplierUserID</HumanExpression>
-									<IsAdvancedOnly>1</IsAdvancedOnly>
-									<IsPropertyNameOnly>1</IsPropertyNameOnly>
-									<IsValid>1</IsValid>
-									<QueryCriteria></QueryCriteria>
-									<DisplayName/>
-									<Entity>
-										<uri
-											id="00155D27-0470-A1F0-8555-C3E33A609A99"
-										/>
-									</Entity>
-									<ExpressionOwner>
-										<uri
-											id="00155D27-0470-A1F0-8645-45D9417EDA99"
-										/>
-									</ExpressionOwner>
-									<ParameterOwner/>
-									<UsedProperties>
-										<PropertyObjectPath
-											type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-											RuntimeDocumentID="00155D27-0470-A1F0-8645-45D9417E1A99">
-											<DocumentID>00155D27-0470-A1F0-8645-45D9417DDA99</DocumentID>
-											<Name>00155D27-0470-A1F0-8645-45D9417DDA99</Name>
-											<Description>item.Properties.SupplierUserID</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-14T10:29:26.483</CreationDate>
-											<Notes/>
-											<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-											<IntermediateRelationships/>
-											<Object>
-												<uri
-													id="00155D27-0470-A1F0-8645-45D9417E5A99"
-												/>
-											</Object>
-											<ObjectOwner>
-												<uri
-													id="00155D27-0470-A1F0-8645-45D9417EDA99"
-												/>
-											</ObjectOwner>
-											<PathBegin>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</PathBegin>
-											<PathEnd>
-												<uri
-													id="00155D27-0470-A1F0-856F-8A73F2E1DA99"
-												/>
-											</PathEnd>
-											<RootOwner>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</RootOwner>
-										</PropertyObjectPath>
-									</UsedProperties>
-								</EntityExpression>
-							</EntityExpression>
-							<List/>
-							<Role/>
-							<Team/>
-						</CMCaseModelParameter>
-						<CMCaseModelParameter
-							type="com.cordys.casemgmt.CMCaseModelParameter"
-							typeVersion="AFB0A7B3-E293-41A9-8579-128CB75C285E"
-							RuntimeDocumentID="00155D27-0470-A1F0-8645-45D9417CDA99">
-							<DocumentID>00155D27-0470-A1F0-8645-45D9417C9A99</DocumentID>
-							<Name>caseVariable2</Name>
-							<Description>caseVariable2</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-14T10:30:21.66</CreationDate>
-							<Notes/>
-							<DefaultValue></DefaultValue>
-							<ParameterType>user</ParameterType>
-							<Algorithm/>
-							<CaseModel>
-								<uri
-									id="00155D27-0470-A1F0-85EC-8BC257009A99"
-								/>
-							</CaseModel>
-							<EntityExpression>
-								<EntityExpression
-									type="com.cordys.entity.services.entityexpression.EntityExpression"
-									typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
-									RuntimeDocumentID="00155D27-0470-A1F0-8645-45D9417C5A99">
-									<DocumentID>00155D27-0470-A1F0-8646-DBCA977FDA99</DocumentID>
-									<Name>Entity_Expression_1744626608389</Name>
-									<Description>Entity_Expression_1744626608389</Description>
-									<CreatedBy>PS Dev</CreatedBy>
-									<CreationDate>2025-04-14T10:30:21.66</CreationDate>
-									<Notes/>
-									<EncodedExpression>item.qpid(00155D270470A1F085576ED201BF5A99.00155D270470A1F0856F8A73F2E21A99)</EncodedExpression>
-									<ErrorMessage></ErrorMessage>
-									<HumanExpression>item.Properties.SupplierUserID</HumanExpression>
-									<IsAdvancedOnly>1</IsAdvancedOnly>
-									<IsPropertyNameOnly>1</IsPropertyNameOnly>
-									<IsValid>1</IsValid>
-									<QueryCriteria></QueryCriteria>
-									<DisplayName/>
-									<Entity>
-										<uri
-											id="00155D27-0470-A1F0-8555-C3E33A609A99"
-										/>
-									</Entity>
-									<ExpressionOwner>
-										<uri
-											id="00155D27-0470-A1F0-8645-45D9417C9A99"
-										/>
-									</ExpressionOwner>
-									<ParameterOwner/>
-									<UsedProperties>
-										<PropertyObjectPath
-											type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-											RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA977F9A99">
-											<DocumentID>00155D27-0470-A1F0-8646-DBCA977F5A99</DocumentID>
-											<Name>00155D27-0470-A1F0-8646-DBCA977F5A99</Name>
-											<Description>item.Properties.SupplierUserID</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-14T10:30:21.66</CreationDate>
-											<Notes/>
-											<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-											<IntermediateRelationships/>
-											<Object>
-												<uri
-													id="00155D27-0470-A1F0-8646-DBCA977FDA99"
-												/>
-											</Object>
-											<ObjectOwner>
-												<uri
-													id="00155D27-0470-A1F0-8645-45D9417C9A99"
-												/>
-											</ObjectOwner>
-											<PathBegin>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</PathBegin>
-											<PathEnd>
-												<uri
-													id="00155D27-0470-A1F0-856F-8A73F2E1DA99"
-												/>
-											</PathEnd>
-											<RootOwner>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</RootOwner>
-										</PropertyObjectPath>
-									</UsedProperties>
-								</EntityExpression>
-							</EntityExpression>
-							<List/>
-							<Role/>
-							<Team/>
-						</CMCaseModelParameter>
-						<CMCaseModelParameter
-							type="com.cordys.casemgmt.CMCaseModelParameter"
-							typeVersion="AFB0A7B3-E293-41A9-8579-128CB75C285E"
-							RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA977E5A99">
-							<DocumentID>00155D27-0470-A1F0-8646-DBCA977E1A99</DocumentID>
-							<Name>caseVariable3</Name>
-							<Description>caseVariable3</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-14T10:30:51.968</CreationDate>
-							<Notes/>
-							<DefaultValue></DefaultValue>
-							<ParameterType>user</ParameterType>
-							<Algorithm/>
-							<CaseModel>
-								<uri
-									id="00155D27-0470-A1F0-85EC-8BC257009A99"
-								/>
-							</CaseModel>
-							<EntityExpression>
-								<EntityExpression
-									type="com.cordys.entity.services.entityexpression.EntityExpression"
-									typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
-									RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA977DDA99">
-									<DocumentID>00155D27-0470-A1F0-8646-DBCA977D9A99</DocumentID>
-									<Name>Entity_Expression_1744626643446</Name>
-									<Description>Entity_Expression_1744626643446</Description>
-									<CreatedBy>PS Dev</CreatedBy>
-									<CreationDate>2025-04-14T10:30:51.967</CreationDate>
-									<Notes/>
-									<EncodedExpression>item.qpid(00155D270470A1F085576ED201BF5A99.00155D270470A1F0856F8A73F2E21A99)</EncodedExpression>
-									<ErrorMessage></ErrorMessage>
-									<HumanExpression>item.Properties.SupplierUserID</HumanExpression>
-									<IsAdvancedOnly>1</IsAdvancedOnly>
-									<IsPropertyNameOnly>1</IsPropertyNameOnly>
-									<IsValid>1</IsValid>
-									<QueryCriteria></QueryCriteria>
-									<DisplayName/>
-									<Entity>
-										<uri
-											id="00155D27-0470-A1F0-8555-C3E33A609A99"
-										/>
-									</Entity>
-									<ExpressionOwner>
-										<uri
-											id="00155D27-0470-A1F0-8646-DBCA977E1A99"
-										/>
-									</ExpressionOwner>
-									<ParameterOwner/>
-									<UsedProperties>
-										<PropertyObjectPath
-											type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-											RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA977D5A99">
-											<DocumentID>00155D27-0470-A1F0-8646-DBCA977D1A99</DocumentID>
-											<Name>00155D27-0470-A1F0-8646-DBCA977D1A99</Name>
-											<Description>item.Properties.SupplierUserID</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-14T10:30:51.967</CreationDate>
-											<Notes/>
-											<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-											<IntermediateRelationships/>
-											<Object>
-												<uri
-													id="00155D27-0470-A1F0-8646-DBCA977D9A99"
-												/>
-											</Object>
-											<ObjectOwner>
-												<uri
-													id="00155D27-0470-A1F0-8646-DBCA977E1A99"
-												/>
-											</ObjectOwner>
-											<PathBegin>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</PathBegin>
-											<PathEnd>
-												<uri
-													id="00155D27-0470-A1F0-856F-8A73F2E1DA99"
-												/>
-											</PathEnd>
-											<RootOwner>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</RootOwner>
-										</PropertyObjectPath>
-									</UsedProperties>
-								</EntityExpression>
-							</EntityExpression>
-							<List/>
-							<Role/>
-							<Team/>
-						</CMCaseModelParameter>
-						<CMCaseModelParameter
-							type="com.cordys.casemgmt.CMCaseModelParameter"
-							typeVersion="AFB0A7B3-E293-41A9-8579-128CB75C285E"
-							RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA97785A99">
-							<DocumentID>00155D27-0470-A1F0-8646-DBCA97781A99</DocumentID>
-							<Name>caseVariable4</Name>
-							<Description>caseVariable4</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-14T10:32:21.287</CreationDate>
-							<Notes/>
-							<DefaultValue></DefaultValue>
-							<ParameterType>user</ParameterType>
-							<Algorithm/>
-							<CaseModel>
-								<uri
-									id="00155D27-0470-A1F0-85EC-8BC257009A99"
-								/>
-							</CaseModel>
-							<EntityExpression>
-								<EntityExpression
-									type="com.cordys.entity.services.entityexpression.EntityExpression"
-									typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
-									RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA9777DA99">
-									<DocumentID>00155D27-0470-A1F0-8646-DBCA97779A99</DocumentID>
-									<Name>Entity_Expression_1744626698815</Name>
-									<Description>Entity_Expression_1744626698815</Description>
-									<CreatedBy>PS Dev</CreatedBy>
-									<CreationDate>2025-04-14T10:32:21.287</CreationDate>
-									<Notes/>
-									<EncodedExpression>item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F0852EEFCC28881A99.F8B156E1037111E6E9CB18D8754D5BBF.F8B156B4FF8F11E6EE7EB5B96C4B771A)</EncodedExpression>
-									<ErrorMessage></ErrorMessage>
-									<HumanExpression>item.RelEventSupplierAssociatedToEvent.RelEventHasAnOwner.Properties.UserId</HumanExpression>
-									<IsAdvancedOnly>1</IsAdvancedOnly>
-									<IsPropertyNameOnly>1</IsPropertyNameOnly>
-									<IsValid>1</IsValid>
-									<QueryCriteria></QueryCriteria>
-									<DisplayName/>
-									<Entity>
-										<uri
-											id="00155D27-0470-A1F0-8555-C3E33A609A99"
-										/>
-									</Entity>
-									<ExpressionOwner>
-										<uri
-											id="00155D27-0470-A1F0-8646-DBCA97781A99"
-										/>
-									</ExpressionOwner>
-									<ParameterOwner/>
-									<UsedProperties>
-										<PropertyObjectPath
-											type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-											RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA97775A99">
-											<DocumentID>00155D27-0470-A1F0-8646-DBCA97771A99</DocumentID>
-											<Name>00155D27-0470-A1F0-8646-DBCA97771A99</Name>
-											<Description>item.RelEventSupplierAssociatedToEvent.RelEventHasAnOwner.Properties.UserId</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-14T10:32:21.287</CreationDate>
-											<Notes/>
-											<NumberOfIntermediateRelationships>2</NumberOfIntermediateRelationships>
-											<IntermediateRelationships>
-												<RelationshipReference
-													type="com.cordys.entity.core.objectpath.RelationshipReference"
-													RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA9776DA99">
-													<DocumentID>00155D27-0470-A1F0-8646-DBCA97769A99</DocumentID>
-													<Name>00155D27-0470-A1F0-8646-DBCA97769A99</Name>
-													<Description>00155D27-0470-A1F0-8646-DBCA97769A99</Description>
-													<CreatedBy>PS Dev</CreatedBy>
-													<CreationDate>2025-04-14T10:32:21.286</CreationDate>
-													<Notes/>
-													<Relationship>
-														<uri	id="00155D27-0470-A1F0-8557-8CC709805A99"
-														/>
-													</Relationship>
-												</RelationshipReference>
-												<RelationshipReference
-													type="com.cordys.entity.core.objectpath.RelationshipReference"
-													RuntimeDocumentID="00155D27-0470-A1F0-8646-DBCA97765A99">
-													<DocumentID>00155D27-0470-A1F0-8646-DBCA97761A99</DocumentID>
-													<Name>00155D27-0470-A1F0-8646-DBCA97761A99</Name>
-													<Description>00155D27-0470-A1F0-8646-DBCA97761A99</Description>
-													<CreatedBy>PS Dev</CreatedBy>
-													<CreationDate>2025-04-14T10:32:21.287</CreationDate>
-													<Notes/>
-													<Relationship>
-														<uri	id="00155D27-0470-A1F0-852E-EFCC2887DA99"
-														/>
-													</Relationship>
-												</RelationshipReference>
-											</IntermediateRelationships>
-											<Object>
-												<uri
-													id="00155D27-0470-A1F0-8646-DBCA97779A99"
-												/>
-											</Object>
-											<ObjectOwner>
-												<uri
-													id="00155D27-0470-A1F0-8646-DBCA97781A99"
-												/>
-											</ObjectOwner>
-											<PathBegin>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</PathBegin>
-											<PathEnd>
-												<uri
-													id="F8B156B4-FF8F-11E6-EE7E-B5B96C4B571A"
-												/>
-											</PathEnd>
-											<RootOwner>
-												<uri
-													id="00155D27-0470-A1F0-8555-C3E33A609A99"
-												/>
-											</RootOwner>
-										</PropertyObjectPath>
-									</UsedProperties>
-								</EntityExpression>
-							</EntityExpression>
-							<List/>
-							<Role/>
-							<Team/>
-						</CMCaseModelParameter>
-					</ModelParameters>
+					<ModelParameters/>
 					<SecurityDescriptor/>
 					<ShapeConnectors/>
 					<ShapeReferences>
@@ -3910,7 +3504,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1785</htmlChildPosition>
+							<htmlChildPosition>125</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -4020,7 +3614,7 @@
 									id="o_9"
 									__shapeReferenceID="00155D27-0470-A1F0-85EC-90411A955A99"
 									objectType="State"
-									left="850%"
+									left="870%"
 									top="60%"
 									width="270%"
 									height="160%"
@@ -4079,7 +3673,7 @@
 											destination="o_9"
 											fromX="710"
 											fromY="145"
-											toX="850"
+											toX="870"
 											toY="145"
 											display=""
 											user="psdev"
@@ -4110,7 +3704,7 @@
 											connectorId="o_10"
 											lineId="o_11"
 											anchorPercentage="0.5"
-											anchorLeft="780"
+											anchorLeft="790"
 											anchorTop="145"
 											position="general"
 											name="annotation"
@@ -4126,7 +3720,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1786</htmlChildPosition>
+							<htmlChildPosition>126</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -4179,9 +3773,9 @@
 									id="o_19"
 									__shapeReferenceID="00155D27-0470-A1F0-85EE-D25B97571A99"
 									objectType="State"
-									left="490%"
+									left="480%"
 									top="290%"
-									width="200%"
+									width="220%"
 									height="170%"
 									collapsedWidth="140"
 									collapsedHeight="80"
@@ -4251,7 +3845,7 @@
 											destination="o_19"
 											fromX="460"
 											fromY="340"
-											toX="490"
+											toX="480"
 											toY="340"
 											display=""
 											user="psdev"
@@ -4309,7 +3903,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1787</htmlChildPosition>
+							<htmlChildPosition>127</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -4362,9 +3956,9 @@
 											connectorId="o_43"
 											source="o_19"
 											destination="o_46"
-											fromX="690"
+											fromX="700"
 											fromY="340"
-											toX="720"
+											toX="740"
 											toY="340"
 											display=""
 											user="psdev"
@@ -4375,9 +3969,9 @@
 											connectorId="o_43"
 											source="o_46"
 											destination="o_5"
-											fromX="720"
+											fromX="740"
 											fromY="340"
-											toX="625"
+											toX="632"
 											toY="220"
 											display=""
 											user="psdev"
@@ -4388,7 +3982,7 @@
 											id="o_46"
 											objectType="_point_"
 											connectorId="o_43"
-											left="710.01%"
+											left="730.01%"
 											top="330.01%"
 											display=""
 											user="psdev"
@@ -4401,7 +3995,7 @@
 											connectorId="o_43"
 											lineId="o_47"
 											anchorPercentage="0.4"
-											anchorLeft="702"
+											anchorLeft="716"
 											anchorTop="340"
 											position="source"
 											name="start"
@@ -4419,7 +4013,7 @@
 											connectorId="o_43"
 											lineId="o_48"
 											anchorPercentage="0.3951945479624204"
-											anchorLeft="682.45651794357"
+											anchorLeft="697.3189888200586"
 											anchorTop="292.57665424450954"
 											position="general"
 											name="annotation"
@@ -4435,14 +4029,14 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1788</htmlChildPosition>
+							<htmlChildPosition>128</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
 									xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
 									id="o_43"
 									__shapeReferenceID="00155D27-0470-A1F0-85EF-3535B4485A99"
-									objectType="UserEvent"
+									objectType="TaskCompletionEvent"
 									connectorType="TaskCompletionEvent"
 									source="o_19"
 									destination="o_5"
@@ -4609,7 +4203,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1789</htmlChildPosition>
+							<htmlChildPosition>129</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -4662,7 +4256,7 @@
 									id="o_63"
 									__shapeReferenceID="00155D27-0470-A1F0-85F4-344B2E729A99"
 									objectType="FinalState"
-									left="1200%"
+									left="1220%"
 									top="120.01%"
 									display=""
 									user="psdev">
@@ -4704,9 +4298,9 @@
 											connectorId="o_64"
 											source="o_9"
 											destination="o_63"
-											fromX="1120"
+											fromX="1140"
 											fromY="140"
-											toX="1200"
+											toX="1220"
 											toY="140"
 											display=""
 											user="psdev"
@@ -4719,7 +4313,7 @@
 											connectorId="o_64"
 											lineId="o_65"
 											anchorPercentage="0"
-											anchorLeft="1120"
+											anchorLeft="1140"
 											anchorTop="140"
 											position="source"
 											name="start"
@@ -4735,7 +4329,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1790</htmlChildPosition>
+							<htmlChildPosition>130</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -4789,7 +4383,7 @@
 									__shapeReferenceID="00155D27-0470-A1F0-85F4-35CA9E705A99"
 									objectType="StateEntryEvent"
 									groupId="o_9"
-									left="870%"
+									left="890%"
 									top="90%"
 									display=""
 									user="psdev">
@@ -4832,7 +4426,7 @@
 									__shapeReferenceID="00155D27-0470-A1F0-85F4-35CA9E6EDA99"
 									objectType="Activity"
 									groupId="o_9"
-									left="910%"
+									left="930%"
 									top="140%"
 									width="160%"
 									height="40%"
@@ -4878,9 +4472,9 @@
 											connectorId="o_70"
 											source="o_68"
 											destination="o_69"
-											fromX="908"
+											fromX="928"
 											fromY="119"
-											toX="950"
+											toX="970"
 											toY="140"
 											display=""
 											user="psdev"
@@ -4893,8 +4487,8 @@
 											connectorId="o_70"
 											lineId="o_71"
 											anchorPercentage="0.5"
-											anchorLeft="929"
-											anchorTop="130"
+											anchorLeft="949"
+											anchorTop="129.5"
 											position="general"
 											name="start"
 											relativeLeft="-16"
@@ -4909,7 +4503,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1791</htmlChildPosition>
+							<htmlChildPosition>131</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -4963,7 +4557,7 @@
 									__shapeReferenceID="00155D27-0470-A1F0-85F4-3A481A7D1A99"
 									objectType="StateEntryEvent"
 									groupId="o_19"
-									left="500%"
+									left="490%"
 									top="310%"
 									display=""
 									user="psdev">
@@ -5006,7 +4600,7 @@
 									__shapeReferenceID="00155D27-0470-A1F0-85F4-3A481A7B9A99"
 									objectType="Activity"
 									groupId="o_19"
-									left="510%"
+									left="500%"
 									top="390%"
 									width="160%"
 									height="40%"
@@ -5052,9 +4646,9 @@
 											connectorId="o_75"
 											source="o_73"
 											destination="o_74"
-											fromX="520"
+											fromX="510"
 											fromY="350"
-											toX="520"
+											toX="510"
 											toY="390"
 											display=""
 											user="psdev"
@@ -5067,7 +4661,7 @@
 											connectorId="o_75"
 											lineId="o_76"
 											anchorPercentage="0.5"
-											anchorLeft="520"
+											anchorLeft="510"
 											anchorTop="370"
 											position="general"
 											name="start"
@@ -5083,7 +4677,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1792</htmlChildPosition>
+							<htmlChildPosition>132</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5180,8 +4774,8 @@
 									__shapeReferenceID="00155D27-0470-A1F0-8645-45D941935A99"
 									objectType="Activity"
 									groupId="o_2"
-									left="150.01%"
-									top="180.01%"
+									left="150%"
+									top="180%"
 									width="160%"
 									height="40%"
 									horizontalTextAlignment="center"
@@ -5257,7 +4851,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1793</htmlChildPosition>
+							<htmlChildPosition>133</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5401,7 +4995,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1794</htmlChildPosition>
+							<htmlChildPosition>134</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5492,7 +5086,7 @@
 											position="general"
 											name="annotation"
 											relativeLeft="-45"
-											relativeTop="-50"
+											relativeTop="-46"
 											width="120%"
 											height="60%"
 											data="&lt;div id=&quot;textarea1&quot; textvalue=&quot;Event is Opened to Suppliers&quot; inlinestyle=&quot;cursor: text; text-align: center;&quot;&gt;&lt;/div&gt;"
@@ -5503,7 +5097,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>1795</htmlChildPosition>
+							<htmlChildPosition>135</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object

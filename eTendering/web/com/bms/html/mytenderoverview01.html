@@ -1,0 +1,122 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Tenders Overview - Al Jazeera Network</title>
+    <link rel="stylesheet" href="../css/01.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="dashboard-container">
+        <header class="dashboard-header">
+            <h1 class="dashboard-title">My Tenders Overview</h1>
+        </header>
+
+        <aside class="sidebar" id="filter-sidebar">
+            <h2><i class="fas fa-filter"></i> Filters</h2>
+            <button class="close-sidebar" id="close-sidebar-btn">&times;</button>
+            <div class="filter-group">
+                <label for="status-filter">Status</label>
+                <select id="status-filter">
+                    <option value="all">All</option>
+                    <option value="open">Open</option>
+                    <option value="pending">Pending Approval</option>
+                    <option value="published">Published</option>
+                    <option value="closed">Closed</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="category-filter">Category</label>
+                <select id="category-filter">
+                    <option value="all">All</option>
+                    <option value="it">IT Equipment</option>
+                    <option value="broadcast">Broadcast Services</option>
+                    <option value="facilities">Facilities Management</option>
+                    <option value="consulting">Consulting</option>
+                </select>
+            </div>
+             <div class="filter-group">
+                <label for="department-filter">Department</label>
+                <select id="department-filter">
+                    <option value="all">All</option>
+                    <option value="tech">Technology</option>
+                    <option value="news">Newsroom</option>
+                    <option value="ops">Operations</option>
+                    <option value="hr">Human Resources</option>
+                </select>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <button class="open-sidebar" id="open-sidebar-btn"><i class="fas fa-filter"></i> Filters</button>
+            <div class="widget-grid">
+
+                <div class="widget open-tenders">
+                    <h2><i class="fas fa-file-alt icon"></i> My Open Tenders</h2>
+                    <ul>
+                        <li><span>TNDR-00123:</span> Office Furniture Supply <span class="due-date">Due: 3 days</span></li>
+                        <li><span>TNDR-00125:</span> Cloud Hosting Services <span class="due-date">Due: 1 week</span></li>
+                        <li><span>TNDR-00128:</span> Security Camera Upgrade <span class="due-date">Due: 2 weeks</span></li>
+                    </ul>
+                    <a href="#" class="widget-link">View All Open Tenders &rarr;</a>
+                </div>
+
+                <div class="widget pending-approval">
+                    <h2><i class="fas fa-hourglass-half icon"></i> Tenders Pending Approval</h2>
+                     <div class="kpi-container">
+                        <div class="kpi-item urgent">
+                            <span class="kpi-value">3</span>
+                            <span class="kpi-label">Urgent</span>
+                        </div>
+                         <div class="kpi-item warning">
+                            <span class="kpi-value">8</span>
+                            <span class="kpi-label">Waiting</span>
+                        </div>
+                    </div>
+                     <a href="#" class="widget-link">Review Approvals &rarr;</a>
+                </div>
+
+                <div class="widget recent-tenders">
+                     <h2><i class="fas fa-bullhorn icon"></i> Recently Published Tenders</h2>
+                     <div class="timeline">
+                         <div class="timeline-item">
+                             <span class="timeline-date">Oct 25</span>
+                             <span class="timeline-title">TNDR-00129: Translation Services</span>
+                         </div>
+                         <div class="timeline-item">
+                             <span class="timeline-date">Oct 22</span>
+                             <span class="timeline-title">TNDR-00127: Travel Management</span>
+                         </div>
+                          <div class="timeline-item">
+                             <span class="timeline-date">Oct 19</span>
+                             <span class="timeline-title">TNDR-00126: Event Catering</span>
+                         </div>
+                     </div>
+                     <a href="#" class="widget-link">See Full History &rarr;</a>
+                </div>
+
+                <div class="widget upcoming-deadlines">
+                    <h2><i class="fas fa-calendar-alt icon"></i> Upcoming Tender Deadlines</h2>
+                    <div class="deadline-list">
+                         <div class="deadline-item">
+                             <span class="deadline-title">TNDR-00123: Office Furniture</span>
+                             <span class="deadline-countdown critical">3 days</span>
+                         </div>
+                         <div class="deadline-item">
+                             <span class="deadline-title">TNDR-00125: Cloud Hosting</span>
+                              <span class="deadline-countdown near">7 days</span>
+                         </div>
+                         <div class="deadline-item">
+                             <span class="deadline-title">TNDR-00128: Security Cameras</span>
+                             <span class="deadline-countdown far">14 days</span>
+                         </div>
+                    </div>
+                    <a href="#" class="widget-link">View Calendar &rarr;</a>
+                </div>
+
+            </div>
+        </main>
+    </div>
+    <script src="../scripts//01.js"></script>
+</body>
+</html>

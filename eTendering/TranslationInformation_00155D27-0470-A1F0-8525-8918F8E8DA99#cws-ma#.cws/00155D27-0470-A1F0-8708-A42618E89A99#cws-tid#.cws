@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8708-A42618E8DA99">
+	<DocumentID>00155D27-0470-A1F0-8708-A42618E89A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8708-A42618E89A99</Name>
+	<Description>BMS Client View - Tasks</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-18T06:59:03.815</CreationDate>
+	<Notes/>
+	<DefaultText>BMS Client View - Tasks</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8708-A42618E91A99"
+		/>
+	</Translations>
+</TextIdentifier>

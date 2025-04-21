@@ -20,7 +20,7 @@
 	<CreateNewRuleManagerId>true</CreateNewRuleManagerId>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
-	<Expression>item.qpid(00155D270470A1F085937EC1D3D5DA99.840EBFF0D7BC11E5BC296C1ABB8E7F8B)==&quot;Publish&quot; &amp;&amp; item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F08641A71E7420DA99)==&quot;Publish&quot;</Expression>
+	<Expression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F08641A71E7420DA99)==&quot;Publish&quot;</Expression>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -60,13 +60,13 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-11T18:41:42.444</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F085937EC1D3D5DA99.840EBFF0D7BC11E5BC296C1ABB8E7F8B)==&quot;Publish&quot; &amp;&amp; item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F08641A71E7420DA99)==&quot;Publish&quot;</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F08641A71E7420DA99)==&quot;Publish&quot;</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Lifecycle.CurrentState==&quot;Publish&quot; &amp;&amp; item.Properties.COPEN==&quot;Publish&quot;</HumanExpression>
+			<HumanExpression>item.Properties.COPEN==&quot;Publish&quot;</HumanExpression>
 			<IsAdvancedOnly>0</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;104B975CCBB54C1590BE35D47E67033A&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F085937EC1D3D5DA99&quot;,&quot;propertyId&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Publish&quot;,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F085937EC1D3D5DA99&quot;,&quot;propertyId&quot;:&quot;840EBFF0D7BC11E5BC296C1ABB8E7F8B&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Lifecycle.CurrentState&quot;},{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F08641A71E7420DA99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F08641A71E7420DA99&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Publish&quot;,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F08641A71E7420DA99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.COPEN&quot;}]}</QueryCriteria>
+			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;B394EED891714F2EAE678D214775B3B9&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F08641A71E7420DA99&quot;,&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F08641A71E7420DA99&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Publish&quot;,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F08641A71E7420DA99&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.COPEN&quot;}]}</QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -109,43 +109,6 @@
 					<PathEnd>
 						<uri
 							id="00155D27-0470-A1F0-8641-A71E74209A99"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="00155D27-0470-A1F0-8526-D7B490585A99"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-8641-A71E741A9A99">
-					<DocumentID>00155D27-0470-A1F0-8641-A71E741A5A99</DocumentID>
-					<Name>00155D27-0470-A1F0-8641-A71E741A5A99</Name>
-					<Description>00155D27-0470-A1F0-8641-A71E741A5A99</Description>
-					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-14T08:03:43.635</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="00155D27-0470-A1F0-85BF-CE4B1691DA99"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="00155D27-0470-A1F0-85BF-CE4B1693DA99"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="00155D27-0470-A1F0-8526-D7B490585A99"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="00155D27-0470-A1F0-8593-7EC1D3D29A99"
 						/>
 					</PathEnd>
 					<RootOwner>

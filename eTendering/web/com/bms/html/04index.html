@@ -1,0 +1,143 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Bids Dashboard - Al Jazeera Network Vendor Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Import Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
+  <!-- Import Material Icons for generic clean icon set -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- Chart.js for Donut/Pie chart -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="../css/04styles.css">
+</head>
+<body>
+  <header class="main-header">
+    <div class="container header-container">
+      
+      <nav class="main-nav">
+        <span class="dashboard-title">My Bids Dashboard</span>
+      </nav>
+    </div>
+  </header>
+  <main class="dashboard-main">
+    <div class="container">
+      <!-- Search & Filter -->
+      <section class="dashboard-controls">
+        <div class="filters">
+          <span class="material-icons">search</span>
+          <input type="text" placeholder="Tender Name..." id="filter-tender-name">
+          <input type="text" placeholder="Category..." id="filter-category">
+          <input type="date" id="filter-deadline-from" title="Deadline From">
+          <input type="date" id="filter-deadline-to" title="Deadline To">
+          <select id="filter-status">
+            <option value="">Status</option>
+            <option value="draft">Draft</option>
+            <option value="open">Open</option>
+            <option value="submitted">Submitted</option>
+            <option value="under_evaluation">Under Evaluation</option>
+            <option value="awarded">Awarded</option>
+            <option value="not_awarded">Not Awarded</option>
+          </select>
+        </div>
+        <button class="btn-primary" id="clear-filters"><span class="material-icons">clear_all</span> Clear Filters</button>
+      </section>
+      <!-- Grid Widgets -->
+      <div class="dashboard-widgets">
+        <!-- Left Column -->
+        <div class="widgets-left">
+          <!-- Active Tenders -->
+          <section class="widget card" id="active-tenders">
+            <header>
+              <h2>Active Tenders</h2>
+            </header>
+            <div class="widget-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>Event Name</th>
+                    <th>Deadline</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody id="active-tenders-tbody">
+                  <!-- Dynamically filled -->
+                </tbody>
+              </table>
+            </div>
+          </section>
+          <!-- Draft Bids -->
+          <section class="widget card" id="draft-bids">
+            <header class="draft-bids-header">
+              <div>
+                <h2>Draft Bids</h2>
+                <span class="kpi-badge" id="draft-bids-kpi">0</span>
+              </div>
+              <button class="btn-ghost" id="continue-draft"><span class="material-icons">edit</span>Continue Draft</button>
+            </header>
+            <div class="widget-body">
+              <ul id="draft-bids-list" class="list-group">
+                <!-- Drafts dynamically filled -->
+              </ul>
+            </div>
+          </section>
+          <!-- Clarifications Pending Response -->
+          <section class="widget card" id="clarifications">
+            <header>
+              <h2>
+                Clarifications Pending
+                <span id="clarifications-count" class="pill pill-alert"></span>
+              </h2>
+            </header>
+            <div class="widget-body">
+              <ul id="clarifications-list" class="list-group">
+                <!-- Clarifications dynamically filled -->
+              </ul>
+            </div>
+          </section>
+        </div>
+        <!-- Right Column -->
+        <div class="widgets-right">
+          <!-- Bid Status Donut -->
+          <section class="widget card" id="bid-status-overview">
+            <header>
+              <h2>Bid Status Overview</h2>
+            </header>
+            <div class="widget-body">
+              <canvas id="status-donut" width="220" height="220"></canvas>
+              <div class="status-legend" id="donut-legend"></div>
+            </div>
+          </section>
+          <!-- Submitted Bids Timeline -->
+          <section class="widget card" id="submitted-bids">
+            <header>
+              <h2>Submitted Bids</h2>
+            </header>
+            <div class="widget-body">
+              <ul class="timeline" id="submitted-bids-timeline">
+                <!-- Timeline dynamically filled -->
+              </ul>
+            </div>
+          </section>
+          <!-- Upcoming Deadlines -->
+          <section class="widget card" id="upcoming-deadlines">
+            <header>
+              <h2>Upcoming Deadlines</h2>
+            </header>
+            <div class="widget-body calendar-scroll" id="upcoming-deadlines-list">
+              <!-- Deadlines dynamically filled -->
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="main-footer">
+    <div class="container">
+      <span>&copy; 2024 Al Jazeera Network. All rights reserved.</span>
+    </div>
+  </footer>
+  <script src="../scripts/04dashboard.js"></script>
+</body>
+</html>

@@ -70,7 +70,7 @@
 					<Restrictive>false</Restrictive>
 					<StaticDistribution>false</StaticDistribution>
 					<WorkDistributionType></WorkDistributionType>
-					<freeObjectId>78</freeObjectId>
+					<freeObjectId>98</freeObjectId>
 					<isChanged></isChanged>
 					<modelFormatVersion>BOP4_FP1</modelFormatVersion>
 					<zoomFactor>100</zoomFactor>
@@ -1865,12 +1865,6 @@
 										<uri
 											id="00155D27-0470-A1F0-85EF-AD065F871A99"
 										/>
-										<uri
-											id="00155D27-0470-A1F0-85F0-5AC565935A99"
-										/>
-										<uri
-											id="00155D27-0470-A1F0-85F0-5AC5658BDA99"
-										/>
 									</Activities>
 									<AlgorithmVar/>
 									<Attachments/>
@@ -2191,16 +2185,20 @@
 											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
 											RuntimeDocumentID="00155D27-0470-A1F0-85EF-998CEE4B5A99">
 											<DocumentID>00155D27-0470-A1F0-85EF-998CEE4B1A99</DocumentID>
-											<Name>None</Name>
-											<Description>None</Description>
+											<Name>BMS Technical Eval Committee</Name>
+											<Description>BMS Technical Eval Committee</Description>
 											<CreatedBy>PS Dev</CreatedBy>
 											<CreationDate>2025-04-12T17:29:21.777</CreationDate>
 											<Notes/>
-											<AssignmentType></AssignmentType>
+											<AssignmentType>role</AssignmentType>
 											<IsDynamic>false</IsDynamic>
 											<List/>
 											<ModelParameters/>
-											<Role/>
+											<Role>
+												<uri
+													id="00155D27-0470-A1F0-8710-BE16C9B05A99"
+												/>
+											</Role>
 											<Team/>
 										</CMWorkAssignment>
 									</WorkAssignment>
@@ -2367,374 +2365,22 @@
 										<CMWorkAssignment
 											type="com.cordys.casemgmt.common.CMWorkAssignment"
 											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
-											RuntimeDocumentID="00155D27-0470-A1F0-85EF-AD065F84DA99">
-											<DocumentID>00155D27-0470-A1F0-85EF-AD065F849A99</DocumentID>
-											<Name>None</Name>
-											<Description>None</Description>
+											RuntimeDocumentID="00155D27-0470-A1F0-8788-16EBA431DA99">
+											<DocumentID>00155D27-0470-A1F0-8788-16EBA4319A99</DocumentID>
+											<Name>BMS Commercial Eval Committee</Name>
+											<Description>BMS Commercial Eval Committee</Description>
 											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.775</CreationDate>
+											<CreationDate>2025-04-20T19:49:53.579</CreationDate>
 											<Notes/>
-											<AssignmentType></AssignmentType>
+											<AssignmentType>role</AssignmentType>
 											<IsDynamic>false</IsDynamic>
 											<List/>
 											<ModelParameters/>
-											<Role/>
-											<Team/>
-										</CMWorkAssignment>
-									</WorkAssignment>
-								</CMActivity>
-								<CMActivity
-									type="com.cordys.casemgmt.activity.CMActivity"
-									typeVersion="602DFF1E-F0C0-45D6-9566-6EFD848C8E64"
-									RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565939A99">
-									<DocumentID>00155D27-0470-A1F0-85F0-5AC565935A99</DocumentID>
-									<Name>Activity (7)</Name>
-									<Description>Legal Evaluation</Description>
-									<CreatedBy>PS Dev</CreatedBy>
-									<CreationDate>2025-04-12T17:29:21.779</CreationDate>
-									<Notes/>
-									<Color></Color>
-									<DynamicPriority>false</DynamicPriority>
-									<FreeFollowUp>false</FreeFollowUp>
-									<Instruction></Instruction>
-									<IsIndependent>true</IsIndependent>
-									<MustBePerformed>false</MustBePerformed>
-									<Priority>3</Priority>
-									<PriorityType>other</PriorityType>
-									<Restrictive>false</Restrictive>
-									<StaticDistribution>false</StaticDistribution>
-									<UseEmailModel>false</UseEmailModel>
-									<UseInboxModel>false</UseInboxModel>
-									<UseReferenceObject>true</UseReferenceObject>
-									<WorkDistributionType></WorkDistributionType>
-									<AlgorithmVar/>
-									<Attachments/>
-									<Before/>
-									<CaseHandlingModel>
-										<uri
-											id="00155D27-0470-A1F0-8593-9FB45AD51A99"
-										/>
-									</CaseHandlingModel>
-									<DistributionAlgorithm/>
-									<Duration>
-										<CMDuration
-											type="com.cordys.casemgmt.common.CMDuration"
-											typeVersion="0A00ACDE-0A01-3422-0141-D6838C8E9B84"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565931A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC56592DA99</DocumentID>
-											<Name>Duration</Name>
-											<Description>Duration</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.779</CreationDate>
-											<Notes/>
-											<BusinessCalendar/>
-											<DurationEscalation>
-												<CMEscalation
-													type="com.cordys.casemgmt.common.CMEscalation"
-													typeVersion="0A00ACDE-0A01-3422-0141-D683DD847F57"
-													RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565929A99">
-													<DocumentID>00155D27-0470-A1F0-85F0-5AC565925A99</DocumentID>
-													<Name>DurationEscalation</Name>
-													<Description>DurationEscalation</Description>
-													<CreatedBy>PS Dev</CreatedBy>
-													<CreationDate>2025-04-12T17:29:21.782</CreationDate>
-													<Notes/>
-													<Days>0</Days>
-													<DynamicTime>false</DynamicTime>
-													<EscalateTo></EscalateTo>
-													<Hours>0</Hours>
-													<Minutes>0</Minutes>
-													<Time>0</Time>
-													<EscalationProcess/>
-													<TimeCaseVariable/>
-													<UserVariable/>
-												</CMEscalation>
-											</DurationEscalation>
-											<WorkingTimeEscalation>
-												<CMEscalation
-													type="com.cordys.casemgmt.common.CMEscalation"
-													typeVersion="0A00ACDE-0A01-3422-0141-D683DD847F57"
-													RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565921A99">
-													<DocumentID>00155D27-0470-A1F0-85F0-5AC56591DA99</DocumentID>
-													<Name>WorkingTimeEscalation</Name>
-													<Description>WorkingTimeEscalation</Description>
-													<CreatedBy>PS Dev</CreatedBy>
-													<CreationDate>2025-04-12T17:29:21.776</CreationDate>
-													<Notes/>
-													<Days>0</Days>
-													<DynamicTime>false</DynamicTime>
-													<EscalateTo></EscalateTo>
-													<Hours>0</Hours>
-													<Minutes>0</Minutes>
-													<Time>0</Time>
-													<EscalationProcess/>
-													<TimeCaseVariable/>
-													<UserVariable/>
-												</CMEscalation>
-											</WorkingTimeEscalation>
-										</CMDuration>
-									</Duration>
-									<EntityLayout>
-										<uri
-											id="00155D27-0470-A1F0-8619-DC8EB8799A99"
-										/>
-									</EntityLayout>
-									<InboxDeliveryModel/>
-									<InboxModel/>
-									<InstanceID/>
-									<LinkedCWSObject>
-										<uri
-											id="00155D27-0470-A1F0-8619-DC8EB8799A99"
-										/>
-									</LinkedCWSObject>
-									<Links/>
-									<MessageMap/>
-									<Outcome/>
-									<PostActionTriggerBPM/>
-									<PostActionTriggerState/>
-									<PriorityVariable/>
-									<RaisableEvent/>
-									<SecurityDescriptor/>
-									<WaitFor>
-										<CMEvent
-											type="com.cordys.casemgmt.event.CMEvent"
-											typeVersion="12C373C9-4112-4B0B-ADE0-929FBEA071EB"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565909A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC565905A99</DocumentID>
-											<Name>WaitForEvent</Name>
-											<Description>WaitForEvent</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.776</CreationDate>
-											<Notes/>
-											<Identifier></Identifier>
-											<AttachmentDefinition/>
-											<CaseHandlingModel/>
-											<DocumentGroup/>
-											<Group/>
-											<SourceActivity/>
-											<Type>
+											<Role>
 												<uri
-													id="{9D9F7A2F-FFB8-4A48-B32D-D176E9479F43}"
+													id="00155D27-0470-A1F0-8710-BE16C9AF1A99"
 												/>
-											</Type>
-										</CMEvent>
-									</WaitFor>
-									<WaitingTaskEscalation>
-										<CMEscalation
-											type="com.cordys.casemgmt.common.CMEscalation"
-											typeVersion="0A00ACDE-0A01-3422-0141-D683DD847F57"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565919A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC565915A99</DocumentID>
-											<Name>WorkingTimeEscalation</Name>
-											<Description>WorkingTimeEscalation</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.781</CreationDate>
-											<Notes/>
-											<Days>0</Days>
-											<DynamicTime>false</DynamicTime>
-											<EscalateTo></EscalateTo>
-											<Hours>0</Hours>
-											<Minutes>0</Minutes>
-											<Time>0</Time>
-											<EscalationProcess/>
-											<TimeCaseVariable/>
-											<UserVariable/>
-										</CMEscalation>
-									</WaitingTaskEscalation>
-									<WorkAssignment>
-										<CMWorkAssignment
-											type="com.cordys.casemgmt.common.CMWorkAssignment"
-											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565911A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC56590DA99</DocumentID>
-											<Name>None</Name>
-											<Description>None</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.776</CreationDate>
-											<Notes/>
-											<AssignmentType></AssignmentType>
-											<IsDynamic>false</IsDynamic>
-											<List/>
-											<ModelParameters/>
-											<Role/>
-											<Team/>
-										</CMWorkAssignment>
-									</WorkAssignment>
-								</CMActivity>
-								<CMActivity
-									type="com.cordys.casemgmt.activity.CMActivity"
-									typeVersion="602DFF1E-F0C0-45D6-9566-6EFD848C8E64"
-									RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC5658C1A99">
-									<DocumentID>00155D27-0470-A1F0-85F0-5AC5658BDA99</DocumentID>
-									<Name>Activity (8)</Name>
-									<Description>HSE Evaluation</Description>
-									<CreatedBy>PS Dev</CreatedBy>
-									<CreationDate>2025-04-12T17:29:21.777</CreationDate>
-									<Notes/>
-									<Color></Color>
-									<DynamicPriority>false</DynamicPriority>
-									<FreeFollowUp>false</FreeFollowUp>
-									<Instruction></Instruction>
-									<IsIndependent>true</IsIndependent>
-									<MustBePerformed>false</MustBePerformed>
-									<Priority>3</Priority>
-									<PriorityType>other</PriorityType>
-									<Restrictive>false</Restrictive>
-									<StaticDistribution>false</StaticDistribution>
-									<UseEmailModel>false</UseEmailModel>
-									<UseInboxModel>false</UseInboxModel>
-									<UseReferenceObject>true</UseReferenceObject>
-									<WorkDistributionType></WorkDistributionType>
-									<AlgorithmVar/>
-									<Attachments/>
-									<Before/>
-									<CaseHandlingModel>
-										<uri
-											id="00155D27-0470-A1F0-8593-9FB45AD51A99"
-										/>
-									</CaseHandlingModel>
-									<DistributionAlgorithm/>
-									<Duration>
-										<CMDuration
-											type="com.cordys.casemgmt.common.CMDuration"
-											typeVersion="0A00ACDE-0A01-3422-0141-D6838C8E9B84"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC5658B9A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC5658B5A99</DocumentID>
-											<Name>Duration</Name>
-											<Description>Duration</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.781</CreationDate>
-											<Notes/>
-											<BusinessCalendar/>
-											<DurationEscalation>
-												<CMEscalation
-													type="com.cordys.casemgmt.common.CMEscalation"
-													typeVersion="0A00ACDE-0A01-3422-0141-D683DD847F57"
-													RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC5658B1A99">
-													<DocumentID>00155D27-0470-A1F0-85F0-5AC5658ADA99</DocumentID>
-													<Name>DurationEscalation</Name>
-													<Description>DurationEscalation</Description>
-													<CreatedBy>PS Dev</CreatedBy>
-													<CreationDate>2025-04-12T17:29:21.777</CreationDate>
-													<Notes/>
-													<Days>0</Days>
-													<DynamicTime>false</DynamicTime>
-													<EscalateTo></EscalateTo>
-													<Hours>0</Hours>
-													<Minutes>0</Minutes>
-													<Time>0</Time>
-													<EscalationProcess/>
-													<TimeCaseVariable/>
-													<UserVariable/>
-												</CMEscalation>
-											</DurationEscalation>
-											<WorkingTimeEscalation>
-												<CMEscalation
-													type="com.cordys.casemgmt.common.CMEscalation"
-													typeVersion="0A00ACDE-0A01-3422-0141-D683DD847F57"
-													RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC5658A9A99">
-													<DocumentID>00155D27-0470-A1F0-85F0-5AC5658A5A99</DocumentID>
-													<Name>WorkingTimeEscalation</Name>
-													<Description>WorkingTimeEscalation</Description>
-													<CreatedBy>PS Dev</CreatedBy>
-													<CreationDate>2025-04-12T17:29:21.782</CreationDate>
-													<Notes/>
-													<Days>0</Days>
-													<DynamicTime>false</DynamicTime>
-													<EscalateTo></EscalateTo>
-													<Hours>0</Hours>
-													<Minutes>0</Minutes>
-													<Time>0</Time>
-													<EscalationProcess/>
-													<TimeCaseVariable/>
-													<UserVariable/>
-												</CMEscalation>
-											</WorkingTimeEscalation>
-										</CMDuration>
-									</Duration>
-									<EntityLayout>
-										<uri
-											id="00155D27-0470-A1F0-8619-DC8EB8761A99"
-										/>
-									</EntityLayout>
-									<InboxDeliveryModel/>
-									<InboxModel/>
-									<InstanceID/>
-									<LinkedCWSObject>
-										<uri
-											id="00155D27-0470-A1F0-8619-DC8EB8761A99"
-										/>
-									</LinkedCWSObject>
-									<Links/>
-									<MessageMap/>
-									<Outcome/>
-									<PostActionTriggerBPM/>
-									<PostActionTriggerState/>
-									<PriorityVariable/>
-									<RaisableEvent/>
-									<SecurityDescriptor/>
-									<WaitFor>
-										<CMEvent
-											type="com.cordys.casemgmt.event.CMEvent"
-											typeVersion="12C373C9-4112-4B0B-ADE0-929FBEA071EB"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565891A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC56588DA99</DocumentID>
-											<Name>WaitForEvent</Name>
-											<Description>WaitForEvent</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.774</CreationDate>
-											<Notes/>
-											<Identifier></Identifier>
-											<AttachmentDefinition/>
-											<CaseHandlingModel/>
-											<DocumentGroup/>
-											<Group/>
-											<SourceActivity/>
-											<Type>
-												<uri
-													id="{9D9F7A2F-FFB8-4A48-B32D-D176E9479F43}"
-												/>
-											</Type>
-										</CMEvent>
-									</WaitFor>
-									<WaitingTaskEscalation>
-										<CMEscalation
-											type="com.cordys.casemgmt.common.CMEscalation"
-											typeVersion="0A00ACDE-0A01-3422-0141-D683DD847F57"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC5658A1A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC56589DA99</DocumentID>
-											<Name>WorkingTimeEscalation</Name>
-											<Description>WorkingTimeEscalation</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.776</CreationDate>
-											<Notes/>
-											<Days>0</Days>
-											<DynamicTime>false</DynamicTime>
-											<EscalateTo></EscalateTo>
-											<Hours>0</Hours>
-											<Minutes>0</Minutes>
-											<Time>0</Time>
-											<EscalationProcess/>
-											<TimeCaseVariable/>
-											<UserVariable/>
-										</CMEscalation>
-									</WaitingTaskEscalation>
-									<WorkAssignment>
-										<CMWorkAssignment
-											type="com.cordys.casemgmt.common.CMWorkAssignment"
-											typeVersion="9CC230E2-0D69-47FA-B548-AFCFD30482EA"
-											RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565899A99">
-											<DocumentID>00155D27-0470-A1F0-85F0-5AC565895A99</DocumentID>
-											<Name>None</Name>
-											<Description>None</Description>
-											<CreatedBy>PS Dev</CreatedBy>
-											<CreationDate>2025-04-12T17:29:21.777</CreationDate>
-											<Notes/>
-											<AssignmentType></AssignmentType>
-											<IsDynamic>false</IsDynamic>
-											<List/>
-											<ModelParameters/>
-											<Role/>
+											</Role>
 											<Team/>
 										</CMWorkAssignment>
 									</WorkAssignment>
@@ -5011,7 +4657,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2550</htmlChildPosition>
+							<htmlChildPosition>2248</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5144,7 +4790,7 @@
 											relativeTop="-16"
 											width="32%"
 											height="32%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -5152,7 +4798,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2551</htmlChildPosition>
+							<htmlChildPosition>2249</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5285,7 +4931,7 @@
 											relativeTop="-16"
 											width="32%"
 											height="32%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -5293,7 +4939,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2552</htmlChildPosition>
+							<htmlChildPosition>2250</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5426,7 +5072,7 @@
 											relativeTop="-16"
 											width="32%"
 											height="32%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -5434,7 +5080,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2553</htmlChildPosition>
+							<htmlChildPosition>2251</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5600,7 +5246,7 @@
 											relativeTop="-16"
 											width="16%"
 											height="16%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -5608,7 +5254,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2554</htmlChildPosition>
+							<htmlChildPosition>2252</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5774,7 +5420,7 @@
 											relativeTop="-16"
 											width="16%"
 											height="16%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -5782,7 +5428,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2555</htmlChildPosition>
+							<htmlChildPosition>2253</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -5948,7 +5594,7 @@
 											relativeTop="-16"
 											width="16%"
 											height="16%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -5956,7 +5602,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2556</htmlChildPosition>
+							<htmlChildPosition>2254</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6122,7 +5768,7 @@
 											relativeTop="-16"
 											width="16%"
 											height="16%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -6130,7 +5776,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2557</htmlChildPosition>
+							<htmlChildPosition>2255</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6263,7 +5909,7 @@
 											relativeTop="-16"
 											width="32%"
 											height="32%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -6271,7 +5917,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2558</htmlChildPosition>
+							<htmlChildPosition>2256</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6437,7 +6083,7 @@
 											relativeTop="-16"
 											width="16%"
 											height="16%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -6445,7 +6091,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2559</htmlChildPosition>
+							<htmlChildPosition>2257</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6568,7 +6214,7 @@
 											relativeTop="-16"
 											width="16%"
 											height="16%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -6576,7 +6222,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2560</htmlChildPosition>
+							<htmlChildPosition>2258</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6612,100 +6258,6 @@
 						<GMFShapeReference
 							type="com.cordys.gmf.diagram.GMFShapeReference"
 							typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
-							RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC565941A99">
-							<DocumentID>00155D27-0470-A1F0-85F0-5AC56593DA99</DocumentID>
-							<Name>o_60</Name>
-							<Description>o_60</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-12T17:29:21.782</CreationDate>
-							<Notes/>
-							<dataObject/>
-							<height></height>
-							<htmlChildPosition>28</htmlChildPosition>
-							<left></left>
-							<objectXML>
-								<object
-									xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
-									id="o_60"
-									__shapeReferenceID="00155D27-0470-A1F0-85F0-5AC56593DA99"
-									objectType="Activity"
-									groupId="o_43"
-									left="490.01%"
-									top="350.01%"
-									width="160%"
-									height="40%"
-									horizontalTextAlignment="center"
-									verticalTextAlignment="middle"
-									display=""
-									user="psdev">
-									<dataObject
-										name="Activity">
-										<c:uri
-											xmlns:c="http://schemas.cordys.com/cws/1.0"
-											id="00155D27-0470-A1F0-85F0-5AC565935A99"
-										/>
-									</dataObject>
-								</object>
-							</objectXML>
-							<shapeType>Activity</shapeType>
-							<top></top>
-							<width></width>
-							<ReferenceObject>
-								<uri
-									id="00155D27-0470-A1F0-85F0-5AC565935A99"
-								/>
-							</ReferenceObject>
-						</GMFShapeReference>
-						<GMFShapeReference
-							type="com.cordys.gmf.diagram.GMFShapeReference"
-							typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
-							RuntimeDocumentID="00155D27-0470-A1F0-85F0-5AC5658C9A99">
-							<DocumentID>00155D27-0470-A1F0-85F0-5AC5658C5A99</DocumentID>
-							<Name>o_61</Name>
-							<Description>o_61</Description>
-							<CreatedBy>PS Dev</CreatedBy>
-							<CreationDate>2025-04-12T17:29:21.776</CreationDate>
-							<Notes/>
-							<dataObject/>
-							<height></height>
-							<htmlChildPosition>29</htmlChildPosition>
-							<left></left>
-							<objectXML>
-								<object
-									xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
-									id="o_61"
-									__shapeReferenceID="00155D27-0470-A1F0-85F0-5AC5658C5A99"
-									objectType="Activity"
-									groupId="o_43"
-									left="490.01%"
-									top="410.01%"
-									width="160%"
-									height="40%"
-									horizontalTextAlignment="center"
-									verticalTextAlignment="middle"
-									display=""
-									user="psdev">
-									<dataObject
-										name="Activity">
-										<c:uri
-											xmlns:c="http://schemas.cordys.com/cws/1.0"
-											id="00155D27-0470-A1F0-85F0-5AC5658BDA99"
-										/>
-									</dataObject>
-								</object>
-							</objectXML>
-							<shapeType>Activity</shapeType>
-							<top></top>
-							<width></width>
-							<ReferenceObject>
-								<uri
-									id="00155D27-0470-A1F0-85F0-5AC5658BDA99"
-								/>
-							</ReferenceObject>
-						</GMFShapeReference>
-						<GMFShapeReference
-							type="com.cordys.gmf.diagram.GMFShapeReference"
-							typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
 							RuntimeDocumentID="00155D27-0470-A1F0-85F0-6B3E7C8E5A99">
 							<DocumentID>00155D27-0470-A1F0-85F0-6B3E7C8E1A99</DocumentID>
 							<Name>o_65</Name>
@@ -6715,7 +6267,7 @@
 							<Notes/>
 							<dataObject/>
 							<height></height>
-							<htmlChildPosition>31</htmlChildPosition>
+							<htmlChildPosition>29</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6803,7 +6355,7 @@
 											relativeTop="-16"
 											width="32%"
 											height="32%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -6811,7 +6363,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2561</htmlChildPosition>
+							<htmlChildPosition>2259</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6856,7 +6408,7 @@
 							<Notes/>
 							<dataObject/>
 							<height></height>
-							<htmlChildPosition>36</htmlChildPosition>
+							<htmlChildPosition>34</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6929,7 +6481,7 @@
 											relativeTop="-16"
 											width="32%"
 											height="32%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/task_completion_event_sb.png&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -6937,7 +6489,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2562</htmlChildPosition>
+							<htmlChildPosition>2260</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -6982,7 +6534,7 @@
 							<Notes/>
 							<dataObject/>
 							<height></height>
-							<htmlChildPosition>32</htmlChildPosition>
+							<htmlChildPosition>30</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -7025,7 +6577,7 @@
 							<Notes/>
 							<dataObject/>
 							<height></height>
-							<htmlChildPosition>34</htmlChildPosition>
+							<htmlChildPosition>32</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object
@@ -7103,7 +6655,7 @@
 											relativeTop="-16"
 											width="16%"
 											height="16%"
-											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com:81/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
+											data="&lt;div id=&quot;imagearea1&quot; src=&quot;http://vm-ottog.westeurope.cloudapp.azure.com/cordys/wcp/theme/default/icon/processobject/followup-automatic_sb.gif&quot; title=&quot;&quot;&gt;&lt;/div&gt;"
 											display=""
 											user="psdev"
 										/>
@@ -7111,7 +6663,7 @@
 								</linkedObjects>
 							</dataObject>
 							<height></height>
-							<htmlChildPosition>2563</htmlChildPosition>
+							<htmlChildPosition>2261</htmlChildPosition>
 							<left></left>
 							<objectXML>
 								<object

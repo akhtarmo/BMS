@@ -2857,7 +2857,7 @@
 											<CreationDate>2025-04-08T21:43:31.348</CreationDate>
 											<Notes/>
 											<IsNullEntry>false</IsNullEntry>
-											<Value>Under Evaluation</Value>
+											<Value>Under Technical Evaluation</Value>
 											<Icon/>
 											<PropertyDefinition/>
 											<StaticEnumSet>
@@ -2869,16 +2869,54 @@
 												<TranslatableText
 													type="com.cordys.translation.TranslatableText"
 													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-													RuntimeDocumentID="00155D27-0470-A1F0-8530-851469E4DA99">
-													<DocumentID>00155D27-0470-A1F0-8530-851469E49A99</DocumentID>
-													<Name>00155D27-0470-A1F0-8530-851469E49A99</Name>
-													<Description>00155D27-0470-A1F0-8530-851469E49A99</Description>
+													RuntimeDocumentID="00155D27-0470-A1F0-870C-E5F25C449A99">
+													<DocumentID>00155D27-0470-A1F0-870C-E5F25C445A99</DocumentID>
+													<Name>00155D27-0470-A1F0-870C-E5F25C445A99</Name>
+													<Description>00155D27-0470-A1F0-870C-E5F25C445A99</Description>
 													<CreatedBy>PS Dev</CreatedBy>
-													<CreationDate>2025-04-08T21:43:31.341</CreationDate>
+													<CreationDate>2025-04-18T09:06:45.473</CreationDate>
 													<Notes/>
-													<DeveloperText>Under Evaluation</DeveloperText>
+													<DeveloperText>Under Technical Evaluation</DeveloperText>
 													<Identifier>
-														<uri	id="00155D27-0470-A1F0-8530-851469E51A99"
+														<uri	id="00155D27-0470-A1F0-870C-E5F25C44DA99"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="00155D27-0470-A1F0-870C-E5F25C441A99">
+											<DocumentID>00155D27-0470-A1F0-870C-E5F25C43DA99</DocumentID>
+											<Name>Untitled Static Text Enum (8)</Name>
+											<Description>Untitled Static Text Enum (8)</Description>
+											<CreatedBy>PS Dev</CreatedBy>
+											<CreationDate>2025-04-18T09:06:45.472</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Under Commercial Evaluation</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="00155D27-0470-A1F0-8530-1E1989499A99"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00155D27-0470-A1F0-870C-E5F25C429A99">
+													<DocumentID>00155D27-0470-A1F0-870C-E5F25C425A99</DocumentID>
+													<Name>00155D27-0470-A1F0-870C-E5F25C425A99</Name>
+													<Description>00155D27-0470-A1F0-870C-E5F25C425A99</Description>
+													<CreatedBy>PS Dev</CreatedBy>
+													<CreationDate>2025-04-18T09:06:45.473</CreationDate>
+													<Notes/>
+													<DeveloperText>Under Commercial Evaluation</DeveloperText>
+													<Identifier>
+														<uri	id="00155D27-0470-A1F0-870C-E5F25C42DA99"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -3514,7 +3552,7 @@
 					<CreationDate>2025-04-08T19:03:31.43</CreationDate>
 					<Notes/>
 					<IsPersisted>false</IsPersisted>
-					<TitleSpecification></TitleSpecification>
+					<TitleSpecification>{item.Properties.EventNumber}</TitleSpecification>
 					<DisplayName/>
 				</Title>
 			</Title>

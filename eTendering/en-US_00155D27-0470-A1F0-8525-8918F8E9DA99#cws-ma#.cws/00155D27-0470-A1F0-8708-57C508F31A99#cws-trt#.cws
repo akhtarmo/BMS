@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8708-57C508F35A99">
+	<DocumentID>00155D27-0470-A1F0-8708-57C508F31A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8708-57C508F31A99</Name>
+	<Description>HSE Evaluation</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-18T06:51:31.575</CreationDate>
+	<Notes/>
+	<Text>HSE Evaluation</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8708-57C508F29A99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

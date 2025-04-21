@@ -28,7 +28,7 @@
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
 	<ShowCreateButton>false</ShowCreateButton>
 	<ShowTotalCountInList>false</ShowTotalCountInList>
-	<UserVisible>true</UserVisible>
+	<UserVisible>false</UserVisible>
 	<ActionBar/>
 	<AssignedFilterCriteria/>
 	<BuildingBlock>
@@ -367,12 +367,12 @@
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
 			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
-			RuntimeDocumentID="00155D27-0470-A1F0-86D8-8FB9C3971A99">
-			<DocumentID>00155D27-0470-A1F0-86D8-8FB9C3975A99</DocumentID>
-			<Name>Untitled WorklistColumn (2)</Name>
-			<Description>Untitled WorklistColumn (2)</Description>
+			RuntimeDocumentID="00155D27-0470-A1F0-8742-13A357CB1A99">
+			<DocumentID>00155D27-0470-A1F0-8742-13A357CADA99</DocumentID>
+			<Name>Untitled WorklistColumn (6)</Name>
+			<Description>Untitled WorklistColumn (6)</Description>
 			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-17T08:05:19.458</CreationDate>
+			<CreationDate>2025-04-19T10:44:25.976</CreationDate>
 			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
@@ -383,27 +383,43 @@
 			<HiddenInResult>false</HiddenInResult>
 			<InForm>true</InForm>
 			<IsComputedProperty>false</IsComputedProperty>
-			<ItemMemberId>00155D27-0470-A1F0-8526-D7B49041DA99</ItemMemberId>
-			<ItemMemberPath></ItemMemberPath>
+			<ItemMemberId>00155D27-0470-A1F0-852C-551FCA8E9A99</ItemMemberId>
+			<ItemMemberPath>00155D270470A1F0852EC5D8DC0C5A99</ItemMemberPath>
 			<OwnerName>event</OwnerName>
-			<PropertyId>00155D27-0470-A1F0-852B-FCBAD98D5A99</PropertyId>
-			<PropertyName>EventType</PropertyName>
+			<PropertyId>00155D27-0470-A1F0-852C-551FCA8E1A99</PropertyId>
+			<PropertyName>TenderType</PropertyName>
 			<StaticPropertyId></StaticPropertyId>
 			<ItemMemberPropertyPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-86D8-8FB9C3969A99">
-					<DocumentID>00155D27-0470-A1F0-86D8-8FB9C396DA99</DocumentID>
-					<Name>00155D27-0470-A1F0-86D8-5CC8D89D9A99</Name>
-					<Description>00155D27-0470-A1F0-86D8-5CC8D89D9A99</Description>
+					RuntimeDocumentID="00155D27-0470-A1F0-8742-13A357CA9A99">
+					<DocumentID>00155D27-0470-A1F0-8742-13A357CA5A99</DocumentID>
+					<Name>00155D27-0470-A1F0-8742-13A357CA5A99</Name>
+					<Description>00155D27-0470-A1F0-8742-13A357CA5A99</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-17T08:05:19.458</CreationDate>
+					<CreationDate>2025-04-19T10:44:25.975</CreationDate>
 					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
+					<NumberOfIntermediateRelationships>1</NumberOfIntermediateRelationships>
+					<IntermediateRelationships>
+						<RelationshipReference
+							type="com.cordys.entity.core.objectpath.RelationshipReference"
+							RuntimeDocumentID="00155D27-0470-A1F0-8742-13A357CA1A99">
+							<DocumentID>00155D27-0470-A1F0-8742-13A357C9DA99</DocumentID>
+							<Name>00155D27-0470-A1F0-8742-13A357C9DA99</Name>
+							<Description>00155D27-0470-A1F0-8742-13A357C9DA99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-19T10:44:25.975</CreationDate>
+							<Notes/>
+							<Relationship>
+								<uri
+									id="00155D27-0470-A1F0-852E-C5D8DC0C1A99"
+								/>
+							</Relationship>
+						</RelationshipReference>
+					</IntermediateRelationships>
 					<Object>
 						<uri
-							id="00155D27-0470-A1F0-852B-FCBAD98D1A99"
+							id="00155D27-0470-A1F0-852C-551FCA8DDA99"
 						/>
 					</Object>
 					<ObjectOwner>
@@ -418,7 +434,7 @@
 					</PathBegin>
 					<PathEnd>
 						<uri
-							id="00155D27-0470-A1F0-852B-FCBAD98D1A99"
+							id="00155D27-0470-A1F0-852C-551FCA8DDA99"
 						/>
 					</PathEnd>
 					<RootOwner>
@@ -432,7 +448,7 @@
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
-					id="00155D27-0470-A1F0-852B-FCBAD98D1A99"
+					id="00155D27-0470-A1F0-852C-551FCA8DDA99"
 				/>
 			</Property>
 			<WorklistDateFormat/>

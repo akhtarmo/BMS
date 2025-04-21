@@ -26,9 +26,9 @@
 	<MaxCount>200</MaxCount>
 	<SecuredByEntity>false</SecuredByEntity>
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
-	<ShowCreateButton>true</ShowCreateButton>
+	<ShowCreateButton>false</ShowCreateButton>
 	<ShowTotalCountInList>false</ShowTotalCountInList>
-	<UserVisible>true</UserVisible>
+	<UserVisible>false</UserVisible>
 	<ActionBar/>
 	<AssignedFilterCriteria/>
 	<BuildingBlock>
@@ -122,13 +122,13 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-17T07:58:14.715</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Published&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Open&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Clarifications Closed&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Under Evaluation&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Award Pending&quot;</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Published&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Open&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Clarifications Closed&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Under Commercial Evaluation&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Under Technical Evaluation&quot; || item.qpid(00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Award Pending&quot;</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Properties.EventStatus==&quot;Published&quot; || item.Properties.EventStatus==&quot;Open&quot; || item.Properties.EventStatus==&quot;Clarifications Closed&quot; || item.Properties.EventStatus==&quot;Under Evaluation&quot; || item.Properties.EventStatus==&quot;Award Pending&quot;</HumanExpression>
+			<HumanExpression>item.Properties.EventStatus==&quot;Published&quot; || item.Properties.EventStatus==&quot;Open&quot; || item.Properties.EventStatus==&quot;Clarifications Closed&quot; || item.Properties.EventStatus==&quot;Under Commercial Evaluation&quot; || item.Properties.EventStatus==&quot;Under Technical Evaluation&quot; || item.Properties.EventStatus==&quot;Award Pending&quot;</HumanExpression>
 			<IsAdvancedOnly>0</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;OR&quot;,&quot;id&quot;:&quot;6281FBF90F751F5C807C3E004EDFF785&quot;,&quot;terms&quot;:[{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Published&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Open&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Clarifications Closed&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Under Evaluation&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Award Pending&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;}]}</QueryCriteria>
+			<QueryCriteria>{&quot;type&quot;:&quot;OR&quot;,&quot;id&quot;:&quot;6281FBF90F751F5C807C3E004EDFF785&quot;,&quot;terms&quot;:[{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Published&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Open&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Clarifications Closed&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Under Commercial Evaluation&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Under Technical Evaluation&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Award Pending&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;&quot;}]}</QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -298,6 +298,43 @@
 					<Description>item.Properties.EventStatus</Description>
 					<CreatedBy>PS Dev</CreatedBy>
 					<CreationDate>2025-04-17T08:00:43.922</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
+					<IntermediateRelationships/>
+					<Object>
+						<uri
+							id="00155D27-0470-A1F0-86D8-5CC8D8A49A99"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="00155D27-0470-A1F0-86D8-5CC8D8A59A99"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="00155D27-0470-A1F0-8526-D7B490585A99"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="00155D27-0470-A1F0-8530-1E19894E9A99"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="00155D27-0470-A1F0-8526-D7B490585A99"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="00155D27-0470-A1F0-8712-4AFDA7575A99">
+					<DocumentID>00155D27-0470-A1F0-8712-4AFDA7571A99</DocumentID>
+					<Name>00155D27-0470-A1F0-8712-4AFDA7571A99</Name>
+					<Description>item.Properties.EventStatus</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-18T12:31:15.308</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -515,12 +552,12 @@
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
 			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
-			RuntimeDocumentID="00155D27-0470-A1F0-86D8-5CC8D89E5A99">
-			<DocumentID>00155D27-0470-A1F0-86D8-5CC8D89E1A99</DocumentID>
+			RuntimeDocumentID="00155D27-0470-A1F0-8726-518F540B9A99">
+			<DocumentID>00155D27-0470-A1F0-8726-518F540B5A99</DocumentID>
 			<Name>Untitled WorklistColumn (2)</Name>
 			<Description>Untitled WorklistColumn (2)</Description>
 			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-17T07:58:14.717</CreationDate>
+			<CreationDate>2025-04-18T21:56:40.008</CreationDate>
 			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
@@ -531,27 +568,43 @@
 			<HiddenInResult>false</HiddenInResult>
 			<InForm>true</InForm>
 			<IsComputedProperty>false</IsComputedProperty>
-			<ItemMemberId>00155D27-0470-A1F0-8526-D7B49041DA99</ItemMemberId>
-			<ItemMemberPath></ItemMemberPath>
+			<ItemMemberId>00155D27-0470-A1F0-852C-551FCA8E9A99</ItemMemberId>
+			<ItemMemberPath>00155D270470A1F0852EC5D8DC0C5A99</ItemMemberPath>
 			<OwnerName>event</OwnerName>
-			<PropertyId>00155D27-0470-A1F0-852B-FCBAD98D5A99</PropertyId>
-			<PropertyName>EventType</PropertyName>
+			<PropertyId>00155D27-0470-A1F0-852C-551FCA8E1A99</PropertyId>
+			<PropertyName>TenderType</PropertyName>
 			<StaticPropertyId></StaticPropertyId>
 			<ItemMemberPropertyPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00155D27-0470-A1F0-86D8-5CC8D89DDA99">
-					<DocumentID>00155D27-0470-A1F0-86D8-5CC8D89D9A99</DocumentID>
-					<Name>00155D27-0470-A1F0-86D8-5CC8D89D9A99</Name>
-					<Description>00155D27-0470-A1F0-86D8-5CC8D89D9A99</Description>
+					RuntimeDocumentID="00155D27-0470-A1F0-8726-518F540B1A99">
+					<DocumentID>00155D27-0470-A1F0-8726-518F540ADA99</DocumentID>
+					<Name>00155D27-0470-A1F0-8726-518F540ADA99</Name>
+					<Description>00155D27-0470-A1F0-8726-518F540ADA99</Description>
 					<CreatedBy>PS Dev</CreatedBy>
-					<CreationDate>2025-04-17T07:58:14.717</CreationDate>
+					<CreationDate>2025-04-18T21:56:40.008</CreationDate>
 					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
+					<NumberOfIntermediateRelationships>1</NumberOfIntermediateRelationships>
+					<IntermediateRelationships>
+						<RelationshipReference
+							type="com.cordys.entity.core.objectpath.RelationshipReference"
+							RuntimeDocumentID="00155D27-0470-A1F0-8726-518F540A9A99">
+							<DocumentID>00155D27-0470-A1F0-8726-518F540A5A99</DocumentID>
+							<Name>00155D27-0470-A1F0-8726-518F540A5A99</Name>
+							<Description>00155D27-0470-A1F0-8726-518F540A5A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-18T21:56:40.008</CreationDate>
+							<Notes/>
+							<Relationship>
+								<uri
+									id="00155D27-0470-A1F0-852E-C5D8DC0C1A99"
+								/>
+							</Relationship>
+						</RelationshipReference>
+					</IntermediateRelationships>
 					<Object>
 						<uri
-							id="00155D27-0470-A1F0-852B-FCBAD98D1A99"
+							id="00155D27-0470-A1F0-852C-551FCA8DDA99"
 						/>
 					</Object>
 					<ObjectOwner>
@@ -566,7 +619,7 @@
 					</PathBegin>
 					<PathEnd>
 						<uri
-							id="00155D27-0470-A1F0-852B-FCBAD98D1A99"
+							id="00155D27-0470-A1F0-852C-551FCA8DDA99"
 						/>
 					</PathEnd>
 					<RootOwner>
@@ -580,7 +633,7 @@
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
-					id="00155D27-0470-A1F0-852B-FCBAD98D1A99"
+					id="00155D27-0470-A1F0-852C-551FCA8DDA99"
 				/>
 			</Property>
 			<WorklistDateFormat/>

@@ -28,7 +28,7 @@
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
 	<ShowCreateButton>false</ShowCreateButton>
 	<ShowTotalCountInList>false</ShowTotalCountInList>
-	<UserVisible>false</UserVisible>
+	<UserVisible>true</UserVisible>
 	<ActionBar/>
 	<AssignedFilterCriteria/>
 	<BuildingBlock>
@@ -101,17 +101,17 @@
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
 			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-			RuntimeDocumentID="00155D27-0470-A1F0-857C-89FF3E6C1A99">
-			<DocumentID>00155D27-0470-A1F0-857C-89FF3E6BDA99</DocumentID>
-			<Name>00155D27-0470-A1F0-857C-89FF3E6BDA99</Name>
-			<Description>00155D27-0470-A1F0-857C-89FF3E6BDA99</Description>
+			RuntimeDocumentID="00155D27-0470-A1F0-870F-359735471A99">
+			<DocumentID>00155D27-0470-A1F0-870F-35973546DA99</DocumentID>
+			<Name>00155D27-0470-A1F0-870F-35973546DA99</Name>
+			<Description>00155D27-0470-A1F0-870F-35973546DA99</Description>
 			<CreatedBy>PS Dev</CreatedBy>
-			<CreationDate>2025-04-10T09:58:46.253</CreationDate>
+			<CreationDate>2025-04-18T10:14:08.918</CreationDate>
 			<Notes/>
-			<DeveloperText>BMS</DeveloperText>
+			<DeveloperText>BMS - Delete Temporary</DeveloperText>
 			<Identifier>
 				<uri
-					id="00155D27-0470-A1F0-852A-F091EC755A99"
+					id="00155D27-0470-A1F0-870F-359735529A99"
 				/>
 			</Identifier>
 		</TranslatableText>

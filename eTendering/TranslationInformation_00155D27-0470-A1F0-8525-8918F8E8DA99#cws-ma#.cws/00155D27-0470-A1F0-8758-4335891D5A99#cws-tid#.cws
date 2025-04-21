@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8758-4335891D9A99">
+	<DocumentID>00155D27-0470-A1F0-8758-4335891D5A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8758-4335891D5A99</Name>
+	<Description>Tender Overview</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-19T22:59:30.682</CreationDate>
+	<Notes/>
+	<DefaultText>Tender Overview</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8758-4335891DDA99"
+		/>
+	</Translations>
+</TextIdentifier>

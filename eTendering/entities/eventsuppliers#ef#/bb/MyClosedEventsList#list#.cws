@@ -172,13 +172,13 @@
 			<CreatedBy>PS Dev</CreatedBy>
 			<CreationDate>2025-04-16T21:47:18.333</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(00155D270470A1F08557BCB5A58E5A99.00155D270470A1F0856F8A73F2DC9A99.F8B156E1037111E6E9CB18D8754D5BBF.F8B156B4FF8F11E6EE7EB5B96C4B771A)==User.Properties.UserId &amp;&amp; (item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Closed&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Under Evaluation&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Award Pending&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Awarded&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Cancelled&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Archived&quot;)</EncodedExpression>
+			<EncodedExpression>item.qpid(00155D270470A1F08557BCB5A58E5A99.00155D270470A1F0856F8A73F2DC9A99.F8B156E1037111E6E9CB18D8754D5BBF.F8B156B4FF8F11E6EE7EB5B96C4B771A)==User.Properties.UserId &amp;&amp; (item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Closed&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Under Technical Evaluation&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Under Commercial Evaluation&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Award Pending&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Awarded&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Cancelled&quot; || item.qpid(00155D270470A1F085578CC709809A99.00155D270470A1F08526D7B49041DA99.00155D270470A1F085301E19894EDA99)==&quot;Archived&quot;)</EncodedExpression>
 			<ErrorMessage>You have created an expression that cannot be represented in basic mode.</ErrorMessage>
-			<HumanExpression>item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.UserId==User.Properties.UserId &amp;&amp; (item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Closed&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Under Evaluation&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Award Pending&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Awarded&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Cancelled&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Archived&quot;)</HumanExpression>
+			<HumanExpression>item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.UserId==User.Properties.UserId &amp;&amp; (item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Closed&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Under Technical Evaluation&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Under Commercial Evaluation&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Award Pending&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Awarded&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Cancelled&quot; || item.RelEventSupplierAssociatedToEvent.Properties.EventStatus==&quot;Archived&quot;)</HumanExpression>
 			<IsAdvancedOnly>1</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;6A70FADCA2151DFCF3CDCAC40E1BFE58&quot;,&quot;terms&quot;:[{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;F8B156B4-FF8F-11E6-EE7E-B5B96C4B571A&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F08557BCB5A58E5A99&quot;,&quot;00155D270470A1F0856F8A73F2DC9A99&quot;],&quot;itemMemberId&quot;:&quot;F8B156E1037111E6E9CB18D8754D5BBF&quot;,&quot;propertyId&quot;:&quot;F8B156B4FF8F11E6EE7EB5B96C4B771A&quot;},&quot;itemMemberId&quot;:&quot;F8B156E1037111E6E9CB18D8754D5BBF&quot;,&quot;propertyId&quot;:&quot;F8B156B4FF8F11E6EE7EB5B96C4B771A&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;F8B156B4FF8F11E6EE7EB5B96C4B771A&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;user.Properties.UserId&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[],&quot;isValueExpression&quot;:true},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.UserId&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin&quot;},{&quot;type&quot;:&quot;OR&quot;,&quot;id&quot;:&quot;AE3D4E893A49919C7370396AECEDBC9F&quot;,&quot;terms&quot;:[{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Closed&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Under Evaluation&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Award Pending&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Awarded&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Cancelled&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Archived&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;}]}]}</QueryCriteria>
+			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;6A70FADCA2151DFCF3CDCAC40E1BFE58&quot;,&quot;terms&quot;:[{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;F8B156B4-FF8F-11E6-EE7E-B5B96C4B571A&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F08557BCB5A58E5A99&quot;,&quot;00155D270470A1F0856F8A73F2DC9A99&quot;],&quot;itemMemberId&quot;:&quot;F8B156E1037111E6E9CB18D8754D5BBF&quot;,&quot;propertyId&quot;:&quot;F8B156B4FF8F11E6EE7EB5B96C4B771A&quot;},&quot;itemMemberId&quot;:&quot;F8B156E1037111E6E9CB18D8754D5BBF&quot;,&quot;propertyId&quot;:&quot;F8B156B4FF8F11E6EE7EB5B96C4B771A&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;F8B156B4FF8F11E6EE7EB5B96C4B771A&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;user.Properties.UserId&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[],&quot;isValueExpression&quot;:true},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin.Properties.UserId&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToSupplier.RelSupplierHasALogin&quot;},{&quot;type&quot;:&quot;OR&quot;,&quot;id&quot;:&quot;AE3D4E893A49919C7370396AECEDBC9F&quot;,&quot;terms&quot;:[{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Closed&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Under Technical Evaluation&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Under Commercial Evaluation&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Award Pending&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Awarded&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Cancelled&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;},{&quot;isNew&quot;:false,&quot;dataType&quot;:&quot;Text&quot;,&quot;documentId&quot;:&quot;00155D27-0470-A1F0-8530-1E19894E9A99&quot;,&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;00155D270470A1F085578CC709809A99&quot;],&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;},&quot;itemMemberId&quot;:&quot;00155D270470A1F08526D7B49041DA99&quot;,&quot;propertyId&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;00155D270470A1F085301E19894EDA99&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;eq&quot;,&quot;value&quot;:&quot;Archived&quot;,&quot;from&quot;:null,&quot;to&quot;:null,&quot;values&quot;:[]},&quot;fullHumanPropertyName&quot;:&quot;item.RelEventSupplierAssociatedToEvent.Properties.EventStatus&quot;,&quot;typeDefinition&quot;:&quot;&quot;,&quot;RelationTargetPath&quot;:&quot;RelEventSupplierAssociatedToEvent&quot;}]}]}</QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -544,6 +544,59 @@
 							<Description>00155D27-0470-A1F0-86C3-102297575A99</Description>
 							<CreatedBy>PS Dev</CreatedBy>
 							<CreationDate>2025-04-16T21:47:18.33</CreationDate>
+							<Notes/>
+							<Relationship>
+								<uri
+									id="00155D27-0470-A1F0-8557-8CC709805A99"
+								/>
+							</Relationship>
+						</RelationshipReference>
+					</IntermediateRelationships>
+					<Object>
+						<uri
+							id="00155D27-0470-A1F0-86C2-E92F704FDA99"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="00155D27-0470-A1F0-86C2-54DEEA0B1A99"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="00155D27-0470-A1F0-8555-C3E33A609A99"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="00155D27-0470-A1F0-8530-1E19894E9A99"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="00155D27-0470-A1F0-8555-C3E33A609A99"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="00155D27-0470-A1F0-8740-92885D029A99">
+					<DocumentID>00155D27-0470-A1F0-8740-92885D025A99</DocumentID>
+					<Name>00155D27-0470-A1F0-8740-92885D025A99</Name>
+					<Description>item.RelEventSupplierAssociatedToEvent.Properties.EventStatus</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-19T10:18:00.623</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>1</NumberOfIntermediateRelationships>
+					<IntermediateRelationships>
+						<RelationshipReference
+							type="com.cordys.entity.core.objectpath.RelationshipReference"
+							RuntimeDocumentID="00155D27-0470-A1F0-8740-92885D021A99">
+							<DocumentID>00155D27-0470-A1F0-8740-92885D01DA99</DocumentID>
+							<Name>00155D27-0470-A1F0-8740-92885D01DA99</Name>
+							<Description>00155D27-0470-A1F0-8740-92885D01DA99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-19T10:18:00.623</CreationDate>
 							<Notes/>
 							<Relationship>
 								<uri
@@ -1151,6 +1204,96 @@
 			<Property>
 				<uri
 					id="F8B156B4-FF8F-11E6-EE7E-B5B96C4B571A"
+				/>
+			</Property>
+			<WorklistDateFormat/>
+			<WorklistDateTimeFormat/>
+		</WorklistColumn>
+		<WorklistColumn
+			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
+			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			RuntimeDocumentID="00155D27-0470-A1F0-8740-92885D08DA99">
+			<DocumentID>00155D27-0470-A1F0-8740-92885D089A99</DocumentID>
+			<Name>Untitled WorklistColumn (5)</Name>
+			<Description>Untitled WorklistColumn (5)</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-19T10:02:51.704</CreationDate>
+			<Notes/>
+			<ColumnAlignment>0</ColumnAlignment>
+			<ColumnLabel></ColumnLabel>
+			<DataType>TextValueList</DataType>
+			<DefaultSortType>0</DefaultSortType>
+			<Definition>{ &quot;presentationType&quot;: &quot;displayName&quot; }</Definition>
+			<FormatterName>resultSimpleTextEnumeration</FormatterName>
+			<HiddenInResult>false</HiddenInResult>
+			<InForm>true</InForm>
+			<IsComputedProperty>false</IsComputedProperty>
+			<ItemMemberId>00155D27-0470-A1F0-8526-D7B49041DA99</ItemMemberId>
+			<ItemMemberPath>00155D270470A1F085578CC709809A99</ItemMemberPath>
+			<OwnerName>eventsuppliers</OwnerName>
+			<PropertyId>00155D27-0470-A1F0-8530-1E19894EDA99</PropertyId>
+			<PropertyName>EventStatus</PropertyName>
+			<StaticPropertyId></StaticPropertyId>
+			<ItemMemberPropertyPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="00155D27-0470-A1F0-8740-92885D085A99">
+					<DocumentID>00155D27-0470-A1F0-8740-92885D081A99</DocumentID>
+					<Name>00155D27-0470-A1F0-8740-92885D081A99</Name>
+					<Description>00155D27-0470-A1F0-8740-92885D081A99</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-04-19T10:02:51.703</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>1</NumberOfIntermediateRelationships>
+					<IntermediateRelationships>
+						<RelationshipReference
+							type="com.cordys.entity.core.objectpath.RelationshipReference"
+							RuntimeDocumentID="00155D27-0470-A1F0-8740-92885D07DA99">
+							<DocumentID>00155D27-0470-A1F0-8740-92885D079A99</DocumentID>
+							<Name>00155D27-0470-A1F0-8740-92885D079A99</Name>
+							<Description>00155D27-0470-A1F0-8740-92885D079A99</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-04-19T10:02:51.703</CreationDate>
+							<Notes/>
+							<Relationship>
+								<uri
+									id="00155D27-0470-A1F0-8557-8CC709805A99"
+								/>
+							</Relationship>
+						</RelationshipReference>
+					</IntermediateRelationships>
+					<Object>
+						<uri
+							id="00155D27-0470-A1F0-8530-1E19894E9A99"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="00155D27-0470-A1F0-86C2-54DEEA0B1A99"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="00155D27-0470-A1F0-8555-C3E33A609A99"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="00155D27-0470-A1F0-8530-1E19894E9A99"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="00155D27-0470-A1F0-8555-C3E33A609A99"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+			</ItemMemberPropertyPath>
+			<Layout/>
+			<LocalizableColumnLabel/>
+			<Property>
+				<uri
+					id="00155D27-0470-A1F0-8530-1E19894E9A99"
 				/>
 			</Property>
 			<WorklistDateFormat/>

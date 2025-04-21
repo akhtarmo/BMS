@@ -9,7 +9,7 @@
 	<CreatedBy>PS Dev</CreatedBy>
 	<CreationDate>2025-04-09T16:18:51.461</CreationDate>
 	<Notes/>
-	<Definition>{&quot;layoutType&quot;:&quot;object&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8557-8CC70992DA99&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:10,&quot;id&quot;:&quot;6cdee52e5ae4ed27a43e8173d7295148&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;33c077f9c92cfa8675eba7792badbbf5&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;a82b7cf4f14c9cfd6fecc51f7c4063d3&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;18202898221a065eafacb7ec511b64ca&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:10,&quot;id&quot;:&quot;8ba0668fdde9746e9b2218091f565713&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;a695c9c5f2dfa342c6b746b4e7840d5d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;eff88d3e69ea7e41e64ae13897ee6000&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;a8ab09e23bc95fecbe25b661e3cacf7b&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:80,&quot;id&quot;:&quot;1cecb67dfe10347a406e4cafa229b77b&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;e9f39f9917521c94b61ca7a43bc07344&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;b048bf669fbd7372152f4aaba6a23aa7&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;c6757de4abbc2cb9c0c55caa56fbad20&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
+	<Definition>{&quot;layoutType&quot;:&quot;object&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8557-8CC70992DA99&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:10,&quot;id&quot;:&quot;6cdee52e5ae4ed27a43e8173d7295148&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;33c077f9c92cfa8675eba7792badbbf5&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;a82b7cf4f14c9cfd6fecc51f7c4063d3&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;18202898221a065eafacb7ec511b64ca&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:10,&quot;id&quot;:&quot;8ba0668fdde9746e9b2218091f565713&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;a695c9c5f2dfa342c6b746b4e7840d5d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;eff88d3e69ea7e41e64ae13897ee6000&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;a8ab09e23bc95fecbe25b661e3cacf7b&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:80,&quot;id&quot;:&quot;1cecb67dfe10347a406e4cafa229b77b&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:50,&quot;id&quot;:&quot;2a354f443a4da799a8b9a264a8e8d969&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;e9f39f9917521c94b61ca7a43bc07344&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;b048bf669fbd7372152f4aaba6a23aa7&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;c6757de4abbc2cb9c0c55caa56fbad20&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:50,&quot;id&quot;:&quot;e96b8cf91cf6702b4652df7beb798ade&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;541207db79597d2770a77a2f04ca586c&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;84913751b2f423ad4904908246ac1d2b&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;a116ffd595fc32e82244b43f27c82e8c&quot;,&quot;nodes&quot;:[]}]}]}]}]}</Definition>
 	<HelpURL></HelpURL>
 	<HideCreateAction>false</HideCreateAction>
 	<IncludeInCreate>false</IncludeInCreate>
@@ -123,6 +123,33 @@
 					id="00155D27-0470-A1F0-8557-8CC70990DA99"
 				/>
 			</FormAssociation>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1F0-87A2-EF51ED5F1A9A">
+			<DocumentID>00155D27-0470-A1F0-87A2-EF51ED5EDA9A</DocumentID>
+			<Name>Discussions</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-04-21T10:23:20.63</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;E9794931B9C94454A61D102017A54CBC&quot;,&quot;sourceName&quot;:&quot;Discussions&quot;,&quot;blockName&quot;:&quot;DiscussionBuildingBlock&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;84913751b2f423ad4904908246ac1d2b&quot;,&quot;imageQualifiedName&quot;:null,&quot;discussionDateFormat&quot;:&quot;elapasedTime&quot;,&quot;properties&quot;:[]}</Definition>
+			<DisplayName>Discussions</DisplayName>
+			<ModelerId>84913751b2f423ad4904908246ac1d2b</ModelerId>
+			<SourceId>E9794931B9C94454A61D102017A54CBC</SourceId>
+			<SourceName>Discussions</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>

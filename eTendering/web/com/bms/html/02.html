@@ -1,0 +1,338 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tender Lifecycle Tracker - Al Jazeera Network</title>
+    <link rel="stylesheet" href="../css/02styles.css">
+    <script type="importmap">
+    {
+        "imports": {
+            "chart.js": "https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.esm.js",
+            "chartjs-plugin-datalabels": "https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.esm.js"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header>
+        <h1>Tender Lifecycle Tracker</h1>
+        
+    </header>
+
+    <div class="filters-container">
+        <div class="filter">
+            <label for="department">Department:</label>
+            <select id="department">
+                <option value="all">All Departments</option>
+                <option value="news">News</option>
+                <option value="tech">Technology</option>
+                <option value="hr">Human Resources</option>
+                <option value="finance">Finance</option>
+            </select>
+        </div>
+        <div class="filter">
+            <label for="category">Category:</label>
+            <select id="category">
+                <option value="all">All Categories</option>
+                <option value="equipment">Equipment</option>
+                <option value="services">Services</option>
+                <option value="consulting">Consulting</option>
+            </select>
+        </div>
+        <div class="filter">
+            <label for="tender-type">Tender Type:</label>
+            <select id="tender-type">
+                <option value="all">All Types</option>
+                <option value="open">Open</option>
+                <option value="closed">Closed</option>
+                <option value="restricted">Restricted</option>
+            </select>
+        </div>
+        <div class="filter">
+            <label for="time-range">Time Range:</label>
+            <select id="time-range">
+                <option value="30">Last 30 Days</option>
+                <option value="90">Last 90 Days</option>
+                <option value="180">Last 6 Months</option>
+                <option value="365">Last Year</option>
+            </select>
+        </div>
+        <button id="apply-filters" class="filter-button">Apply Filters</button>
+    </div>
+
+    <div class="summary-container">
+        <div class="summary-card">
+            <div class="card-value">124</div>
+            <div class="card-label">Total Active Tenders</div>
+        </div>
+        <div class="summary-card">
+            <div class="card-value">18.5 days</div>
+            <div class="card-label">Average Evaluation Time</div>
+        </div>
+        <div class="summary-card">
+            <div class="card-value">87%</div>
+            <div class="card-label">Awarded within SLA</div>
+        </div>
+    </div>
+
+    <section class="tracker-container">
+        <h2>Tender Stage Progress Tracker</h2>
+        <div class="progress-tracker">
+            <div class="stage">
+                <div class="stage-count">32</div>
+                <div class="stage-name">Draft</div>
+            </div>
+            <div class="stage-connector"></div>
+            <div class="stage">
+                <div class="stage-count">28</div>
+                <div class="stage-name">Submitted</div>
+            </div>
+            <div class="stage-connector"></div>
+            <div class="stage">
+                <div class="stage-count">22</div>
+                <div class="stage-name">Approved</div>
+            </div>
+            <div class="stage-connector"></div>
+            <div class="stage">
+                <div class="stage-count">45</div>
+                <div class="stage-name">Published</div>
+            </div>
+            <div class="stage-connector"></div>
+            <div class="stage">
+                <div class="stage-count">19</div>
+                <div class="stage-name">Closed</div>
+            </div>
+            <div class="stage-connector"></div>
+            <div class="stage">
+                <div class="stage-count">16</div>
+                <div class="stage-name">Evaluated</div>
+            </div>
+            <div class="stage-connector"></div>
+            <div class="stage">
+                <div class="stage-count">14</div>
+                <div class="stage-name">Awarded</div>
+            </div>
+        </div>
+    </section>
+
+    <div class="charts-container">
+        <section class="chart-card">
+            <h2>Tenders by Status</h2>
+            <div class="chart-container">
+                <!-- Direct SVG donut chart placeholder for visual display -->
+                <svg id="tenders-status-svg" viewBox="0 0 220 220" width="100%" height="300">
+                  <!-- Background Circle -->
+                  <circle cx="110" cy="110" r="90" stroke="#F5F5F5" stroke-width="30" fill="none"/>
+                  <!-- Dynamic Segments using stroke-dasharray for values -->
+                  <g id="status-segments">
+                    <!-- Segments will be injected by JS below -->
+                  </g>
+                  <!-- Inner label -->
+                  <text x="110" y="120" text-anchor="middle" font-size="22" fill="#002147" font-weight="bold" style="font-family: Arial;">124</text>
+                  <text x="110" y="145" text-anchor="middle" font-size="13" fill="#333" font-family="Arial">Tenders</text>
+                </svg>
+                <div style="margin-top:1.3rem;text-align:center;">
+                  <span style="color:#E0E0E0;font-size:0.93em;font-weight:600;margin-right:12px;">Draft</span>
+                  <span style="color:#D8BC7A;font-size:0.93em;font-weight:600;margin-right:12px;">Under Review</span>
+                  <span style="color:#C9A14A;font-size:0.93em;font-weight:600;margin-right:12px;">Open</span>
+                  <span style="color:#6A8CAF;font-size:0.93em;font-weight:600;margin-right:12px;">Evaluation</span>
+                  <span style="color:#002147;font-size:0.93em;font-weight:600;margin-right:12px;">Awarded</span>
+                  <span style="color:#B71C1C;font-size:0.93em;">Cancelled</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="chart-card">
+            <h2>Submission to Award Timeline</h2>
+            <div class="chart-container">
+                <!-- Inline SVG line chart for timeline -->
+                <svg id="timeline-svg" viewBox="0 0 420 230" width="100%" height="300">
+                    <!-- Axes -->
+                    <line x1="40" y1="20" x2="40" y2="200" stroke="#e0e0e0" stroke-width="2"/>
+                    <line x1="40" y1="200" x2="400" y2="200" stroke="#e0e0e0" stroke-width="2"/>
+                    <!-- Plot path and points will be injected by JS below -->
+                    <g id="timeline-points"></g>
+                    <g id="timeline-path"></g>
+                    <!-- Y labels -->
+                    <g>
+                        <text x="34" y="200" font-size="10" fill="#333" text-anchor="end">10</text>
+                        <text x="34" y="160" font-size="10" fill="#333" text-anchor="end">15</text>
+                        <text x="34" y="120" font-size="10" fill="#333" text-anchor="end">20</text>
+                        <text x="34" y="80" font-size="10" fill="#333" text-anchor="end">25</text>
+                        <text x="34" y="40" font-size="10" fill="#333" text-anchor="end">30</text>
+                    </g>
+                    <!-- X labels -->
+                    <g id="timeline-month-labels"></g>
+                </svg>
+            </div>
+        </section>
+    </div>
+
+    <section class="bottlenecks-container">
+        <h2>Approval Bottlenecks</h2>
+        <div class="table-container">
+            <table id="bottlenecks-table">
+                <thead>
+                    <tr>
+                        <th>Tender ID</th>
+                        <th>Title</th>
+                        <th>Department</th>
+                        <th>Pending With</th>
+                        <th>Days Pending</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>TN-2023-0458</td>
+                        <td>Studio Equipment Upgrade</td>
+                        <td>News</td>
+                        <td>Financial Committee</td>
+                        <td>5</td>
+                        <td><span class="status-badge normal">In Progress</span></td>
+                    </tr>
+                    <tr>
+                        <td>TN-2023-0429</td>
+                        <td>SNG Trucks Maintenance</td>
+                        <td>Technology</td>
+                        <td>Technical Committee</td>
+                        <td>8</td>
+                        <td><span class="status-badge warning">Attention Needed</span></td>
+                    </tr>
+                    <tr>
+                        <td>TN-2023-0410</td>
+                        <td>Office Renovation Project</td>
+                        <td>Administration</td>
+                        <td>Senior Management</td>
+                        <td>12</td>
+                        <td><span class="status-badge critical">Overdue</span></td>
+                    </tr>
+                    <tr>
+                        <td>TN-2023-0472</td>
+                        <td>Network Security Audit</td>
+                        <td>IT</td>
+                        <td>Compliance Team</td>
+                        <td>4</td>
+                        <td><span class="status-badge normal">In Progress</span></td>
+                    </tr>
+                    <tr>
+                        <td>TN-2023-0392</td>
+                        <td>Media Training Services</td>
+                        <td>Human Resources</td>
+                        <td>Department Head</td>
+                        <td>15</td>
+                        <td><span class="status-badge critical">Overdue</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <footer>
+        <p> 2023 Al Jazeera Network - Procurement Management System</p>
+    </footer>
+
+    <script type="module">
+        /**
+         * Draw Donut Chart SVG for Tenders by Status
+         * Segments: Draft, Under Review, Open, In Evaluation, Awarded, Cancelled
+         */
+        const statusData = [32, 28, 45, 19, 14, 8];
+        const statusColors = ['#E0E0E0','#D8BC7A','#C9A14A','#6A8CAF','#002147','#B71C1C'];
+        function drawDonutChart() {
+            const total = statusData.reduce((a,b) => a+b, 0);
+            let currAngle = -90; // Start from top
+            const r = 90, cx = 110, cy = 110, thick = 30;
+            const circ = 2 * Math.PI * r;
+            const segments = [];
+            for (let i = 0; i < statusData.length; ++i) {
+                const val = statusData[i];
+                if (!val) continue;
+                const pct = val/total;
+                const len = circ * pct;
+                const dash = `${len} ${circ-len}`;
+                const rotation = currAngle;
+                segments.push(`<circle
+                    cx="${cx}" cy="${cy}" r="${r}"
+                    fill="none" stroke="${statusColors[i]}" stroke-width="${thick}"
+                    stroke-dasharray="${dash}"
+                    stroke-dashoffset="${circ * (1-pct) + (circ * currAngle/360)}"
+                    transform="rotate(${rotation} ${cx} ${cy})"
+                    style="transition: all 0.33s;"
+                />`);
+                currAngle += pct*360;
+            }
+            document.getElementById('status-segments').innerHTML = segments.join('');
+        }
+        drawDonutChart();
+
+        /**
+         * Draw Timeline Line Chart for Submission to Award
+         * Data is months and days
+         */
+        const timelineData =  [22, 25, 20, 19, 23, 21, 18, 17, 16, 14, 15, 18];
+        const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        const yMin = 10, yMax = 30, chartHeight = 180, chartWidth = 360;
+        const ptPerMonth = chartWidth/(months.length-1);
+        function yScale(val) {
+            // y = 20 at min=10, y = 40 at max=30, so invert
+            return 200 - ((val-yMin)/(yMax-yMin))*chartHeight;
+        }
+        function drawTimelineChart() {
+            let pts = [];
+            let circles = [];
+            let path = "M";
+            for(let i=0; i<timelineData.length; ++i){
+                const x = 40 + ptPerMonth*i;
+                const y = yScale(timelineData[i]);
+                path += `${x},${y} `;
+                circles.push(`<circle cx="${x}" cy="${y}" r="6" fill="#002147" />
+                              <circle cx="${x}" cy="${y}" r="10" fill="transparent" style="cursor:pointer;" 
+                                data-label="${months[i]}" data-val="${timelineData[i]}"/>`);
+                // Tooltip on hover (simple, shows when point is hovered)
+            }
+            document.getElementById('timeline-path').innerHTML = `<path d="${path}" fill="none" stroke="#C9A14A" stroke-width="3" />`;
+            document.getElementById('timeline-points').innerHTML = circles.join('');
+            // Month labels
+            const xlabels = months.map((m,i) => `<text x="${40+ptPerMonth*i}" y="215" text-anchor="middle" font-size="12" fill="#333">${m}</text>`).join('');
+            document.getElementById('timeline-month-labels').innerHTML = xlabels;
+        }
+        drawTimelineChart();
+
+        // Show tooltip for timeline chart
+        const tsvg = document.getElementById('timeline-svg');
+        let tt = null;
+        if(tsvg) {
+            tsvg.addEventListener('mousemove', function(e){
+                const pt = tsvg.createSVGPoint();
+                pt.x = e.clientX;
+                pt.y = e.clientY;
+                let target = e.target;
+                if(target.tagName === 'circle' && target.getAttribute('data-label')){
+                    if(!tt){
+                        tt = document.createElement('div');
+                        tt.style.position = 'fixed';
+                        tt.style.background = '#fffde9';
+                        tt.style.border = '1.5px solid #C9A14A';
+                        tt.style.borderRadius = '6px';
+                        tt.style.padding = '0.4em 0.75em';
+                        tt.style.color = '#333';
+                        tt.style.boxShadow = '0 2px 6px #d8bc7aaa';
+                        tt.style.pointerEvents = 'none';
+                        tt.style.fontSize = '1em';
+                        tt.style.fontWeight = '600';
+                        document.body.appendChild(tt);
+                    }
+                    tt.textContent = `${target.getAttribute('data-label')}: ${target.getAttribute('data-val')} days`;
+                    tt.style.display = 'block';
+                    tt.style.left = (e.clientX+12)+'px';
+                    tt.style.top = (e.clientY-10)+'px';
+                } else if (tt) {
+                    tt.style.display = 'none';
+                }
+            });
+            tsvg.addEventListener('mouseleave', ()=>{if(tt)tt.style.display='none';});
+        }
+    </script>
+</body>
+</html>
