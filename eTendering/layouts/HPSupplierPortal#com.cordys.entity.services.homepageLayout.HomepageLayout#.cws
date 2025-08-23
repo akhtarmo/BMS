@@ -1,6 +1,6 @@
 
 <HomepageLayout
-	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	xmlns:cws="http://schemas.cordys.com/cws/2.0"
 	type="com.cordys.entity.services.homepageLayout.HomepageLayout"
 	typeVersion="5FB698AB-8095-4249-8CC7-B4058DDA5D41"
 	RuntimeDocumentID="00155D27-0470-A1F0-86C2-06F61A0D5A99">
