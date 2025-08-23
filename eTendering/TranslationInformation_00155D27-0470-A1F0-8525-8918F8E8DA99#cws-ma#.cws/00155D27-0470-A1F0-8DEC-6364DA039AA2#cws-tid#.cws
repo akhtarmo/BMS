@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DEC-6364DA03DAA2">
+	<DocumentID>00155D27-0470-A1F0-8DEC-6364DA039AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DEC-6364DA039AA2</Name>
+	<Description>Vendor Financials</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T09:45:36.509</CreationDate>
+	<Notes/>
+	<DefaultText>Vendor Financials</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8DEC-6364DA041AA2"
+		/>
+	</Translations>
+</TextIdentifier>

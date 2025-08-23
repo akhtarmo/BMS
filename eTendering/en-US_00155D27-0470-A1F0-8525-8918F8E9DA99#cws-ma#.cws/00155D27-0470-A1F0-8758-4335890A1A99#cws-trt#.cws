@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8758-4335890A5A99">
+	<DocumentID>00155D27-0470-A1F0-8758-4335890A1A99</DocumentID>
+	<Name>00155D27-0470-A1F0-8758-4335890A1A99</Name>
+	<Description>Bid Evaluation Status</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-20T13:58:47.573</CreationDate>
+	<Notes/>
+	<Text>Bid Evaluation Status</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-877B-E28E8E4BDA99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

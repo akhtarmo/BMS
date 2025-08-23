@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DEB-4CB8E92B9AA2">
+	<DocumentID>00155D27-0470-A1F0-8DEB-4CB8E92B5AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DEB-4CB8E92B5AA2</Name>
+	<Description>Oth Fixed Assets YY Minus3</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T08:32:18.146</CreationDate>
+	<Notes/>
+	<Text>Oth Fixed Assets YY Minus3</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DEB-4CB8E92ADAA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

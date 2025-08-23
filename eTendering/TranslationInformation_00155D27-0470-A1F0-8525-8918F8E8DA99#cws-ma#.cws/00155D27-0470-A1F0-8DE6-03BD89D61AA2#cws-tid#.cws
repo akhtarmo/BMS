@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DE6-03BD89D65AA2">
+	<DocumentID>00155D27-0470-A1F0-8DE6-03BD89D61AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DE6-03BD89D61AA2</Name>
+	<Description>GnA YY Minus2</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T05:39:24.794</CreationDate>
+	<Notes/>
+	<DefaultText>GnA YY Minus2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8DE6-03BD89D69AA2"
+		/>
+	</Translations>
+</TextIdentifier>

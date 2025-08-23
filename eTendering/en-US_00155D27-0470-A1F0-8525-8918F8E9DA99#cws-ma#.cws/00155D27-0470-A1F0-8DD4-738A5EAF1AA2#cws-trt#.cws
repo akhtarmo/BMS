@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DD4-738A5EAF5AA2">
+	<DocumentID>00155D27-0470-A1F0-8DD4-738A5EAF1AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DD4-738A5EAF1AA2</Name>
+	<Description>rel Financial Category has Financial Line Items</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-22T21:16:15.391</CreationDate>
+	<Notes/>
+	<Text>rel Financial Category has Financial Line Items</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DD4-738A5EAE9AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

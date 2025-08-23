@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-857F-22FF5011DA99">
+	<DocumentID>00155D27-0470-A1F0-857F-22FF50119A99</DocumentID>
+	<Name>00155D27-0470-A1F0-857F-22FF50119A99</Name>
+	<Description>Root Case Instance Id</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-10T11:13:36.389</CreationDate>
+	<Notes/>
+	<Text>Root Case Instance Id</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-857F-22FF50111A99"
+		/>
+	</TextIdentifier>
+</TranslatedText>

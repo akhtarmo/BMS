@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DE5-F9410EF01AA2">
+	<DocumentID>00155D27-0470-A1F0-8DE5-F9410EEFDAA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DE5-F9410EEFDAA2</Name>
+	<Description>SnD YY Minus3</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T05:39:24.801</CreationDate>
+	<Notes/>
+	<Text>SnD YY Minus3</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DE5-F9410EEF5AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-87C0-1878DAAB5A9A">
+	<DocumentID>00155D27-0470-A1F0-87C0-1878DAAB1A9A</DocumentID>
+	<Name>00155D27-0470-A1F0-87C0-1878DAAB1A9A</Name>
+	<Description>Spend Analysis</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-21T22:37:23.469</CreationDate>
+	<Notes/>
+	<Text>Spend Analysis</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-87C0-1878DAAA9A9A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

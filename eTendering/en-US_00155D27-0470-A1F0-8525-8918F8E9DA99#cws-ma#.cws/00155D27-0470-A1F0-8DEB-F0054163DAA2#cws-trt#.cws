@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DEB-F00541641AA2">
+	<DocumentID>00155D27-0470-A1F0-8DEB-F0054163DAA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DEB-F0054163DAA2</Name>
+	<Description>Total Non Curr Liabilities YY Minus5</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T08:32:18.227</CreationDate>
+	<Notes/>
+	<Text>Total Non Curr Liabilities YY Minus5</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DEB-F00541635AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

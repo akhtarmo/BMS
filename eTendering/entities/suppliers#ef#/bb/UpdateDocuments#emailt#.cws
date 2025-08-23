@@ -1,0 +1,54 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="00155D27-0470-A1F0-98B7-B822DCDE9AAA">
+	<DocumentID>00155D27-0470-A1F0-98B7-B822DCDE5AAA</DocumentID>
+	<Name>UpdateDocuments</Name>
+	<Description>UpdateDocuments</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-07-17T07:35:54.312</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Good Day {item.Properties.PrimaryContactPersonName},&lt;br /&gt;
+&lt;br /&gt;
+Can you please update the registration documents for&amp;nbsp;{item.Properties.SupplierName}?&lt;br /&gt;
+&lt;br /&gt;
+&amp;nbsp;</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Update documents for {item.Properties.SupplierName}</Subject>
+	<To></To>
+	<BCCRole/>
+	<BuildingBlock>
+		<uri
+			id="00155D27-0470-A1F0-854B-A732B1171A99"
+		/>
+	</BuildingBlock>
+	<CCRole/>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00155D27-0470-A1F0-98B7-B822DCDC9AAA">
+			<DocumentID>00155D27-0470-A1F0-98B7-B822DCDC5AAA</DocumentID>
+			<Name>00155D27-0470-A1F0-98B7-B822DCDC5AAA</Name>
+			<Description>00155D27-0470-A1F0-98B7-B822DCDC5AAA</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-17T07:35:54.311</CreationDate>
+			<Notes/>
+			<DeveloperText>Update Documents</DeveloperText>
+			<Identifier>
+				<uri
+					id="00155D27-0470-A1F0-98B7-B822DCDCDAAA"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<ToRole/>
+	<TypeDefinition/>
+</EmailTemplate>

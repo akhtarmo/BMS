@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DEB-0DCA48B3DAA2">
+	<DocumentID>00155D27-0470-A1F0-8DEB-0DCA48B39AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DEB-0DCA48B39AA2</Name>
+	<Description>Inventory YY Minus4</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T08:32:18.197</CreationDate>
+	<Notes/>
+	<Text>Inventory YY Minus4</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DEB-0DCA48B31AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

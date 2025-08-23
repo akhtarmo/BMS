@@ -1,0 +1,153 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spend Analysis Dashboard - Al Jazeera Network</title>
+    <link rel="stylesheet" href="../css/07style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script type="importmap">
+      {
+        "imports": {
+          "chart.js": "https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.js",
+          "chartjs-adapter-date-fns": "https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"
+        }
+      }
+    </script>
+    <script>
+      // Ensure Chart.js UMD module is exposed as a global
+      window.addEventListener('DOMContentLoaded', () => {
+        // Make sure Chart is accessible globally when script.js uses it
+        if (typeof Chart !== 'undefined') {
+          window.Chart = Chart;
+        }
+      });
+    </script>
+</head>
+<body>
+    <header class="dashboard-header">
+        <h1>Spend Analysis Dashboard</h1>
+        <div class="header-info">
+             <span class="network-brand">Al Jazeera Network - Procurement Leadership</span>
+            <div class="header-controls">
+                <span id="last-refreshed">Last Refreshed: Oct 26, 2023 10:00 AM</span>
+                <div class="toggle-switch">
+                    <label for="view-toggle">QAR</label>
+                    <input type="checkbox" id="view-toggle" class="toggle-input">
+                    <label for="view-toggle" class="toggle-label"></label>
+                    <label for="view-toggle">%</label>
+                </div>
+                 <button class="export-btn"><i class="fas fa-file-pdf"></i> PDF</button>
+                 <button class="export-btn"><i class="fas fa-file-excel"></i> Excel</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="dashboard-main">
+        <aside class="filters">
+            <h2>Filters</h2>
+            <div class="filter-group">
+                <label for="time-range">Time Range:</label>
+                <select id="time-range">
+                    <option>Last 12 Months</option>
+                    <option selected>Fiscal Year 2023</option>
+                    <option>Q4 2023</option>
+                    <option>October 2023</option>
+                    <option>Custom</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="business-category">Business Category:</label>
+                <select id="business-category">
+                    <option>All</option>
+                    <option>IT</option>
+                    <option>Broadcast Equipment</option>
+                    <option>Events</option>
+                    <option>Services</option>
+                    <option>Marketing</option>
+                    <option>Admin</option>
+                    <option>Broadcast Engineering</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="department">Department:</label>
+                <select id="department">
+                    <option>All</option>
+                     <option>IT</option>
+                    <option>Marketing</option>
+                    <option>Admin</option>
+                    <option>Broadcast Engineering</option>
+                     <option>News Production</option>
+                     <option>Digital</option>
+                </select>
+            </div>
+             <div class="filter-group">
+                <label for="tender-type">Tender Type:</label>
+                <select id="tender-type">
+                    <option>All</option>
+                    <option>Tendered</option>
+                    <option>Direct</option>
+                </select>
+            </div>
+        </aside>
+
+        <section class="dashboard-content">
+            <div class="widget kpi-container">
+                 <div class="kpi-tile">
+                    <h3>Total Spend (YTD) <i class="fas fa-coins kpi-icon"></i></h3>
+                    <p class="kpi-value" data-qar="QAR 15,250,800" data-percent="">QAR 15,250,800</p>
+                </div>
+                 <div class="kpi-tile">
+                    <h3>Total Spend (QTD) <i class="fas fa-coins kpi-icon"></i></h3>
+                    <p class="kpi-value" data-qar="QAR 4,875,300" data-percent="">QAR 4,875,300</p>
+                </div>
+                 <div class="kpi-tile">
+                    <h3>Total Spend (MTD) <i class="fas fa-coins kpi-icon"></i></h3>
+                    <p class="kpi-value" data-qar="QAR 1,550,100" data-percent="">QAR 1,550,100</p>
+                </div>
+                 <div class="kpi-tile tender-direct-kpi">
+                     <h3>Tendered vs Direct</h3>
+                     <div class="kpi-sub-values">
+                         <p>Tendered: <span data-qar="QAR 11.4M" data-percent="75%">75%</span></p>
+                         <p>Direct: <span data-qar="QAR 3.8M" data-percent="25%">25%</span></p>
+                     </div>
+                 </div>
+                 <div class="kpi-tile savings-kpi">
+                     <h3>Savings Achieved <i class="fas fa-piggy-bank kpi-icon"></i></h3>
+                     <p class="kpi-value" data-qar="QAR 1,150,000" data-percent="7.0%">QAR 1,150,000 (vs Budget)</p>
+                     <span class="kpi-delta positive">+7.0%</span>
+                 </div>
+            </div>
+
+            <div class="widget chart-widget large-widget zone-a">
+                <h3>Spend by Business Category</h3>
+                <canvas id="spendByCategoryChart"></canvas>
+            </div>
+
+            <div class="widget chart-widget zone-b">
+                <h3>Top 5 Suppliers by Spend</h3>
+                 <canvas id="topSuppliersChart"></canvas>
+            </div>
+
+             <div class="widget chart-widget zone-a">
+                <h3>Spend by Department</h3>
+                <canvas id="spendByDepartmentChart"></canvas>
+            </div>
+
+             <div class="widget chart-widget zone-b">
+                <h3>Tendered vs Direct Spend (%)</h3>
+                <canvas id="tenderedDirectChart"></canvas>
+            </div>
+
+            <div class="widget chart-widget large-widget zone-a">
+                <h3>Savings Achieved (vs Budget) Over Time</h3>
+                <canvas id="savingsChart"></canvas>
+            </div>
+
+        </section>
+    </main>
+    <script>
+        
+    </script>
+    <script type="module" src="http://vm-ottog.westeurope.cloudapp.azure.com:81/home/system/com/bms/scripts/07script.js"></script>
+</body>
+</html>

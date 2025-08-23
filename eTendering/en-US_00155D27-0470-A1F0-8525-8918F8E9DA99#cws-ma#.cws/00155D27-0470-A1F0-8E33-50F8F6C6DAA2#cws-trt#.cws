@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8E33-50F8F6C71AA2">
+	<DocumentID>00155D27-0470-A1F0-8E33-50F8F6C6DAA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8E33-50F8F6C6DAA2</Name>
+	<Description>SES Number</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-24T18:47:44.419</CreationDate>
+	<Notes/>
+	<Text>SES Number</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8E33-50F8F6C65AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

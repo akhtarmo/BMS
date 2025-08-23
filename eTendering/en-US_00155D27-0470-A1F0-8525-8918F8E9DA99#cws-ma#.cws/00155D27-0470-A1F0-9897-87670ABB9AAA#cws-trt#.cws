@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-9897-87670ABBDAAA">
+	<DocumentID>00155D27-0470-A1F0-9897-87670ABB9AAA</DocumentID>
+	<Name>00155D27-0470-A1F0-9897-87670ABB9AAA</Name>
+	<Description>Meter</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-07-16T16:01:54.583</CreationDate>
+	<Notes/>
+	<Text>Meter</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-9897-87670ABB1AAA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

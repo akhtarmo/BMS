@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-9891-8808ED9F5AAA">
+	<DocumentID>00155D27-0470-A1F0-9891-8808ED9F1AAA</DocumentID>
+	<Name>00155D27-0470-A1F0-9891-8808ED9F1AAA</Name>
+	<Description>Location Lookup</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-07-16T13:10:49.157</CreationDate>
+	<Notes/>
+	<Text>Location Lookup</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-9891-8808ED9E9AAA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

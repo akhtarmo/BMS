@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DE6-A10FB7D6DAA2">
+	<DocumentID>00155D27-0470-A1F0-8DE6-A10FB7D69AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DE6-A10FB7D69AA2</Name>
+	<Description>Tax YY Minus5</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T05:56:31.418</CreationDate>
+	<Notes/>
+	<Text>Tax YY Minus5</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DE6-A10FB7D61AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

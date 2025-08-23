@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-88C8-DBFF30171A9A">
+	<DocumentID>00155D27-0470-A1F0-88C8-DBFF3016DA9A</DocumentID>
+	<Name>00155D27-0470-A1F0-88C8-DBFF3016DA9A</Name>
+	<Description>tender40</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-27T05:29:28.386</CreationDate>
+	<Notes/>
+	<DefaultText>tender40</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-88C8-DBFF30175A9A"
+		/>
+	</Translations>
+</TextIdentifier>

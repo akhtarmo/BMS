@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DE5-8461F8889AA2">
+	<DocumentID>00155D27-0470-A1F0-8DE5-8461F8885AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DE5-8461F8885AA2</Name>
+	<Description>Man-hours committed to contract</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T05:34:55.898</CreationDate>
+	<Notes/>
+	<Text>Man-hours committed to contract</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DE5-8461F887DAA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>
