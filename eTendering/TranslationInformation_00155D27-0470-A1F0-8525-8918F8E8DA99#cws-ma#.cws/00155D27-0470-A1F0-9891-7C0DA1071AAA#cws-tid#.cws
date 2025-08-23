@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-9891-7C0DA1075AAA">
+	<DocumentID>00155D27-0470-A1F0-9891-7C0DA1071AAA</DocumentID>
+	<Name>00155D27-0470-A1F0-9891-7C0DA1071AAA</Name>
+	<Description>Location Name</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-07-16T13:10:49.143</CreationDate>
+	<Notes/>
+	<DefaultText>Location Name</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-9891-7C0DA1079AAA"
+		/>
+	</Translations>
+</TextIdentifier>

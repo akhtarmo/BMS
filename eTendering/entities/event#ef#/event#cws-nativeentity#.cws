@@ -4234,6 +4234,154 @@
 						/>
 					</Target>
 				</Relationship>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="00155D27-0470-A1F0-9894-E3EE750F5AAA">
+					<DocumentID>00155D27-0470-A1F0-9894-E3EE750F1AAA</DocumentID>
+					<Name>RelEventIsTriggeredFromAPR</Name>
+					<Description>RelEventIsTriggeredFromAPR</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-07-16T14:59:31.273</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>true</HasFK>
+					<MaxCardinality>1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>false</OwnsJoinTable>
+					<RelationshipType>ToPeer</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-852E-86EB2D525A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-9894-E3EE750CDAAA">
+							<DocumentID>00155D27-0470-A1F0-9894-E3EE750C9AAA</DocumentID>
+							<Name>00155D27-0470-A1F0-9894-E3EE750C9AAA</Name>
+							<Description>00155D27-0470-A1F0-9894-E3EE750C9AAA</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-07-16T14:59:31.272</CreationDate>
+							<Notes/>
+							<DeveloperText>relEvent is triggered from a PR</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-9894-E3EE750D1AAA"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<ForeignKeyProperties>
+						<uri
+							id="00155D27-0470-A1F0-9894-E3EE750E9AAA"
+						/>
+					</ForeignKeyProperties>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties>
+						<ReferringProperty
+							type="com.cordys.entity.core.structure.relationship.ReferringProperty"
+							RuntimeDocumentID="00155D27-0470-A1F0-9894-E3EE750EDAAA">
+							<DocumentID>00155D27-0470-A1F0-9894-E3EE750E9AAA</DocumentID>
+							<Name>RelEventIsTriggeredFromAPR_Id</Name>
+							<Description>RelEventIsTriggeredFromAPR_Id</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-07-16T14:59:31.273</CreationDate>
+							<Notes/>
+							<NameIsExternallyManaged>false</NameIsExternallyManaged>
+							<TargetProperty>
+								<uri
+									id="00155D27-0470-A1F0-9890-B9C4B0901AAA"
+								/>
+							</TargetProperty>
+						</ReferringProperty>
+					</ReferringProperties>
+					<Target>
+						<uri
+							id="00155D27-0470-A1F0-9890-B9C4B0989AAA"
+						/>
+					</Target>
+				</Relationship>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="00155D27-0470-A1F0-9F97-45FCB7C01AB0">
+					<DocumentID>00155D27-0470-A1F0-9F97-45FCB7BFDAB0</DocumentID>
+					<Name>RelEventHasEventLineItems</Name>
+					<Description>RelEventHasEventLineItems</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-08-21T07:11:44.152</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>false</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>false</OwnsJoinTable>
+					<RelationshipType>ToPeer</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-852E-86EB2D525A99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-9F97-45FCB7BD9AB0">
+							<DocumentID>00155D27-0470-A1F0-9F97-45FCB7BD5AB0</DocumentID>
+							<Name>00155D27-0470-A1F0-9F97-45FCB7BD5AB0</Name>
+							<Description>00155D27-0470-A1F0-9F97-45FCB7BD5AB0</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-08-21T07:11:44.15</CreationDate>
+							<Notes/>
+							<DeveloperText>rel Event Has Event Line Items</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-9F97-45FCB7BDDAB0"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<ForeignKeyProperties>
+						<uri
+							id="00155D27-0470-A1F0-9F97-45FCB7BF5AB0"
+						/>
+					</ForeignKeyProperties>
+					<Inverse>
+						<uri
+							id="00155D27-0470-A1F0-9F97-45FCB7C39AB0"
+						/>
+					</Inverse>
+					<Original/>
+					<ReferringProperties>
+						<ReferringProperty
+							type="com.cordys.entity.core.structure.relationship.ReferringProperty"
+							RuntimeDocumentID="00155D27-0470-A1F0-9F97-45FCB7BF9AB0">
+							<DocumentID>00155D27-0470-A1F0-9F97-45FCB7BF5AB0</DocumentID>
+							<Name>RelEventHasEventLineItems_Id</Name>
+							<Description>RelEventHasEventLineItems_Id</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-08-21T07:11:44.151</CreationDate>
+							<Notes/>
+							<NameIsExternallyManaged>false</NameIsExternallyManaged>
+							<TargetProperty>
+								<uri
+									id="00155D27-0470-A1F0-9F95-C347F7739AB0"
+								/>
+							</TargetProperty>
+						</ReferringProperty>
+					</ReferringProperties>
+					<Target>
+						<uri
+							id="00155D27-0470-A1F0-9F95-C347F77C1AB0"
+						/>
+					</Target>
+				</Relationship>
 			</Relationships>
 		</RelationshipBuildingBlock>
 		<DiscussionBuildingBlock

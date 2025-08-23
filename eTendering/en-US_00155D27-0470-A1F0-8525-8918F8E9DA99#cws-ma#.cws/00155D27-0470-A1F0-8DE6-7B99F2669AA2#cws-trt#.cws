@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DE6-7B99F266DAA2">
+	<DocumentID>00155D27-0470-A1F0-8DE6-7B99F2669AA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DE6-7B99F2669AA2</Name>
+	<Description>EO Income YY Minus2</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T05:56:31.425</CreationDate>
+	<Notes/>
+	<Text>EO Income YY Minus2</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DE6-7B99F2661AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

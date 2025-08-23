@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8E35-61E821BA1AA2">
+	<DocumentID>00155D27-0470-A1F0-8E35-61E821B9DAA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8E35-61E821B9DAA2</Name>
+	<Description>Dec</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-24T19:37:22.145</CreationDate>
+	<Notes/>
+	<DefaultText>Dec</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8E35-61E821BA5AA2"
+		/>
+	</Translations>
+</TextIdentifier>

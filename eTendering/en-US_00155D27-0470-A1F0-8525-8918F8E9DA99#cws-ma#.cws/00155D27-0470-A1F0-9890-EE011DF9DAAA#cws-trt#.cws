@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-9890-EE011DFA1AAA">
+	<DocumentID>00155D27-0470-A1F0-9890-EE011DF9DAAA</DocumentID>
+	<Name>00155D27-0470-A1F0-9890-EE011DF9DAAA</Name>
+	<Description>KPIs / SLAs</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-07-16T12:56:56.462</CreationDate>
+	<Notes/>
+	<Text>KPIs / SLAs</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-9890-EE011DF95AAA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,17 @@
+
+<MDMHubDataStore
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.mdm.MDMHubDataStore"
+	RuntimeDocumentID="00155D27-0470-A1F0-8C2D-038014B21A9B">
+	<DocumentID>00155D27-0470-A1F0-8C2D-038014B1DA9B</DocumentID>
+	<Name>Hub Data Store</Name>
+	<Description>Hub Data Store</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-14T11:21:55.882</CreationDate>
+	<Notes/>
+	<autoreceive>true</autoreceive>
+	<generateScriptOnly>false</generateScriptOnly>
+	<identity></identity>
+	<publisherSOAPNodeDN></publisherSOAPNodeDN>
+	<DataEntities/>
+</MDMHubDataStore>

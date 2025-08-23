@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-9FFE-B7F029355AB0">
+	<DocumentID>00155D27-0470-A1F0-9FFE-B7F029351AB0</DocumentID>
+	<Name>00155D27-0470-A1F0-9FFE-B7F029351AB0</Name>
+	<Description>relEvent Line Items has multiple supplier response</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-08-23T08:53:45.272</CreationDate>
+	<Notes/>
+	<DefaultText>relEvent Line Items has multiple supplier response</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-9FFE-B7F029359AB0"
+		/>
+	</Translations>
+</TextIdentifier>

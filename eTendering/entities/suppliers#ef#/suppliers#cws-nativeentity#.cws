@@ -2333,6 +2333,81 @@
 						/>
 					</TypeDefinition>
 				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00155D27-0470-A1F0-989B-571BACA9DAAA">
+					<DocumentID>00155D27-0470-A1F0-989B-571BACA99AAA</DocumentID>
+					<Name>PerfomanceScore</Name>
+					<Description>PerfomanceScore</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-07-16T17:51:46.671</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>Decimal</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-8553-7D2143E9DA99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-989B-571BACA75AAA">
+							<DocumentID>00155D27-0470-A1F0-989B-571BACA71AAA</DocumentID>
+							<Name>00155D27-0470-A1F0-989B-571BACA71AAA</Name>
+							<Description>00155D27-0470-A1F0-989B-571BACA71AAA</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-07-16T17:51:46.672</CreationDate>
+							<Notes/>
+							<DeveloperText>Perfomance Score</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-989B-571BACA79AAA"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<OwnedTypeDefinition>
+						<DecimalPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.number.DecimalPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00155D27-0470-A1F0-989B-571BACA3DAAA">
+							<DocumentID>00155D27-0470-A1F0-989B-571BACA39AAA</DocumentID>
+							<Name>00155D27-0470-A1F0-989B-571BACA39AAA</Name>
+							<Description>00155D27-0470-A1F0-989B-571BACA39AAA</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-07-16T17:51:46.672</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<DigitsLeftOfDecimal>10</DigitsLeftOfDecimal>
+							<DigitsRightOfDecimal>3</DigitsRightOfDecimal>
+							<Max></Max>
+							<Min></Min>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF8-E91C59E97F9D"
+								/>
+							</Type>
+						</DecimalPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00155D27-0470-A1F0-989B-571BACA39AAA"
+						/>
+					</TypeDefinition>
+				</Property>
 			</Properties>
 		</PropertyBuildingBlock>
 		<TitleBuildingBlock
@@ -2592,6 +2667,82 @@
 					<Target>
 						<uri
 							id="F8B156E1-0371-11E6-E9CB-0FBF3334DBBF"
+						/>
+					</Target>
+				</Relationship>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="00155D27-0470-A1F0-989A-F9154E469AAA">
+					<DocumentID>00155D27-0470-A1F0-989A-F9154E465AAA</DocumentID>
+					<Name>RelSupplierHasMultiplePerformanceRatings</Name>
+					<Description>RelSupplierHasMultiplePerformanceRatings</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-07-16T17:40:33.006</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>false</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>false</OwnsJoinTable>
+					<RelationshipType>ToPeer</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="00155D27-0470-A1F0-8557-BCB5A57DDA99"
+						/>
+					</BuildingBlock>
+					<DisplayName>
+						<TranslatableText
+							type="com.cordys.translation.TranslatableText"
+							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+							RuntimeDocumentID="00155D27-0470-A1F0-989A-F9154E441AAA">
+							<DocumentID>00155D27-0470-A1F0-989A-F9154E43DAAA</DocumentID>
+							<Name>00155D27-0470-A1F0-989A-F9154E43DAAA</Name>
+							<Description>00155D27-0470-A1F0-989A-F9154E43DAAA</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-07-16T17:40:33.006</CreationDate>
+							<Notes/>
+							<DeveloperText>rel Supplier has multiple Performance ratings</DeveloperText>
+							<Identifier>
+								<uri
+									id="00155D27-0470-A1F0-989A-F9154E445AAA"
+								/>
+							</Identifier>
+						</TranslatableText>
+					</DisplayName>
+					<ForeignKeyProperties>
+						<uri
+							id="00155D27-0470-A1F0-989A-F9154E45DAAA"
+						/>
+					</ForeignKeyProperties>
+					<Inverse>
+						<uri
+							id="00155D27-0470-A1F0-989A-AB350E21DAAA"
+						/>
+					</Inverse>
+					<Original/>
+					<ReferringProperties>
+						<ReferringProperty
+							type="com.cordys.entity.core.structure.relationship.ReferringProperty"
+							RuntimeDocumentID="00155D27-0470-A1F0-989A-F9154E461AAA">
+							<DocumentID>00155D27-0470-A1F0-989A-F9154E45DAAA</DocumentID>
+							<Name>RelSupplierHasMultiplePerformanceRatings_Id</Name>
+							<Description>RelSupplierHasMultiplePerformanceRatings_Id</Description>
+							<CreatedBy>PS Dev</CreatedBy>
+							<CreationDate>2025-07-16T17:40:33.006</CreationDate>
+							<Notes/>
+							<NameIsExternallyManaged>false</NameIsExternallyManaged>
+							<TargetProperty>
+								<uri
+									id="00155D27-0470-A1F0-989A-A0B8A808DAAA"
+								/>
+							</TargetProperty>
+						</ReferringProperty>
+					</ReferringProperties>
+					<Target>
+						<uri
+							id="00155D27-0470-A1F0-989A-49D9D7F35AAA"
 						/>
 					</Target>
 				</Relationship>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DEC-34F47DA61AA2">
+	<DocumentID>00155D27-0470-A1F0-8DEC-34F47DA5DAA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DEC-34F47DA5DAA2</Name>
+	<Description>Total Share Equity YY Minus1</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T08:36:28.8</CreationDate>
+	<Notes/>
+	<DefaultText>Total Share Equity YY Minus1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-8DEC-34F47DA65AA2"
+		/>
+	</Translations>
+</TextIdentifier>

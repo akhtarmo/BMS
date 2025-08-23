@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-8DE6-36ACE0211AA2">
+	<DocumentID>00155D27-0470-A1F0-8DE6-36ACE020DAA2</DocumentID>
+	<Name>00155D27-0470-A1F0-8DE6-36ACE020DAA2</Name>
+	<Description>Other Income YY Minus4</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-05-23T05:51:56.274</CreationDate>
+	<Notes/>
+	<Text>Other Income YY Minus4</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-8DE6-36ACE0205AA2"
+		/>
+	</TextIdentifier>
+</TranslatedText>

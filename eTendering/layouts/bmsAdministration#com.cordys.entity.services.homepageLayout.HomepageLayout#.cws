@@ -11,7 +11,7 @@
 	<CreationDate>2025-04-20T21:21:19.238</CreationDate>
 	<Notes/>
 	<AllowUpdateSecurityViaAdmin>false</AllowUpdateSecurityViaAdmin>
-	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8788-2D63B43A1A99&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;6b3c74210cdd9ed4a9ea493f957a9c23&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;tabs&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;5d1149c9cf9dfab91bcf3cd3324c4e9e&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;88eeed9d10a6b131edd7cc19dca67211&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;256d6d442e16a87f730b951c6bd6ef4c&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;114fdcb0ed6d130e3ee51bf42a56d8f4&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;64f876e3982c31a0b153e607b0fd9677&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;606d27cd26fe7a71c667847ae9b285c1&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;22a06f867e5f56a0c3bf0d720bc59d70&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;7f10efff8c61317a9b3792d9e44d3bca&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;ed53e5fdd88788b9d7c735f000b1993c&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;f70379f2aa637f0386b5d38d2449a4fb&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;3466be86f5302d6b200542b5b3185769&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;9b9d7312b42923efc60fbb0987c4a3a3&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;10a0897802f40dd455f1aa273e932213&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00155D27-0470-A1F0-8788-2D63B43A1A99&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;6b3c74210cdd9ed4a9ea493f957a9c23&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;tabs&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;5d1149c9cf9dfab91bcf3cd3324c4e9e&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;88eeed9d10a6b131edd7cc19dca67211&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;256d6d442e16a87f730b951c6bd6ef4c&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;114fdcb0ed6d130e3ee51bf42a56d8f4&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;64f876e3982c31a0b153e607b0fd9677&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;606d27cd26fe7a71c667847ae9b285c1&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;22a06f867e5f56a0c3bf0d720bc59d70&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;7f10efff8c61317a9b3792d9e44d3bca&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;ed53e5fdd88788b9d7c735f000b1993c&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;f70379f2aa637f0386b5d38d2449a4fb&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;3466be86f5302d6b200542b5b3185769&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;9b9d7312b42923efc60fbb0987c4a3a3&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;10a0897802f40dd455f1aa273e932213&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;eb90b3003bb873b30d4df3303c8326e3&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;43b1d77558ad7ae5ab6e3a7ce8a88545&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;f0e1cf33b2007b27622f17823b52b5f2&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;675f88f9ce9dfa2ed33075c0295948f2&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;f37926125a0138e24ee839a749ec65b7&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;eb8f2d0ff72b7129dbe1df8119a6a2f4&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;3080a362dd27287fcfd1f1572e6291a4&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;5d6bcef75d384137c0de0f03355984fb&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
 	<HelpURL></HelpURL>
 	<HideCreateAction>true</HideCreateAction>
 	<IncludeInCreate>false</IncludeInCreate>
@@ -557,6 +557,202 @@
 			<XFormAssociation/>
 			<filterCriteria/>
 		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AB41AAA">
+			<DocumentID>00155D27-0470-A1F0-9897-87670AB3DAAA</DocumentID>
+			<Name>Results6</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T16:06:33.996</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;eb90b3003bb873b30d4df3303c8326e3&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Items</DisplayName>
+			<ModelerId>eb90b3003bb873b30d4df3303c8326e3</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AB39AAA">
+					<DocumentID>00155D27-0470-A1F0-9897-87670AB35AAA</DocumentID>
+					<Name>00155D27-0470-A1F0-9897-87670AB35AAA</Name>
+					<Description>00155D27-0470-A1F0-9897-87670AB35AAA</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-07-16T16:06:33.996</CreationDate>
+					<Notes/>
+					<DeveloperText>Items</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-9892-7DBAF32ADAAA"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0470-A1F0-9897-87670AB2DAAA"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AB29AAA">
+			<DocumentID>00155D27-0470-A1F0-9897-87670AB25AAA</DocumentID>
+			<Name>Results7</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T16:06:33.997</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;f0e1cf33b2007b27622f17823b52b5f2&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Service Category</DisplayName>
+			<ModelerId>f0e1cf33b2007b27622f17823b52b5f2</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AB05AAA">
+					<DocumentID>00155D27-0470-A1F0-9897-87670AB01AAA</DocumentID>
+					<Name>00155D27-0470-A1F0-9897-87670AB01AAA</Name>
+					<Description>00155D27-0470-A1F0-9897-87670AB01AAA</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-07-16T16:07:24.769</CreationDate>
+					<Notes/>
+					<DeveloperText>Service Category</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-9890-EE011E065AAA"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0470-A1F0-9897-87670AB1DAAA"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AAEDAAA">
+			<DocumentID>00155D27-0470-A1F0-9897-87670AAE9AAA</DocumentID>
+			<Name>Results8</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T16:08:06.615</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;f37926125a0138e24ee839a749ec65b7&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Locations</DisplayName>
+			<ModelerId>f37926125a0138e24ee839a749ec65b7</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AAE5AAA">
+					<DocumentID>00155D27-0470-A1F0-9897-87670AAE1AAA</DocumentID>
+					<Name>00155D27-0470-A1F0-9897-87670AAE1AAA</Name>
+					<Description>00155D27-0470-A1F0-9897-87670AAE1AAA</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-07-16T16:08:06.614</CreationDate>
+					<Notes/>
+					<DeveloperText>Locations</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-9891-9704E58CDAAA"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0470-A1F0-9897-87670AAD9AAA"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			RuntimeDocumentID="00155D27-0470-A1F0-9899-25C6508B9AAA">
+			<DocumentID>00155D27-0470-A1F0-9899-25C6508B5AAA</DocumentID>
+			<Name>Results9</Name>
+			<Description/>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T17:13:55.959</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;3080a362dd27287fcfd1f1572e6291a4&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Purchase Requisitions</DisplayName>
+			<ModelerId>3080a362dd27287fcfd1f1572e6291a4</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="00155D27-0470-A1F0-9899-25C650899AAA">
+					<DocumentID>00155D27-0470-A1F0-9899-25C650895AAA</DocumentID>
+					<Name>00155D27-0470-A1F0-9899-25C650895AAA</Name>
+					<Description>00155D27-0470-A1F0-9899-25C650895AAA</Description>
+					<CreatedBy>PS Dev</CreatedBy>
+					<CreationDate>2025-07-16T17:13:55.959</CreationDate>
+					<Notes/>
+					<DeveloperText>Purchase Requisitions</DeveloperText>
+					<Identifier>
+						<uri
+							id="00155D27-0470-A1F0-9899-25C65089DAAA"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="00155D27-0470-A1F0-9899-25C65088DAAA"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>
 	<SecurityDescriptor/>
@@ -660,6 +856,74 @@
 			<Worklist>
 				<uri
 					id="00155D27-0470-A1F0-852C-551FCA80DA99"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AB31AAA">
+			<DocumentID>00155D27-0470-A1F0-9897-87670AB2DAAA</DocumentID>
+			<Name>Results6_SelectedWorklist</Name>
+			<Description>Items</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T16:06:33.997</CreationDate>
+			<Notes/>
+			<DisplayName>Items</DisplayName>
+			<ModelerId>9a3c3c3f4e05b8902a9b335bdb753ec8</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0470-A1F0-9892-7DBAF332DAAA"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AB21AAA">
+			<DocumentID>00155D27-0470-A1F0-9897-87670AB1DAAA</DocumentID>
+			<Name>Results7_SelectedWorklist</Name>
+			<Description>Service Category</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T16:06:33.997</CreationDate>
+			<Notes/>
+			<DisplayName>Service Category</DisplayName>
+			<ModelerId>3c7848395484329b35269be9e1d8b94b</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0470-A1F0-9892-AF2BA0839AAA"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0470-A1F0-9897-87670AADDAAA">
+			<DocumentID>00155D27-0470-A1F0-9897-87670AAD9AAA</DocumentID>
+			<Name>Results8_SelectedWorklist</Name>
+			<Description>Locations</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T16:08:06.615</CreationDate>
+			<Notes/>
+			<DisplayName>Locations</DisplayName>
+			<ModelerId>bc5e5a969836df287e87fa7647fc6190</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0470-A1F0-9891-8808EDA61AAA"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="00155D27-0470-A1F0-9899-25C650891AAA">
+			<DocumentID>00155D27-0470-A1F0-9899-25C65088DAAA</DocumentID>
+			<Name>Results9_SelectedWorklist</Name>
+			<Description>Purchase Requisition</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T17:13:55.958</CreationDate>
+			<Notes/>
+			<DisplayName>Purchase Requisition</DisplayName>
+			<ModelerId>63d01ea91c358cad94850f3a9997b1d7</ModelerId>
+			<Worklist>
+				<uri
+					id="00155D27-0470-A1F0-9890-FE6BE97A1AAA"
 				/>
 			</Worklist>
 		</WorklistAssociation>

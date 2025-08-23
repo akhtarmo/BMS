@@ -91,7 +91,38 @@
 		</ChartViewConfiguration>
 	</ChartViewConfigurations>
 	<ConditionalCountCriteria/>
-	<CreatableAssociations/>
+	<CreatableAssociations>
+		<CreatableAssociation
+			type="com.cordys.entity.buildingblocks.worklist.CreatableAssociation"
+			RuntimeDocumentID="00155D27-0470-A1F0-9899-25C650861AAA">
+			<DocumentID>00155D27-0470-A1F0-9899-25C65085DAAA</DocumentID>
+			<Name>form00155D270470A1F0989925C65085DAAA</Name>
+			<Description>00155D27-0470-A1F0-8553-8D9CDA5C1A99</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T17:20:53.39</CreationDate>
+			<Notes/>
+			<Creatable>
+				<uri
+					id="00155D27-0470-A1F0-8553-8D9CDA5C1A99"
+				/>
+			</Creatable>
+		</CreatableAssociation>
+		<CreatableAssociation
+			type="com.cordys.entity.buildingblocks.worklist.CreatableAssociation"
+			RuntimeDocumentID="00155D27-0470-A1F0-9899-25C650855AAA">
+			<DocumentID>00155D27-0470-A1F0-9899-25C650851AAA</DocumentID>
+			<Name>form00155D270470A1F0989925C650851AAA</Name>
+			<Description>00155D27-0470-A1F0-9899-25C65084DAAA</Description>
+			<CreatedBy>PS Dev</CreatedBy>
+			<CreationDate>2025-07-16T17:20:53.39</CreationDate>
+			<Notes/>
+			<Creatable>
+				<uri
+					id="00155D27-0470-A1F0-9899-25C65084DAAA"
+				/>
+			</Creatable>
+		</CreatableAssociation>
+	</CreatableAssociations>
 	<DisplayName>
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"

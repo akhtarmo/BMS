@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00155D27-0470-A1F0-887E-97A2D1C7DA9A">
+	<DocumentID>00155D27-0470-A1F0-887E-97A2D1C79A9A</DocumentID>
+	<Name>00155D27-0470-A1F0-887E-97A2D1C79A9A</Name>
+	<Description>test reusable panel</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-04-25T18:20:31.911</CreationDate>
+	<Notes/>
+	<Text>test reusable panel</Text>
+	<Language>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E95A99"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00155D27-0470-A1F0-887E-97A2D1C71A9A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-989A-AB350E265AAA">
+	<DocumentID>00155D27-0470-A1F0-989A-AB350E261AAA</DocumentID>
+	<Name>00155D27-0470-A1F0-989A-AB350E261AAA</Name>
+	<Description>Unsatisfactory</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-07-16T17:37:08.21</CreationDate>
+	<Notes/>
+	<DefaultText>Unsatisfactory</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-989A-AB350E269AAA"
+		/>
+	</Translations>
+</TextIdentifier>

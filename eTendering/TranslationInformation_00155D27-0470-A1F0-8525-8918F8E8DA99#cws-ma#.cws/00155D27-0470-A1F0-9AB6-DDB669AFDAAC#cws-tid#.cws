@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00155D27-0470-A1F0-9AB6-DDB669B01AAC">
+	<DocumentID>00155D27-0470-A1F0-9AB6-DDB669AFDAAC</DocumentID>
+	<Name>00155D27-0470-A1F0-9AB6-DDB669AFDAAC</Name>
+	<Description>rel Line Item is associated to a PR</Description>
+	<CreatedBy>PS Dev</CreatedBy>
+	<CreationDate>2025-07-27T11:25:17.509</CreationDate>
+	<Notes/>
+	<DefaultText>rel Line Item is associated to a PR</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00155D27-0470-A1F0-8525-8918F8E79A99"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00155D27-0470-A1F0-9AB6-DDB669B05AAC"
+		/>
+	</Translations>
+</TextIdentifier>
